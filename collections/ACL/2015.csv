@@ -1,0 +1,364 @@
+title,keywords,group,link,pdf
+Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (Volume 1- Long Papers),,,https://aclanthology.org/P15-1000/,https://aclanthology.org/P15-1000.pdf
+On Using Very Large Target Vocabulary for Neural Machine Translation,,,https://aclanthology.org/P15-1001/,https://aclanthology.org/P15-1001.pdf
+Addressing the Rare Word Problem in Neural Machine Translation,,,https://aclanthology.org/P15-1002/,https://aclanthology.org/P15-1002.pdf
+Encoding Source Language with Convolutional Neural Network for Machine Translation,,,https://aclanthology.org/P15-1003/,https://aclanthology.org/P15-1003.pdf
+Statistical Machine Translation Features with Multitask Tensor Networks,,,https://aclanthology.org/P15-1004/,https://aclanthology.org/P15-1004.pdf
+Describing Images using Inferred Visual Dependency Representations,,,https://aclanthology.org/P15-1005/,https://aclanthology.org/P15-1005.pdf
+Text to 3D Scene Generation with Rich Lexical Grounding,,,https://aclanthology.org/P15-1006/,https://aclanthology.org/P15-1006.pdf
+MultiGranCNN- An Architecture for General Matching of Text Chunks on Multiple Levels of Granularity,,,https://aclanthology.org/P15-1007/,https://aclanthology.org/P15-1007.pdf
+Weakly Supervised Models of Aspect-Sentiment for Online Course Discussion Forums,,,https://aclanthology.org/P15-1008/,https://aclanthology.org/P15-1008.pdf
+Semantically Smooth Knowledge Graph Embedding,,,https://aclanthology.org/P15-1009/,https://aclanthology.org/P15-1009.pdf
+SensEmbed- Learning Sense Embeddings for Word and Relational Similarity,,,https://aclanthology.org/P15-1010/,https://aclanthology.org/P15-1010.pdf
+Revisiting Word Embedding for Contrasting Meaning,,,https://aclanthology.org/P15-1011/,https://aclanthology.org/P15-1011.pdf
+Joint Models of Disagreement and Stance in Online Debate,,,https://aclanthology.org/P15-1012/,https://aclanthology.org/P15-1012.pdf
+Low-Rank Regularization for Sparse Conjunctive Feature Spaces- An Application to Named Entity Classification,,,https://aclanthology.org/P15-1013/,https://aclanthology.org/P15-1013.pdf
+Learning Word Representations by Jointly Modeling Syntagmatic and Paradigmatic Relations,,,https://aclanthology.org/P15-1014/,https://aclanthology.org/P15-1014.pdf
+Learning Dynamic Feature Selection for Fast Sequential Prediction,,,https://aclanthology.org/P15-1015/,https://aclanthology.org/P15-1015.pdf
+Compositional Vector Space Models for Knowledge Base Completion,,,https://aclanthology.org/P15-1016/,https://aclanthology.org/P15-1016.pdf
+Event Extraction via Dynamic Multi-Pooling Convolutional Neural Networks,,,https://aclanthology.org/P15-1017/,https://aclanthology.org/P15-1017.pdf
+Stacked Ensembles of Information Extractors for Knowledge-Base Population,,,https://aclanthology.org/P15-1018/,https://aclanthology.org/P15-1018.pdf
+Generative Event Schema Induction with Entity Disambiguation,,,https://aclanthology.org/P15-1019/,https://aclanthology.org/P15-1019.pdf
+Syntax-based Simultaneous Translation through Prediction of Unseen Syntactic Constituents,,,https://aclanthology.org/P15-1020/,https://aclanthology.org/P15-1020.pdf
+Efficient Top-Down BTG Parsing for Machine Translation Preordering,,,https://aclanthology.org/P15-1021/,https://aclanthology.org/P15-1021.pdf
+Online Multitask Learning for Machine Translation Quality Estimation,,,https://aclanthology.org/P15-1022/,https://aclanthology.org/P15-1022.pdf
+A Context-Aware Topic Model for Statistical Machine Translation,,,https://aclanthology.org/P15-1023/,https://aclanthology.org/P15-1023.pdf
+Learning Answer-Entailing Structures for Machine Comprehension,,,https://aclanthology.org/P15-1024/,https://aclanthology.org/P15-1024.pdf
+Learning Continuous Word Embedding with Metadata for Question Retrieval in Community Question Answering,,,https://aclanthology.org/P15-1025/,https://aclanthology.org/P15-1025.pdf
+Question Answering over Freebase with Multi-Column Convolutional Neural Networks,,,https://aclanthology.org/P15-1026/,https://aclanthology.org/P15-1026.pdf
+Hubness and Pollution- Delving into Cross-Space Mapping for Zero-Shot Learning,,,https://aclanthology.org/P15-1027/,https://aclanthology.org/P15-1027.pdf
+A Generalisation of Lexical Functions for Composition in Distributional Semantics,,,https://aclanthology.org/P15-1028/,https://aclanthology.org/P15-1028.pdf
+Simple Learning and Compositional Application of Perceptually Grounded Word Meanings for Incremental Reference Resolution,,,https://aclanthology.org/P15-1029/,https://aclanthology.org/P15-1029.pdf
+Neural CRF Parsing,,,https://aclanthology.org/P15-1030/,https://aclanthology.org/P15-1030.pdf
+An Effective Neural Network Model for Graph-based Dependency Parsing,,,https://aclanthology.org/P15-1031/,https://aclanthology.org/P15-1031.pdf
+Structured Training for Neural Network Transition-Based Parsing,,,https://aclanthology.org/P15-1032/,https://aclanthology.org/P15-1032.pdf
+Transition-Based Dependency Parsing with Stack Long Short-Term Memory,,,https://aclanthology.org/P15-1033/,https://aclanthology.org/P15-1033.pdf
+Leveraging Linguistic Structure For Open Domain Information Extraction,,,https://aclanthology.org/P15-1034/,https://aclanthology.org/P15-1034.pdf
+Joint Information Extraction and Reasoning- A Scalable Statistical Relational Learning Approach,,,https://aclanthology.org/P15-1035/,https://aclanthology.org/P15-1035.pdf
+A Knowledge-Intensive Model for Prepositional Phrase Attachment,,,https://aclanthology.org/P15-1036/,https://aclanthology.org/P15-1036.pdf
+A Convolution Kernel Approach to Identifying Comparisons in Text,,,https://aclanthology.org/P15-1037/,https://aclanthology.org/P15-1037.pdf
+It Depends- Dependency Parser Comparison Using A Web-based Evaluation Tool,,,https://aclanthology.org/P15-1038/,https://aclanthology.org/P15-1038.pdf
+Generating High Quality Proposition Banks for Multilingual Semantic Role Labeling,,,https://aclanthology.org/P15-1039/,https://aclanthology.org/P15-1039.pdf
+Aligning Opinions- Cross-Lingual Opinion Mining with Dependencies,,,https://aclanthology.org/P15-1040/,https://aclanthology.org/P15-1040.pdf
+Learning to Adapt Credible Knowledge in Cross-lingual Sentiment Analysis,,,https://aclanthology.org/P15-1041/,https://aclanthology.org/P15-1041.pdf
+Learning Bilingual Sentiment Word Embeddings for Cross-language Sentiment Classification,,,https://aclanthology.org/P15-1042/,https://aclanthology.org/P15-1042.pdf
+Content Models for Survey Generation- A Factoid-Based Evaluation,,,https://aclanthology.org/P15-1043/,https://aclanthology.org/P15-1043.pdf
+Training a Natural Language Generator From Unaligned Data,,,https://aclanthology.org/P15-1044/,https://aclanthology.org/P15-1044.pdf
+Event-Driven Headline Generation,,,https://aclanthology.org/P15-1045/,https://aclanthology.org/P15-1045.pdf
+New Transfer Learning Techniques for Disparate Label Sets,,,https://aclanthology.org/P15-1046/,https://aclanthology.org/P15-1046.pdf
+Matrix Factorization with Knowledge Graph Propagation for Unsupervised Spoken Language Understanding,,,https://aclanthology.org/P15-1047/,https://aclanthology.org/P15-1047.pdf
+Efficient Disfluency Detection with Transition-based Parsing,,,https://aclanthology.org/P15-1048/,https://aclanthology.org/P15-1048.pdf
+S-MART- Novel Tree-based Structured Learning Algorithms Applied to Tweet Entity Linking,,,https://aclanthology.org/P15-1049/,https://aclanthology.org/P15-1049.pdf
+Entity Retrieval via Entity Factoid Hierarchy,,,https://aclanthology.org/P15-1050/,https://aclanthology.org/P15-1050.pdf
+Encoding Distributional Semantics into Triple-Based Knowledge Ranking for Document Enrichment,,,https://aclanthology.org/P15-1051/,https://aclanthology.org/P15-1051.pdf
+A Strategic Reasoning Model for Generating Alternative Answers,,,https://aclanthology.org/P15-1052/,https://aclanthology.org/P15-1052.pdf
+Modeling Argument Strength in Student Essays,,,https://aclanthology.org/P15-1053/,https://aclanthology.org/P15-1053.pdf
+Summarization of Multi-Document Topic Hierarchies using Submodular Mixtures,,,https://aclanthology.org/P15-1054/,https://aclanthology.org/P15-1054.pdf
+Learning to Explain Entity Relationships in Knowledge Graphs,,,https://aclanthology.org/P15-1055/,https://aclanthology.org/P15-1055.pdf
+Bring you to the past- Automatic Generation of Topically Relevant Event Chronicles,,,https://aclanthology.org/P15-1056/,https://aclanthology.org/P15-1056.pdf
+Context-aware Entity Morph Decoding,,,https://aclanthology.org/P15-1057/,https://aclanthology.org/P15-1057.pdf
+Multi-Objective Optimization for the Joint Disambiguation of Nouns and Named Entities,,,https://aclanthology.org/P15-1058/,https://aclanthology.org/P15-1058.pdf
+Building a Scientific Concept Hierarchy Database (SCHBase),,,https://aclanthology.org/P15-1059/,https://aclanthology.org/P15-1059.pdf
+Sentiment-Aspect Extraction based on Restricted Boltzmann Machines,,,https://aclanthology.org/P15-1060/,https://aclanthology.org/P15-1060.pdf
+Classifying Relations by Ranking with Convolutional Neural Networks,,,https://aclanthology.org/P15-1061/,https://aclanthology.org/P15-1061.pdf
+Semantic Representations for Domain Adaptation- A Case Study on the Tree Kernel-based Method for Relation Extraction,,,https://aclanthology.org/P15-1062/,https://aclanthology.org/P15-1062.pdf
+"Omnia Mutantur, Nihil Interit- Connecting Past with Present by Finding Corresponding Terms across Time",,,https://aclanthology.org/P15-1063/,https://aclanthology.org/P15-1063.pdf
+Negation and Speculation Identification in Chinese Language,,,https://aclanthology.org/P15-1064/,https://aclanthology.org/P15-1064.pdf
+Learning Relational Features with Backward Random Walks,,,https://aclanthology.org/P15-1065/,https://aclanthology.org/P15-1065.pdf
+Learning the Semantics of Manipulation Action,,,https://aclanthology.org/P15-1066/,https://aclanthology.org/P15-1066.pdf
+Knowledge Graph Embedding via Dynamic Mapping Matrix,,,https://aclanthology.org/P15-1067/,https://aclanthology.org/P15-1067.pdf
+How Far are We from Fully Automatic High Quality Grammatical Error Correction-,,,https://aclanthology.org/P15-1068/,https://aclanthology.org/P15-1068.pdf
+Knowledge Portability with Semantic Expansion of Ontology Labels,,,https://aclanthology.org/P15-1069/,https://aclanthology.org/P15-1069.pdf
+Automatic disambiguation of English puns,,,https://aclanthology.org/P15-1070/,https://aclanthology.org/P15-1070.pdf
+Unsupervised Cross-Domain Word Representation Learning,,,https://aclanthology.org/P15-1071/,https://aclanthology.org/P15-1071.pdf
+A Unified Multilingual Semantic Representation of Concepts,,,https://aclanthology.org/P15-1072/,https://aclanthology.org/P15-1072.pdf
+Demographic Factors Improve Classification Performance,,,https://aclanthology.org/P15-1073/,https://aclanthology.org/P15-1073.pdf
+Vector-space calculation of semantic surprisal for predicting word pronunciation duration,,,https://aclanthology.org/P15-1074/,https://aclanthology.org/P15-1074.pdf
+Efficient Methods for Inferring Large Sparse Topic Hierarchies,,,https://aclanthology.org/P15-1075/,https://aclanthology.org/P15-1075.pdf
+Trans-dimensional Random Fields for Language Modeling,,,https://aclanthology.org/P15-1076/,https://aclanthology.org/P15-1076.pdf
+Gaussian LDA for Topic Models with Word Embeddings,,,https://aclanthology.org/P15-1077/,https://aclanthology.org/P15-1077.pdf
+Pairwise Neural Machine Translation Evaluation,,,https://aclanthology.org/P15-1078/,https://aclanthology.org/P15-1078.pdf
+String-to-Tree Multi Bottom-up Tree Transducers,,,https://aclanthology.org/P15-1079/,https://aclanthology.org/P15-1079.pdf
+Non-linear Learning for Statistical Machine Translation,,,https://aclanthology.org/P15-1080/,https://aclanthology.org/P15-1080.pdf
+Unifying Bayesian Inference and Vector Space Models for Improved Decipherment,,,https://aclanthology.org/P15-1081/,https://aclanthology.org/P15-1081.pdf
+Non-projective Dependency-based Pre-Reordering with Recurrent Neural Network for Machine Translation,,,https://aclanthology.org/P15-1082/,https://aclanthology.org/P15-1082.pdf
+Detecting Deceptive Groups Using Conversations and Network Analysis,,,https://aclanthology.org/P15-1083/,https://aclanthology.org/P15-1083.pdf
+WikiKreator- Improving Wikipedia Stubs Automatically,,,https://aclanthology.org/P15-1084/,https://aclanthology.org/P15-1084.pdf
+Language to Code- Learning Semantic Parsers for If-This-Then-That Recipes,,,https://aclanthology.org/P15-1085/,https://aclanthology.org/P15-1085.pdf
+Deep Questions without Deep Understanding,,,https://aclanthology.org/P15-1086/,https://aclanthology.org/P15-1086.pdf
+The NL2KR Platform for building Natural Language Translation Systems,,,https://aclanthology.org/P15-1087/,https://aclanthology.org/P15-1087.pdf
+Multiple Many-to-Many Sequence Alignment for Combining String-Valued Variables- A G2P Experiment,,,https://aclanthology.org/P15-1088/,https://aclanthology.org/P15-1088.pdf
+Tweet Normalization with Syllables,,,https://aclanthology.org/P15-1089/,https://aclanthology.org/P15-1089.pdf
+Improving Named Entity Recognition in Tweets via Detecting Non-Standard Words,,,https://aclanthology.org/P15-1090/,https://aclanthology.org/P15-1090.pdf
+A Unified Kernel Approach for Learning Typed Sentence Rewritings,,,https://aclanthology.org/P15-1091/,https://aclanthology.org/P15-1091.pdf
+Perceptually Grounded Selectional Preferences,,,https://aclanthology.org/P15-1092/,https://aclanthology.org/P15-1092.pdf
+Joint Case Argument Identification for Japanese Predicate Argument Structure Analysis,,,https://aclanthology.org/P15-1093/,https://aclanthology.org/P15-1093.pdf
+Jointly optimizing word representations for lexical and sentential tasks with the C-PHRASE model,,,https://aclanthology.org/P15-1094/,https://aclanthology.org/P15-1094.pdf
+Robust Subgraph Generation Improves Abstract Meaning Representation Parsing,,,https://aclanthology.org/P15-1095/,https://aclanthology.org/P15-1095.pdf
+Environment-Driven Lexicon Induction for High-Level Instructions,,,https://aclanthology.org/P15-1096/,https://aclanthology.org/P15-1096.pdf
+Structural Representations for Learning Relations between Pairs of Texts,,,https://aclanthology.org/P15-1097/,https://aclanthology.org/P15-1097.pdf
+Learning Semantic Representations of Users and Products for Document Level Sentiment Classification,,,https://aclanthology.org/P15-1098/,https://aclanthology.org/P15-1098.pdf
+Towards Debugging Sentiment Lexicons,,,https://aclanthology.org/P15-1099/,https://aclanthology.org/P15-1099.pdf
+"Sparse, Contextually Informed Models for Irony Detection- Exploiting User Communities, Entities and Sentiment",,,https://aclanthology.org/P15-1100/,https://aclanthology.org/P15-1100.pdf
+Sentence-level Emotion Classification with Label and Context Dependence,,,https://aclanthology.org/P15-1101/,https://aclanthology.org/P15-1101.pdf
+Co-training for Semi-supervised Sentiment Classification Based on Dual-view Bags-of-words Representation,,,https://aclanthology.org/P15-1102/,https://aclanthology.org/P15-1102.pdf
+Improving social relationships in face-to-face human-agent interactions- when the agent wants to know user’s likes and dislikes,,,https://aclanthology.org/P15-1103/,https://aclanthology.org/P15-1103.pdf
+Learning Word Representations from Scarce and Noisy Data with Embedding Subspaces,,,https://aclanthology.org/P15-1104/,https://aclanthology.org/P15-1104.pdf
+Automatic Spontaneous Speech Grading- A Novel Feature Derivation Technique using the Crowd,,,https://aclanthology.org/P15-1105/,https://aclanthology.org/P15-1105.pdf
+Driving ROVER with Segment-based ASR Quality Estimation,,,https://aclanthology.org/P15-1106/,https://aclanthology.org/P15-1106.pdf
+A Hierarchical Neural Autoencoder for Paragraphs and Documents,,,https://aclanthology.org/P15-1107/,https://aclanthology.org/P15-1107.pdf
+Joint Dependency Parsing and Multiword Expression Tokenization,,,https://aclanthology.org/P15-1108/,https://aclanthology.org/P15-1108.pdf
+End-to-end learning of semantic role labeling using recurrent neural networks,,,https://aclanthology.org/P15-1109/,https://aclanthology.org/P15-1109.pdf
+Feature Optimization for Constituent Parsing via Neural Networks,,,https://aclanthology.org/P15-1110/,https://aclanthology.org/P15-1110.pdf
+Identifying Cascading Errors using Constraints in Dependency Parsing,,,https://aclanthology.org/P15-1111/,https://aclanthology.org/P15-1111.pdf
+A Re-ranking Model for Dependency Parser with Recursive Convolutional Neural Network,,,https://aclanthology.org/P15-1112/,https://aclanthology.org/P15-1112.pdf
+Transition-based Neural Constituent Parsing,,,https://aclanthology.org/P15-1113/,https://aclanthology.org/P15-1113.pdf
+Feature Selection in Kernel Space- A Case Study on Dependency Parsing,,,https://aclanthology.org/P15-1114/,https://aclanthology.org/P15-1114.pdf
+Semantic Role Labeling Improves Incremental Parsing,,,https://aclanthology.org/P15-1115/,https://aclanthology.org/P15-1115.pdf
+Discontinuous Incremental Shift-reduce Parsing,,,https://aclanthology.org/P15-1116/,https://aclanthology.org/P15-1116.pdf
+A Neural Probabilistic Structured-Prediction Model for Transition-Based Dependency Parsing,,,https://aclanthology.org/P15-1117/,https://aclanthology.org/P15-1117.pdf
+Parsing Paraphrases with Joint Inference,,,https://aclanthology.org/P15-1118/,https://aclanthology.org/P15-1118.pdf
+Cross-lingual Dependency Parsing Based on Distributed Representations,,,https://aclanthology.org/P15-1119/,https://aclanthology.org/P15-1119.pdf
+Can Natural Language Processing Become Natural Language Coaching-,,,https://aclanthology.org/P15-1120/,https://aclanthology.org/P15-1120.pdf
+Machine Comprehension with Discourse Relations,,,https://aclanthology.org/P15-1121/,https://aclanthology.org/P15-1121.pdf
+Implicit Role Linking on Chinese Discourse- Exploiting Explicit Roles and Frame-to-Frame Relations,,,https://aclanthology.org/P15-1122/,https://aclanthology.org/P15-1122.pdf
+Discourse-sensitive Automatic Identification of Generic Expressions,,,https://aclanthology.org/P15-1123/,https://aclanthology.org/P15-1123.pdf
+Model-based Word Embeddings from Decompositions of Count Matrices,,,https://aclanthology.org/P15-1124/,https://aclanthology.org/P15-1124.pdf
+Entity Hierarchy Embedding,,,https://aclanthology.org/P15-1125/,https://aclanthology.org/P15-1125.pdf
+Orthogonality of Syntax and Semantics within Distributional Spaces,,,https://aclanthology.org/P15-1126/,https://aclanthology.org/P15-1126.pdf
+Scalable Semantic Parsing with Partial Ontologies,,,https://aclanthology.org/P15-1127/,https://aclanthology.org/P15-1127.pdf
+Semantic Parsing via Staged Query Graph Generation- Question Answering with Knowledge Base,,,https://aclanthology.org/P15-1128/,https://aclanthology.org/P15-1128.pdf
+Building a Semantic Parser Overnight,,,https://aclanthology.org/P15-1129/,https://aclanthology.org/P15-1129.pdf
+Predicting Polarities of Tweets by Composing Word Embeddings with Long Short-Term Memory,,,https://aclanthology.org/P15-1130/,https://aclanthology.org/P15-1130.pdf
+Topic Modeling based Sentiment Analysis on Social Media for Stock Market Prediction,,,https://aclanthology.org/P15-1131/,https://aclanthology.org/P15-1131.pdf
+Learning Tag Embeddings and Tag-specific Composition Functions in Recursive Neural Network,,,https://aclanthology.org/P15-1132/,https://aclanthology.org/P15-1132.pdf
+A convex and feature-rich discriminative approach to dependency grammar induction,,,https://aclanthology.org/P15-1133/,https://aclanthology.org/P15-1133.pdf
+Parse Imputation for Dependency Annotations,,,https://aclanthology.org/P15-1134/,https://aclanthology.org/P15-1134.pdf
+Probing the Linguistic Strengths and Limitations of Unsupervised Grammar Induction,,,https://aclanthology.org/P15-1135/,https://aclanthology.org/P15-1135.pdf
+Entity-Centric Coreference Resolution with Model Stacking,,,https://aclanthology.org/P15-1136/,https://aclanthology.org/P15-1136.pdf
+Learning Anaphoricity and Antecedent Ranking Features for Coreference Resolution,,,https://aclanthology.org/P15-1137/,https://aclanthology.org/P15-1137.pdf
+Transferring Coreference Resolvers with Posterior Regularization,,,https://aclanthology.org/P15-1138/,https://aclanthology.org/P15-1138.pdf
+Tea Party in the House- A Hierarchical Ideal Point Topic Model and Its Application to Republican Legislators in the 112th Congress,,,https://aclanthology.org/P15-1139/,https://aclanthology.org/P15-1139.pdf
+"KB-LDA- Jointly Learning a Knowledge Base of Hierarchy, Relations, and Facts",,,https://aclanthology.org/P15-1140/,https://aclanthology.org/P15-1140.pdf
+A Computationally Efficient Algorithm for Learning Topical Collocation Models,,,https://aclanthology.org/P15-1141/,https://aclanthology.org/P15-1141.pdf
+Compositional Semantic Parsing on Semi-Structured Tables,,,https://aclanthology.org/P15-1142/,https://aclanthology.org/P15-1142.pdf
+Graph parsing with s-graph grammars,,,https://aclanthology.org/P15-1143/,https://aclanthology.org/P15-1143.pdf
+Sparse Overcomplete Word Vector Representations,,,https://aclanthology.org/P15-1144/,https://aclanthology.org/P15-1144.pdf
+Learning Semantic Word Embeddings based on Ordinal Knowledge Constraints,,,https://aclanthology.org/P15-1145/,https://aclanthology.org/P15-1145.pdf
+Adding Semantics to Data-Driven Paraphrasing,,,https://aclanthology.org/P15-1146/,https://aclanthology.org/P15-1146.pdf
+Parsing as Reduction,,,https://aclanthology.org/P15-1147/,https://aclanthology.org/P15-1147.pdf
+Optimal Shift-Reduce Constituent Parsing with Structured Perceptron,,,https://aclanthology.org/P15-1148/,https://aclanthology.org/P15-1148.pdf
+"A Data-Driven, Factorization Parser for CCG Dependency Structures",,,https://aclanthology.org/P15-1149/,https://aclanthology.org/P15-1149.pdf
+Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks,,,https://aclanthology.org/P15-1150/,https://aclanthology.org/P15-1150.pdf
+genCNN- A Convolutional Architecture for Word Sequence Prediction,,,https://aclanthology.org/P15-1151/,https://aclanthology.org/P15-1151.pdf
+Neural Responding Machine for Short-Text Conversation,,,https://aclanthology.org/P15-1152/,https://aclanthology.org/P15-1152.pdf
+Abstractive Multi-Document Summarization via Phrase Selection and Merging,,,https://aclanthology.org/P15-1153/,https://aclanthology.org/P15-1153.pdf
+Joint Graphical Models for Date Selection in Timeline Summarization,,,https://aclanthology.org/P15-1154/,https://aclanthology.org/P15-1154.pdf
+Predicting Salient Updates for Disaster Summarization,,,https://aclanthology.org/P15-1155/,https://aclanthology.org/P15-1155.pdf
+Unsupervised Prediction of Acceptability Judgements,,,https://aclanthology.org/P15-1156/,https://aclanthology.org/P15-1156.pdf
+A Frame of Mind- Using Statistical Models for Detection of Framing and Agenda Setting Campaigns,,,https://aclanthology.org/P15-1157/,https://aclanthology.org/P15-1157.pdf
+Why discourse affects speakers’ choice of referring expressions,,,https://aclanthology.org/P15-1158/,https://aclanthology.org/P15-1158.pdf
+Linguistic Harbingers of Betrayal- A Case Study on an Online Strategy Game,,,https://aclanthology.org/P15-1159/,https://aclanthology.org/P15-1159.pdf
+Who caught a cold - - Identifying the subject of a symptom,,,https://aclanthology.org/P15-1160/,https://aclanthology.org/P15-1160.pdf
+Weakly Supervised Role Identification in Teamwork Interactions,,,https://aclanthology.org/P15-1161/,https://aclanthology.org/P15-1161.pdf
+Deep Unordered Composition Rivals Syntactic Methods for Text Classification,,,https://aclanthology.org/P15-1162/,https://aclanthology.org/P15-1162.pdf
+SOLAR- Scalable Online Learning Algorithms for Ranking,,,https://aclanthology.org/P15-1163/,https://aclanthology.org/P15-1163.pdf
+Text Categorization as a Graph Classification Problem,,,https://aclanthology.org/P15-1164/,https://aclanthology.org/P15-1164.pdf
+Inverted indexing for cross-lingual NLP,,,https://aclanthology.org/P15-1165/,https://aclanthology.org/P15-1165.pdf
+Multi-Task Learning for Multiple Language Translation,,,https://aclanthology.org/P15-1166/,https://aclanthology.org/P15-1166.pdf
+Accurate Linear-Time Chinese Word Segmentation via Embedding Matching,,,https://aclanthology.org/P15-1167/,https://aclanthology.org/P15-1167.pdf
+Gated Recursive Neural Network for Chinese Word Segmentation,,,https://aclanthology.org/P15-1168/,https://aclanthology.org/P15-1168.pdf
+An analysis of the user occupational class through Twitter content,,,https://aclanthology.org/P15-1169/,https://aclanthology.org/P15-1169.pdf
+Tracking unbounded Topic Streams,,,https://aclanthology.org/P15-1170/,https://aclanthology.org/P15-1170.pdf
+Inducing Word and Part-of-Speech with Pitman-Yor Hidden Semi-Markov Models,,,https://aclanthology.org/P15-1171/,https://aclanthology.org/P15-1171.pdf
+Coupled Sequence Labeling on Heterogeneous Annotations- POS Tagging as a Case Study,,,https://aclanthology.org/P15-1172/,https://aclanthology.org/P15-1172.pdf
+AutoExtend- Extending Word Embeddings to Embeddings for Synsets and Lexemes,,,https://aclanthology.org/P15-1173/,https://aclanthology.org/P15-1173.pdf
+Improving Evaluation of Machine Translation Quality Estimation,,,https://aclanthology.org/P15-1174/,https://aclanthology.org/P15-1174.pdf
+Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (Volume 2- Short Papers),,,https://aclanthology.org/P15-2000/,https://aclanthology.org/P15-2000.pdf
+A Framework for the Construction of Monolingual and Cross-lingual Word Similarity Datasets,,,https://aclanthology.org/P15-2001/,https://aclanthology.org/P15-2001.pdf
+On metric embedding for boosting semantic similarity computations,,,https://aclanthology.org/P15-2002/,https://aclanthology.org/P15-2002.pdf
+Improving Distributed Representation of Word Sense via WordNet Gloss Composition and Context Clustering,,,https://aclanthology.org/P15-2003/,https://aclanthology.org/P15-2003.pdf
+A Multitask Objective to Inject Lexical Contrast into Distributional Semantics,,,https://aclanthology.org/P15-2004/,https://aclanthology.org/P15-2004.pdf
+Semi-Stacking for Semi-supervised Sentiment Classification,,,https://aclanthology.org/P15-2005/,https://aclanthology.org/P15-2005.pdf
+Deep Markov Neural Network for Sequential Data Classification,,,https://aclanthology.org/P15-2006/,https://aclanthology.org/P15-2006.pdf
+Semantic Analysis and Helpfulness Prediction of Text for Online Product Reviews,,,https://aclanthology.org/P15-2007/,https://aclanthology.org/P15-2007.pdf
+Document Classification by Inversion of Distributed Language Representations,,,https://aclanthology.org/P15-2008/,https://aclanthology.org/P15-2008.pdf
+Using Tweets to Help Sentence Compression for News Highlights Generation,,,https://aclanthology.org/P15-2009/,https://aclanthology.org/P15-2009.pdf
+Domain-Specific Paraphrase Extraction,,,https://aclanthology.org/P15-2010/,https://aclanthology.org/P15-2010.pdf
+Simplifying Lexical Simplification- Do We Need Simplified Corpora-,,,https://aclanthology.org/P15-2011/,https://aclanthology.org/P15-2011.pdf
+Zoom- a corpus of natural language descriptions of map locations,,,https://aclanthology.org/P15-2012/,https://aclanthology.org/P15-2012.pdf
+Generating overspecified referring expressions- the role of discrimination,,,https://aclanthology.org/P15-2013/,https://aclanthology.org/P15-2013.pdf
+Using prosodic annotations to improve coreference resolution of spoken text,,,https://aclanthology.org/P15-2014/,https://aclanthology.org/P15-2014.pdf
+Spectral Semi-Supervised Discourse Relation Classification,,,https://aclanthology.org/P15-2015/,https://aclanthology.org/P15-2015.pdf
+I do not disagree- leveraging monolingual alignment to detect disagreement in dialogue,,,https://aclanthology.org/P15-2016/,https://aclanthology.org/P15-2016.pdf
+Language Models for Image Captioning- The Quirks and What Works,,,https://aclanthology.org/P15-2017/,https://aclanthology.org/P15-2017.pdf
+A Distributed Representation Based Query Expansion Approach for Image Captioning,,,https://aclanthology.org/P15-2018/,https://aclanthology.org/P15-2018.pdf
+Learning language through pictures,,,https://aclanthology.org/P15-2019/,https://aclanthology.org/P15-2019.pdf
+Exploiting Image Generality for Lexical Entailment Detection,,,https://aclanthology.org/P15-2020/,https://aclanthology.org/P15-2020.pdf
+Lexicon Stratification for Translating Out-of-Vocabulary Words,,,https://aclanthology.org/P15-2021/,https://aclanthology.org/P15-2021.pdf
+Recurrent Neural Network based Rule Sequence Model for Statistical Machine Translation,,,https://aclanthology.org/P15-2022/,https://aclanthology.org/P15-2022.pdf
+Discriminative Preordering Meets Kendall’s 𝜏 Maximization,,,https://aclanthology.org/P15-2023/,https://aclanthology.org/P15-2023.pdf
+Evaluating Machine Translation Systems with Second Language Proficiency Tests,,,https://aclanthology.org/P15-2024/,https://aclanthology.org/P15-2024.pdf
+Representation Based Translation Evaluation Metrics,,,https://aclanthology.org/P15-2025/,https://aclanthology.org/P15-2025.pdf
+Exploring the Planet of the APEs- a Comparative Study of State-of-the-art Methods for MT Automatic Post-Editing,,,https://aclanthology.org/P15-2026/,https://aclanthology.org/P15-2026.pdf
+Efficient Learning for Undirected Topic Models,,,https://aclanthology.org/P15-2027/,https://aclanthology.org/P15-2027.pdf
+A Hassle-Free Unsupervised Domain Adaptation Method Using Instance Similarity Features,,,https://aclanthology.org/P15-2028/,https://aclanthology.org/P15-2028.pdf
+Dependency-based Convolutional Neural Networks for Sentence Embedding,,,https://aclanthology.org/P15-2029/,https://aclanthology.org/P15-2029.pdf
+Non-Linear Text Regression with a Deep Convolutional Neural Network,,,https://aclanthology.org/P15-2030/,https://aclanthology.org/P15-2030.pdf
+A Unified Learning Framework of Skip-Grams and Global Vectors,,,https://aclanthology.org/P15-2031/,https://aclanthology.org/P15-2031.pdf
+Pre-training of Hidden-Unit CRFs,,,https://aclanthology.org/P15-2032/,https://aclanthology.org/P15-2032.pdf
+Distributional Neural Networks for Automatic Resolution of Crossword Puzzles,,,https://aclanthology.org/P15-2033/,https://aclanthology.org/P15-2033.pdf
+Word Order Typology through Multilingual Word Alignment,,,https://aclanthology.org/P15-2034/,https://aclanthology.org/P15-2034.pdf
+Measuring idiosyncratic interests in children with autism,,,https://aclanthology.org/P15-2035/,https://aclanthology.org/P15-2035.pdf
+Frame-Semantic Role Labeling with Heterogeneous Annotations,,,https://aclanthology.org/P15-2036/,https://aclanthology.org/P15-2036.pdf
+Semantic Interpretation of Superlative Expressions via Structured Knowledge Bases,,,https://aclanthology.org/P15-2037/,https://aclanthology.org/P15-2037.pdf
+Grounding Semantics in Olfactory Perception,,,https://aclanthology.org/P15-2038/,https://aclanthology.org/P15-2038.pdf
+Word-based Japanese typed dependency parsing with grammatical function analysis,,,https://aclanthology.org/P15-2039/,https://aclanthology.org/P15-2039.pdf
+KLcpos3 - a Language Similarity Measure for Delexicalized Parser Transfer,,,https://aclanthology.org/P15-2040/,https://aclanthology.org/P15-2040.pdf
+CCG Supertagging with a Recurrent Neural Network,,,https://aclanthology.org/P15-2041/,https://aclanthology.org/P15-2041.pdf
+An Efficient Dynamic Oracle for Unrestricted Non-Projective Parsing,,,https://aclanthology.org/P15-2042/,https://aclanthology.org/P15-2042.pdf
+Synthetic Word Parsing Improves Chinese Word Segmentation,,,https://aclanthology.org/P15-2043/,https://aclanthology.org/P15-2043.pdf
+If all you have is a bit of the Bible- Learning POS taggers for truly low-resource languages,,,https://aclanthology.org/P15-2044/,https://aclanthology.org/P15-2044.pdf
+Improving distant supervision using inference learning,,,https://aclanthology.org/P15-2045/,https://aclanthology.org/P15-2045.pdf
+A Lexicalized Tree Kernel for Open Information Extraction,,,https://aclanthology.org/P15-2046/,https://aclanthology.org/P15-2046.pdf
+A Dependency-Based Neural Network for Relation Classification,,,https://aclanthology.org/P15-2047/,https://aclanthology.org/P15-2047.pdf
+Embedding Methods for Fine Grained Entity Type Classification,,,https://aclanthology.org/P15-2048/,https://aclanthology.org/P15-2048.pdf
+Sieve-Based Entity Linking for the Biomedical Domain,,,https://aclanthology.org/P15-2049/,https://aclanthology.org/P15-2049.pdf
+Open IE as an Intermediate Structure for Semantic Tasks,,,https://aclanthology.org/P15-2050/,https://aclanthology.org/P15-2050.pdf
+Recovering dropped pronouns from Chinese text messages,,,https://aclanthology.org/P15-2051/,https://aclanthology.org/P15-2051.pdf
+The Users Who Say ‘Ni’- Audience Identification in Chinese-language Restaurant Reviews,,,https://aclanthology.org/P15-2052/,https://aclanthology.org/P15-2052.pdf
+Chinese Zero Pronoun Resolution- A Joint Unsupervised Discourse-Aware Model Rivaling State-of-the-Art Resolvers,,,https://aclanthology.org/P15-2053/,https://aclanthology.org/P15-2053.pdf
+Co-Simmate- Quick Retrieving All Pairwise Co-Simrank Scores,,,https://aclanthology.org/P15-2054/,https://aclanthology.org/P15-2054.pdf
+Retrieval of Research-level Mathematical Information Needs- A Test Collection and Technical Terminology Experiment,,,https://aclanthology.org/P15-2055/,https://aclanthology.org/P15-2055.pdf
+Learning to Mine Query Subtopics from Query Log,,,https://aclanthology.org/P15-2056/,https://aclanthology.org/P15-2056.pdf
+Learning Topic Hierarchies for Wikipedia Categories,,,https://aclanthology.org/P15-2057/,https://aclanthology.org/P15-2057.pdf
+Semantic Clustering and Convolutional Neural Network for Short Text Categorization,,,https://aclanthology.org/P15-2058/,https://aclanthology.org/P15-2058.pdf
+Document Level Time-anchoring for TimeLine Extraction,,,https://aclanthology.org/P15-2059/,https://aclanthology.org/P15-2059.pdf
+Event Detection and Domain Adaptation with Convolutional Neural Networks,,,https://aclanthology.org/P15-2060/,https://aclanthology.org/P15-2060.pdf
+Seed-Based Event Trigger Labeling- How far can event descriptions get us-,,,https://aclanthology.org/P15-2061/,https://aclanthology.org/P15-2061.pdf
+An Empirical Study of Chinese Name Matching and Applications,,,https://aclanthology.org/P15-2062/,https://aclanthology.org/P15-2062.pdf
+Language Identification and Modeling in Specialized Hardware,,,https://aclanthology.org/P15-2063/,https://aclanthology.org/P15-2063.pdf
+Cross-lingual Transfer of Named Entity Recognizers without Parallel Corpora,,,https://aclanthology.org/P15-2064/,https://aclanthology.org/P15-2064.pdf
+Robust Multi-Relational Clustering via ℓ1-Norm Symmetric Nonnegative Matrix Factorization,,,https://aclanthology.org/P15-2065/,https://aclanthology.org/P15-2065.pdf
+Painless Labeling with Application to Text Mining,,,https://aclanthology.org/P15-2066/,https://aclanthology.org/P15-2066.pdf
+FrameNet+- Fast Paraphrastic Tripling of FrameNet,,,https://aclanthology.org/P15-2067/,https://aclanthology.org/P15-2067.pdf
+IWNLP- Inverse Wiktionary for Natural Language Processing,,,https://aclanthology.org/P15-2068/,https://aclanthology.org/P15-2068.pdf
+TR9856- A Multi-word Term Relatedness Benchmark,,,https://aclanthology.org/P15-2069/,https://aclanthology.org/P15-2069.pdf
+"PPDB 2.0- Better paraphrase ranking, fine-grained entailment relations, word embeddings, and style classification",,,https://aclanthology.org/P15-2070/,https://aclanthology.org/P15-2070.pdf
+Automatic Discrimination between Cognates and Borrowings,,,https://aclanthology.org/P15-2071/,https://aclanthology.org/P15-2071.pdf
+The Media Frames Corpus- Annotations of Frames Across Issues,,,https://aclanthology.org/P15-2072/,https://aclanthology.org/P15-2072.pdf
+deltaBLEU- A Discriminative Metric for Generation Tasks with Intrinsically Diverse Targets,,,https://aclanthology.org/P15-2073/,https://aclanthology.org/P15-2073.pdf
+Tibetan Unknown Word Identification from News Corpora for Supporting Lexicon-based Tibetan Word Segmentation,,,https://aclanthology.org/P15-2074/,https://aclanthology.org/P15-2074.pdf
+Learning Lexical Embeddings with Syntactic and Lexicographic Knowledge,,,https://aclanthology.org/P15-2075/,https://aclanthology.org/P15-2075.pdf
+Non-distributional Word Vector Representations,,,https://aclanthology.org/P15-2076/,https://aclanthology.org/P15-2076.pdf
+Early and Late Combinations of Criteria for Reranking Distributional Thesauri,,,https://aclanthology.org/P15-2077/,https://aclanthology.org/P15-2077.pdf
+Dependency length minimisation effects in short spans- a large-scale analysis of adjective placement in complex noun phrases,,,https://aclanthology.org/P15-2078/,https://aclanthology.org/P15-2078.pdf
+Tagging Performance Correlates with Author Age,,,https://aclanthology.org/P15-2079/,https://aclanthology.org/P15-2079.pdf
+User Based Aggregation for Biterm Topic Model,,,https://aclanthology.org/P15-2080/,https://aclanthology.org/P15-2080.pdf
+The Fixed-Size Ordinally-Forgetting Encoding Method for Neural Network Language Models,,,https://aclanthology.org/P15-2081/,https://aclanthology.org/P15-2081.pdf
+Unsupervised Decomposition of a Multi-Author Document Based on Naive-Bayesian Model,,,https://aclanthology.org/P15-2082/,https://aclanthology.org/P15-2082.pdf
+Extended Topic Model for Word Dependency,,,https://aclanthology.org/P15-2083/,https://aclanthology.org/P15-2083.pdf
+Dependency Recurrent Neural Language Models for Sentence Completion,,,https://aclanthology.org/P15-2084/,https://aclanthology.org/P15-2084.pdf
+Point Process Modelling of Rumour Dynamics in Social Media,,,https://aclanthology.org/P15-2085/,https://aclanthology.org/P15-2085.pdf
+Learning Hidden Markov Models with Distributed State Representations for Domain Adaptation,,,https://aclanthology.org/P15-2086/,https://aclanthology.org/P15-2086.pdf
+MT Quality Estimation for Computer-assisted Translation- Does it Really Help-,,,https://aclanthology.org/P15-2087/,https://aclanthology.org/P15-2087.pdf
+Context-Dependent Translation Selection Using Convolutional Neural Network,,,https://aclanthology.org/P15-2088/,https://aclanthology.org/P15-2088.pdf
+Learning Word Reorderings for Hierarchical Phrase-based Statistical Machine Translation,,,https://aclanthology.org/P15-2089/,https://aclanthology.org/P15-2089.pdf
+UNRAVEL—A Decipherment Toolkit,,,https://aclanthology.org/P15-2090/,https://aclanthology.org/P15-2090.pdf
+Multi-Pass Decoding With Complex Feature Guidance for Statistical Machine Translation,,,https://aclanthology.org/P15-2091/,https://aclanthology.org/P15-2091.pdf
+What’s in a Domain- Analyzing Genre and Topic Differences in Statistical Machine Translation,,,https://aclanthology.org/P15-2092/,https://aclanthology.org/P15-2092.pdf
+Learning Cross-lingual Word Embeddings via Matrix Co-factorization,,,https://aclanthology.org/P15-2093/,https://aclanthology.org/P15-2093.pdf
+Improving Pivot Translation by Remembering the Pivot,,,https://aclanthology.org/P15-2094/,https://aclanthology.org/P15-2094.pdf
+BrailleSUM- A News Summarization System for the Blind and Visually Impaired People,,,https://aclanthology.org/P15-2095/,https://aclanthology.org/P15-2095.pdf
+Automatic Identification of Age-Appropriate Ratings of Song Lyrics,,,https://aclanthology.org/P15-2096/,https://aclanthology.org/P15-2096.pdf
+Ground Truth for Grammatical Error Correction Metrics,,,https://aclanthology.org/P15-2097/,https://aclanthology.org/P15-2097.pdf
+Radical Embedding- Delving Deeper to Chinese Radicals,,,https://aclanthology.org/P15-2098/,https://aclanthology.org/P15-2098.pdf
+Automatic Detection of Sentence Fragments,,,https://aclanthology.org/P15-2099/,https://aclanthology.org/P15-2099.pdf
+A Computational Approach to Automatic Prediction of Drunk-Texting,,,https://aclanthology.org/P15-2100/,https://aclanthology.org/P15-2100.pdf
+Reducing infrequent-token perplexity via variational corpora,,,https://aclanthology.org/P15-2101/,https://aclanthology.org/P15-2101.pdf
+A Hierarchical Knowledge Representation for Expert Finding on Social Media,,,https://aclanthology.org/P15-2102/,https://aclanthology.org/P15-2102.pdf
+"Tackling Sparsity, the Achilles Heel of Social Networks- Language Model Smoothing via Social Regularization",,,https://aclanthology.org/P15-2103/,https://aclanthology.org/P15-2103.pdf
+Twitter User Geolocation Using a Unified Text and Network Prediction Model,,,https://aclanthology.org/P15-2104/,https://aclanthology.org/P15-2104.pdf
+Automatic Keyword Extraction on Twitter,,,https://aclanthology.org/P15-2105/,https://aclanthology.org/P15-2105.pdf
+Towards a Contextual Pragmatic Model to Detect Irony in Tweets,,,https://aclanthology.org/P15-2106/,https://aclanthology.org/P15-2106.pdf
+Annotation and Classification of an Email Importance Corpus,,,https://aclanthology.org/P15-2107/,https://aclanthology.org/P15-2107.pdf
+Lexical Comparison Between Wikipedia and Twitter Corpora by Using Word Embeddings,,,https://aclanthology.org/P15-2108/,https://aclanthology.org/P15-2108.pdf
+The Discovery of Natural Typing Annotations- User-produced Potential Chinese Word Delimiters,,,https://aclanthology.org/P15-2109/,https://aclanthology.org/P15-2109.pdf
+One Tense per Scene- Predicting Tense in Chinese Conversations,,,https://aclanthology.org/P15-2110/,https://aclanthology.org/P15-2110.pdf
+A Language-Independent Feature Schema for Inflectional Morphology,,,https://aclanthology.org/P15-2111/,https://aclanthology.org/P15-2111.pdf
+Rhetoric Map of an Answer to Compound Queries,,,https://aclanthology.org/P15-2112/,https://aclanthology.org/P15-2112.pdf
+Thread-Level Information for Comment Classification in Community Question Answering,,,https://aclanthology.org/P15-2113/,https://aclanthology.org/P15-2113.pdf
+Learning Hybrid Representations to Retrieve Semantically Equivalent Questions,,,https://aclanthology.org/P15-2114/,https://aclanthology.org/P15-2114.pdf
+"Machine Comprehension with Syntax, Frames, and Semantics",,,https://aclanthology.org/P15-2115/,https://aclanthology.org/P15-2115.pdf
+A Long Short-Term Memory Model for Answer Sentence Selection in Question Answering,,,https://aclanthology.org/P15-2116/,https://aclanthology.org/P15-2116.pdf
+Answer Sequence Learning with Neural Networks for Answer Selection in Community Question Answering,,,https://aclanthology.org/P15-2117/,https://aclanthology.org/P15-2117.pdf
+Bilingual Word Embeddings from Non-Parallel Document-Aligned Data Applied to Bilingual Lexicon Induction,,,https://aclanthology.org/P15-2118/,https://aclanthology.org/P15-2118.pdf
+How Well Do Distributional Models Capture Different Types of Semantic Knowledge-,,,https://aclanthology.org/P15-2119/,https://aclanthology.org/P15-2119.pdf
+Low-Rank Tensors for Verbs in Compositional Distributional Semantics,,,https://aclanthology.org/P15-2120/,https://aclanthology.org/P15-2120.pdf
+Constrained Semantic Forests for Improved Discriminative Semantic Parsing,,,https://aclanthology.org/P15-2121/,https://aclanthology.org/P15-2121.pdf
+Automatic Identification of Rhetorical Questions,,,https://aclanthology.org/P15-2122/,https://aclanthology.org/P15-2122.pdf
+Lifelong Learning for Sentiment Classification,,,https://aclanthology.org/P15-2123/,https://aclanthology.org/P15-2123.pdf
+Harnessing Context Incongruity for Sarcasm Detection,,,https://aclanthology.org/P15-2124/,https://aclanthology.org/P15-2124.pdf
+Emotion Detection in Code-switching Texts via Bilingual and Sentimental Information,,,https://aclanthology.org/P15-2125/,https://aclanthology.org/P15-2125.pdf
+Model Adaptation for Personalized Opinion Analysis,,,https://aclanthology.org/P15-2126/,https://aclanthology.org/P15-2126.pdf
+Linguistic Template Extraction for Recognizing Reader-Emotion and Emotional Resonance Writing Assistance,,,https://aclanthology.org/P15-2127/,https://aclanthology.org/P15-2127.pdf
+Aspect-Level Cross-lingual Sentiment Classification with Constrained SMT,,,https://aclanthology.org/P15-2128/,https://aclanthology.org/P15-2128.pdf
+Predicting Valence-Arousal Ratings of Words Using a Weighted Graph Method,,,https://aclanthology.org/P15-2129/,https://aclanthology.org/P15-2129.pdf
+Multi-domain Dialog State Tracking using Recurrent Neural Networks,,,https://aclanthology.org/P15-2130/,https://aclanthology.org/P15-2130.pdf
+Dialogue Management based on Sentence Clustering,,,https://aclanthology.org/P15-2131/,https://aclanthology.org/P15-2131.pdf
+Compact Lexicon Selection with Spectral Methods,,,https://aclanthology.org/P15-2132/,https://aclanthology.org/P15-2132.pdf
+The Impact of Listener Gaze on Predicting Reference Resolution,,,https://aclanthology.org/P15-2133/,https://aclanthology.org/P15-2133.pdf
+A Simultaneous Recognition Framework for the Spoken Language Understanding Module of Intelligent Personal Assistant Software on Smart Phones,,,https://aclanthology.org/P15-2134/,https://aclanthology.org/P15-2134.pdf
+A Deeper Exploration of the Standard PB-SMT Approach to Text Simplification and its Evaluation,,,https://aclanthology.org/P15-2135/,https://aclanthology.org/P15-2135.pdf
+Learning Summary Prior Representation for Extractive Summarization,,,https://aclanthology.org/P15-2136/,https://aclanthology.org/P15-2136.pdf
+A Methodology for Evaluating Timeline Generation Algorithms based on Deep Semantic Units,,,https://aclanthology.org/P15-2137/,https://aclanthology.org/P15-2137.pdf
+Unsupervised extractive summarization via coverage maximization with syntactic and semantic concepts,,,https://aclanthology.org/P15-2138/,https://aclanthology.org/P15-2138.pdf
+Low Resource Dependency Parsing- Cross-lingual Parameter Sharing in a Neural Network Parser,,,https://aclanthology.org/P15-2139/,https://aclanthology.org/P15-2139.pdf
+Semantic Structure Analysis of Noun Phrases using Abstract Meaning Representation,,,https://aclanthology.org/P15-2140/,https://aclanthology.org/P15-2140.pdf
+Boosting Transition-based AMR Parsing with Refined Actions and Auxiliary Analyzers,,,https://aclanthology.org/P15-2141/,https://aclanthology.org/P15-2141.pdf
+Generative Incremental Dependency Parsing with Neural Networks,,,https://aclanthology.org/P15-2142/,https://aclanthology.org/P15-2142.pdf
+Labeled Grammar Induction with Minimal Supervision,,,https://aclanthology.org/P15-2143/,https://aclanthology.org/P15-2143.pdf
+On the Importance of Ezafe Construction in Persian Parsing,,,https://aclanthology.org/P15-2144/,https://aclanthology.org/P15-2144.pdf
+Proceedings of the ACL-IJCNLP 2015 Student Research Workshop,,,https://aclanthology.org/P15-3000/,https://aclanthology.org/P15-3000.pdf
+Unsupervised Learning and Modeling of Knowledge and Intent for Spoken Dialogue Systems,,,https://aclanthology.org/P15-3001/,https://aclanthology.org/P15-3001.pdf
+Leveraging Compounds to Improve Noun Phrase Translation from Chinese and German,,,https://aclanthology.org/P15-3002/,https://aclanthology.org/P15-3002.pdf
+Learning Representations for Text-level Discourse Parsing,,,https://aclanthology.org/P15-3003/,https://aclanthology.org/P15-3003.pdf
+Transition-based Dependency DAG Parsing Using Dynamic Oracles,,,https://aclanthology.org/P15-3004/,https://aclanthology.org/P15-3004.pdf
+Disease Event Detection based on Deep Modality Analysis,,,https://aclanthology.org/P15-3005/,https://aclanthology.org/P15-3005.pdf
+Evaluation Dataset and System for Japanese Lexical Simplification,,,https://aclanthology.org/P15-3006/,https://aclanthology.org/P15-3006.pdf
+Learning to Map Dependency Parses to Abstract Meaning Representations,,,https://aclanthology.org/P15-3007/,https://aclanthology.org/P15-3007.pdf
+Proceedings of ACL-IJCNLP 2015 System Demonstrations,,,https://aclanthology.org/P15-4000/,https://aclanthology.org/P15-4000.pdf
+A System Demonstration of a Framework for Computer Assisted Pronunciation Training,,,https://aclanthology.org/P15-4001/,https://aclanthology.org/P15-4001.pdf
+IMI — A Multilingual Semantic Annotation Environment,,,https://aclanthology.org/P15-4002/,https://aclanthology.org/P15-4002.pdf
+In-tool Learning for Selective Manual Annotation in Large Corpora,,,https://aclanthology.org/P15-4003/,https://aclanthology.org/P15-4003.pdf
+KeLP- a Kernel-based Learning Platform for Natural Language Processing,,,https://aclanthology.org/P15-4004/,https://aclanthology.org/P15-4004.pdf
+Multi-modal Visualization and Search for Text and Prosody Annotations,,,https://aclanthology.org/P15-4005/,https://aclanthology.org/P15-4005.pdf
+NEED4Tweet- A Twitterbot for Tweets Named Entity Extraction and Disambiguation,,,https://aclanthology.org/P15-4006/,https://aclanthology.org/P15-4006.pdf
+Visual Error Analysis for Entity Linking,,,https://aclanthology.org/P15-4007/,https://aclanthology.org/P15-4007.pdf
+A Web-based Collaborative Evaluation Tool for Automatically Learned Relation Extraction Patterns,,,https://aclanthology.org/P15-4008/,https://aclanthology.org/P15-4008.pdf
+A Dual-Layer Semantic Role Labeling System,,,https://aclanthology.org/P15-4009/,https://aclanthology.org/P15-4009.pdf
+A system for fine-grained aspect-based sentiment analysis of Chinese,,,https://aclanthology.org/P15-4010/,https://aclanthology.org/P15-4010.pdf
+Plug Latent Structures and Play Coreference Resolution,,,https://aclanthology.org/P15-4011/,https://aclanthology.org/P15-4011.pdf
+SCHNÄPPER- A Web Toolkit for Exploratory Relation Extraction,,,https://aclanthology.org/P15-4012/,https://aclanthology.org/P15-4012.pdf
+OMWEdit - The Integrated Open Multilingual Wordnet Editing System,,,https://aclanthology.org/P15-4013/,https://aclanthology.org/P15-4013.pdf
+SACRY- Syntax-based Automatic Crossword puzzle Resolution sYstem,,,https://aclanthology.org/P15-4014/,https://aclanthology.org/P15-4014.pdf
+LEXenstein- A Framework for Lexical Simplification,,,https://aclanthology.org/P15-4015/,https://aclanthology.org/P15-4015.pdf
+Sharing annotations better- RESTful Open Annotation,,,https://aclanthology.org/P15-4016/,https://aclanthology.org/P15-4016.pdf
+A Data Sharing and Annotation Service Infrastructure,,,https://aclanthology.org/P15-4017/,https://aclanthology.org/P15-4017.pdf
+JoBimViz- A Web-based Visualization for Graph-based Distributional Semantic Models,,,https://aclanthology.org/P15-4018/,https://aclanthology.org/P15-4018.pdf
+End-to-end Argument Generation System in Debating,,,https://aclanthology.org/P15-4019/,https://aclanthology.org/P15-4019.pdf
+Multi-level Translation Quality Prediction with QuEst++,,,https://aclanthology.org/P15-4020/,https://aclanthology.org/P15-4020.pdf
+WA-Continuum- Visualising Word Alignments across Multiple Parallel Sentences Simultaneously,,,https://aclanthology.org/P15-4021/,https://aclanthology.org/P15-4021.pdf
+A Domain-independent Rule-based Framework for Event Extraction,,,https://aclanthology.org/P15-4022/,https://aclanthology.org/P15-4022.pdf
+Storybase- Towards Building a Knowledge Base for News Events,,,https://aclanthology.org/P15-4023/,https://aclanthology.org/P15-4023.pdf
+WriteAhead- Mining Grammar Patterns in Corpora for Assisted Writing,,,https://aclanthology.org/P15-4024/,https://aclanthology.org/P15-4024.pdf
+NiuParser- A Chinese Syntactic and Semantic Parsing Toolkit,,,https://aclanthology.org/P15-4025/,https://aclanthology.org/P15-4025.pdf
+Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing- Tutorial Abstracts,,,https://aclanthology.org/P15-5000/,https://aclanthology.org/P15-5000.pdf
+Successful Data Mining Methods for NLP,,,https://aclanthology.org/P15-5001/,https://aclanthology.org/P15-5001.pdf
+Structured Belief Propagation for NLP,,,https://aclanthology.org/P15-5002/,https://aclanthology.org/P15-5002.pdf
+"Sentiment and Belief- How to Think about, Represent, and Annotate Private States",,,https://aclanthology.org/P15-5003/,https://aclanthology.org/P15-5003.pdf
+Corpus Patterns for Semantic Processing,,,https://aclanthology.org/P15-5004/,https://aclanthology.org/P15-5004.pdf
+Matrix and Tensor Factorization Methods for Natural Language Processing,,,https://aclanthology.org/P15-5005/,https://aclanthology.org/P15-5005.pdf
+Scalable Large-Margin Structured Learning- Theory and Algorithms,,,https://aclanthology.org/P15-5006/,https://aclanthology.org/P15-5006.pdf
+"Detecting Deceptive Opinion Spam using Linguistics, Behavioral and Statistical Modeling",,,https://aclanthology.org/P15-5007/,https://aclanthology.org/P15-5007.pdf
+What You Need to Know about Chinese for Chinese Language Processing,,,https://aclanthology.org/P15-5008/,https://aclanthology.org/P15-5008.pdf

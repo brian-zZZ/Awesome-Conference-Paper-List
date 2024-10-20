@@ -1,0 +1,659 @@
+title,keywords,group,link,pdf
+Preface - xxxiii,,,,https://www.ijcai.org/Proceedings/16/Papers/001.pdf
+Conference Organization - xxxv,,,,https://www.ijcai.org/Proceedings/16/Papers/002.pdf
+Program Committee - xxxvii,,,,https://www.ijcai.org/Proceedings/16/Papers/003.pdf
+Conference Organizers and Sponsors - liii,,,,https://www.ijcai.org/Proceedings/16/Papers/004.pdf
+Awards and Distinguished Papers - lv,,,,https://www.ijcai.org/Proceedings/16/Papers/005.pdf
+IJCAI Organization - lvii,,,,https://www.ijcai.org/Proceedings/16/Papers/006.pdf
+Past IJCAI Conferences - lix,,,,https://www.ijcai.org/Proceedings/16/Papers/007.pdf
+Interdependent Scheduling Games - 2,,,,https://www.ijcai.org/Proceedings/16/Papers/008.pdf
+Scalable Greedy Algorithms for Task-Resource Constrained Multi-Agent Stochastic Planning - 10,,,,https://www.ijcai.org/Proceedings/16/Papers/009.pdf
+Coco- Runtime Reasoning about Conflicting Commitments - 17,,,,https://www.ijcai.org/Proceedings/16/Papers/010.pdf
+Verifying Existence of Resource-Bounded Coalition Uniform Strategies - 24,,,,https://www.ijcai.org/Proceedings/16/Papers/011.pdf
+On Truthful Mechanisms for Maximin Share Allocations - 31,,,,https://www.ijcai.org/Proceedings/16/Papers/012.pdf
+Modeling and Reasoning about NTU Games via Answer Set Programming - 38,,,,https://www.ijcai.org/Proceedings/16/Papers/013.pdf
+Randomized Social Choice Functions under Metric Preferences - 46,,,,https://www.ijcai.org/Proceedings/16/Papers/014.pdf
+Generalized Discrete Preference Games - 53,,,,https://www.ijcai.org/Proceedings/16/Papers/015.pdf
+Computing Pareto Optimal Committees - 60,,,,https://www.ijcai.org/Proceedings/16/Papers/016.pdf
+Control of Fair Division - 67,,,,https://www.ijcai.org/Proceedings/16/Papers/017.pdf
+A Characterization of Voting Power for Discrete Weight Distributions - 74,,,,https://www.ijcai.org/Proceedings/16/Papers/018.pdf
+Misrepresentation in District Voting - 81,,,,https://www.ijcai.org/Proceedings/16/Papers/019.pdf
+Conditional and Sequential Approval Voting on Combinatorial Domains - 88,,,,https://www.ijcai.org/Proceedings/16/Papers/020.pdf
+On Logics of Strategic Ability Based on Propositional Control - 95,,,,https://www.ijcai.org/Proceedings/16/Papers/021.pdf
+"Complexity of Efficient and Envy-Free Resource Allocation- Few Agents, Resources, or Utility Levels - 102",,,,https://www.ijcai.org/Proceedings/16/Papers/022.pdf
+The Complexity of Playing Durak - 109,,,,https://www.ijcai.org/Proceedings/16/Papers/023.pdf
+Proving the Incompatibility of Efficiency and Strategyproofness via SMT Solving - 116,,,,https://www.ijcai.org/Proceedings/16/Papers/024.pdf
+To Give or Not to Give- Fair Division for Single Minded Valuations - 123,,,,https://www.ijcai.org/Proceedings/16/Papers/025.pdf
+Pairwise Diffusion of Preference Rankings in Social Networks - 130,,,,https://www.ijcai.org/Proceedings/16/Papers/026.pdf
+Facility Location with Minimax Envy - 137,,,,https://www.ijcai.org/Proceedings/16/Papers/027.pdf
+Achieving Proportional Representation in Conference Programs - 144,,,,https://www.ijcai.org/Proceedings/16/Papers/028.pdf
+Subset Selection via Implicit Utilitarian Voting - 151,,,,https://www.ijcai.org/Proceedings/16/Papers/029.pdf
+Trading on a Rigged Game- Outcome Manipulation in Prediction Markets - 158,,,,https://www.ijcai.org/Proceedings/16/Papers/030.pdf
+Congestion Games with Polytopal Strategy Spaces - 165,,,,https://www.ijcai.org/Proceedings/16/Papers/031.pdf
+Robust Draws in Balanced Knockout Tournaments - 172,,,,https://www.ijcai.org/Proceedings/16/Papers/032.pdf
+Verifying Pushdown Multi-Agent Systems against Strategy Logics - 180,,,,https://www.ijcai.org/Proceedings/16/Papers/033.pdf
+Truthfulness of a Proportional Sharing Mechanism in Resource Exchange - 187,,,,https://www.ijcai.org/Proceedings/16/Papers/034.pdf
+Better Strategyproof Mechanisms without Payments or Prior — An Analytic Approach - 194,,,,https://www.ijcai.org/Proceedings/16/Papers/035.pdf
+Approximating Value Equivalence in Interactive Dynamic Influence Diagrams Using Behavioral Coverage - 201,,,,https://www.ijcai.org/Proceedings/16/Papers/036.pdf
+Selective Norm Monitoring - 208,,,,https://www.ijcai.org/Proceedings/16/Papers/037.pdf
+Elicitation for Preferences Single Peaked on Trees - 215,,,,https://www.ijcai.org/Proceedings/16/Papers/038.pdf
+Preference Elicitation for Single Crossing Domain - 222,,,,https://www.ijcai.org/Proceedings/16/Papers/039.pdf
+Complexity of Manipulation with Partial Information in Voting - 229,,,,https://www.ijcai.org/Proceedings/16/Papers/040.pdf
+Strategic Voting with Incomplete Information - 236,,,,https://www.ijcai.org/Proceedings/16/Papers/041.pdf
+Voting-Based Group Formation - 243,,,,https://www.ijcai.org/Proceedings/16/Papers/042.pdf
+Committee Scoring Rules- Axiomatic Classification and Hierarchy - 250,,,,https://www.ijcai.org/Proceedings/16/Papers/043.pdf
+How Hard Is It for a Party to Nominate an Election Winner- - 257,,,,https://www.ijcai.org/Proceedings/16/Papers/044.pdf
+Digital Good Exchange - 264,,,,https://www.ijcai.org/Proceedings/16/Papers/045.pdf
+Parallel Behavior Composition for Manufacturing - 271,,,,https://www.ijcai.org/Proceedings/16/Papers/046.pdf
+Opinion Dynamics with Local Interactions - 279,,,,https://www.ijcai.org/Proceedings/16/Papers/047.pdf
+Online Mechanism Design for Vehicle-to-Grid Car Parks - 286,,,,https://www.ijcai.org/Proceedings/16/Papers/048.pdf
+Moving in a Crowd- Safe and Efficient Navigation among Heterogeneous Agents - 294,,,,https://www.ijcai.org/Proceedings/16/Papers/049.pdf
+A Network-Based Rating System and Its Resistance to Bribery - 301,,,,https://www.ijcai.org/Proceedings/16/Papers/050.pdf
+Three Strategies to Success- Learning Adversary Models in Security Games - 308,,,,https://www.ijcai.org/Proceedings/16/Papers/051.pdf
+Reconfigurability in Reactive Multiagent Systems - 315,,,,https://www.ijcai.org/Proceedings/16/Papers/052.pdf
+Probabilistic Matrix Inspection and Group Scheduling - 322,,,,https://www.ijcai.org/Proceedings/16/Papers/053.pdf
+Catcher-Evader Games - 329,,,,https://www.ijcai.org/Proceedings/16/Papers/054.pdf
+Asymptotically Tight Bounds for Inefficiency in Risk-Averse Selfish Routing - 338,,,,https://www.ijcai.org/Proceedings/16/Papers/055.pdf
+Social Choice for Agents with General Utilities - 345,,,,https://www.ijcai.org/Proceedings/16/Papers/056.pdf
+Incentivizing Reliability in Demand-Side Response - 352,,,,https://www.ijcai.org/Proceedings/16/Papers/057.pdf
+Allocating Indivisible Items in Categorized Domains - 359,,,,https://www.ijcai.org/Proceedings/16/Papers/058.pdf
+Correlated Voting - 366,,,,https://www.ijcai.org/Proceedings/16/Papers/059.pdf
+Silk- A Simulation Study of Regulating Open Normative Multiagent Systems - 373,,,,https://www.ijcai.org/Proceedings/16/Papers/060.pdf
+Incentivizing Intelligent Customer Behavior in Smart-Grids- A Risk-Sharing Tariff & Optimal Strategies - 380,,,,https://www.ijcai.org/Proceedings/16/Papers/061.pdf
+Dynamic Auctions with Bank Accounts - 387,,,,https://www.ijcai.org/Proceedings/16/Papers/062.pdf
+SLIM- Semi-Lazy Inference Mechanism for Plan Recognition - 394,,,,https://www.ijcai.org/Proceedings/16/Papers/063.pdf
+Sequential Plan Recognition - 401,,,,https://www.ijcai.org/Proceedings/16/Papers/064.pdf
+Distributed Decoupling of Multiagent Simple Temporal Problems - 408,,,,https://www.ijcai.org/Proceedings/16/Papers/065.pdf
+Role Assignment for Game-Theoretic Cooperation - 416,,,,https://www.ijcai.org/Proceedings/16/Papers/066.pdf
+Core-Selecting Payment Rules for Combinatorial Auctions with Uncertain Availability of Goods - 424,,,,https://www.ijcai.org/Proceedings/16/Papers/067.pdf
+Automated Mechanism Design without Money via Machine Learning - 433,,,,https://www.ijcai.org/Proceedings/16/Papers/068.pdf
+Trembling Hand Equilibria of Plurality Voting - 440,,,,https://www.ijcai.org/Proceedings/16/Papers/069.pdf
+Distributed Breakout- Beyond Satisfaction - 447,,,,https://www.ijcai.org/Proceedings/16/Papers/070.pdf
+Mission Oriented Robust Multi-Team Formation and Its Application to Robot Rescue Simulation - 454,,,,https://www.ijcai.org/Proceedings/16/Papers/071.pdf
+Controlling Growing Tasks with Heterogeneous Agents - 461,,,,https://www.ijcai.org/Proceedings/16/Papers/072.pdf
+Using Message-Passing DCOP Algorithms to Solve Energy-Efficient Smart Environment Configuration Problems - 468,,,,https://www.ijcai.org/Proceedings/16/Papers/073.pdf
+An Online Mechanism for Ridesharing in Autonomous Mobility-on-Demand Systems - 475,,,,https://www.ijcai.org/Proceedings/16/Papers/074.pdf
+Efficient Local Search in Coordination Games on Graphs - 482,,,,https://www.ijcai.org/Proceedings/16/Papers/075.pdf
+Assigning a Small Agreeable Set of Indivisible Items to Multiple Players - 489,,,,https://www.ijcai.org/Proceedings/16/Papers/076.pdf
+Preserving Privacy in Region Optimal DCOP Algorithms - 496,,,,https://www.ijcai.org/Proceedings/16/Papers/077.pdf
+Nash Equilibria and Their Elimination in Resource Games - 503,,,,https://www.ijcai.org/Proceedings/16/Papers/078.pdf
+An Empirical Game-Theoretic Analysis of Price Discovery in Prediction Markets - 510,,,,https://www.ijcai.org/Proceedings/16/Papers/079.pdf
+Hierarchical Approach to Transfer of Control in Semi-Autonomous Systems - 517,,,,https://www.ijcai.org/Proceedings/16/Papers/080.pdf
+Coordinating Human-UAV Teams in Disaster Response - 524,,,,https://www.ijcai.org/Proceedings/16/Papers/081.pdf
+Efficient Resource Allocation for Protecting Coral Reef Ecosystems - 531,,,,https://www.ijcai.org/Proceedings/16/Papers/082.pdf
+Optimally Protecting Elections - 538,,,,https://www.ijcai.org/Proceedings/16/Papers/083.pdf
+Decision-Making Policies for Heterogeneous Autonomous Multi-Agent Systems with Safety Constraints - 546,,,,https://www.ijcai.org/Proceedings/16/Papers/084.pdf
+Towards a White Box Approach to Automated Algorithm Design - 554,,,,https://www.ijcai.org/Proceedings/16/Papers/085.pdf
+Action Selection for Hammer Shots in Curling - 561,,,,https://www.ijcai.org/Proceedings/16/Papers/086.pdf
+Fast Solving Maximum Weight Clique Problem in Massive Graphs - 568,,,,https://www.ijcai.org/Proceedings/16/Papers/087.pdf
+Packing Graphs with ASP for Landscape Simulation - 575,,,,https://www.ijcai.org/Proceedings/16/Papers/088.pdf
+On the Topology of Genetic Algorithms - 582,,,,https://www.ijcai.org/Proceedings/16/Papers/089.pdf
+Truncating Shortest Path Search for Efficient Map-Matching - 589,,,,https://www.ijcai.org/Proceedings/16/Papers/090.pdf
+Relevance for SAT(ID) - 596,,,,https://www.ijcai.org/Proceedings/16/Papers/091.pdf
+Counting Linear Extensions of Sparse Posets - 603,,,,https://www.ijcai.org/Proceedings/16/Papers/092.pdf
+Comparing Search Algorithms Using Sorting and Hashing on Disk and in Memory - 610,,,,https://www.ijcai.org/Proceedings/16/Papers/093.pdf
+Limited Discrepancy AND-OR Search and Its Application to Optimization Tasks in Graphical Models - 617,,,,https://www.ijcai.org/Proceedings/16/Papers/094.pdf
+FastLCD- Fast Label Coordinate Descent for the Efficient Optimization of 2D Label MRFs - 624,,,,https://www.ijcai.org/Proceedings/16/Papers/095.pdf
+Heuristics and Really Hard Instances for Subgraph Isomorphism Problems - 631,,,,https://www.ijcai.org/Proceedings/16/Papers/096.pdf
+Markov Chain Analysis of Noise and Restart in Stochastic Local Search - 639,,,,https://www.ijcai.org/Proceedings/16/Papers/097.pdf
+Efficiently Finding Conceptual Clustering Models with Integer Linear Programming - 647,,,,https://www.ijcai.org/Proceedings/16/Papers/098.pdf
+Scalable Segment Abstraction Method for Advertising Campaign Admission and Inventory Allocation Optimization - 655,,,,https://www.ijcai.org/Proceedings/16/Papers/099.pdf
+Improved Heuristic and Tie-Breaking for Optimally Solving Sokoban - 662,,,,https://www.ijcai.org/Proceedings/16/Papers/100.pdf
+An Approximation Algorithm for the Subpath Planning Problem - 669,,,,https://www.ijcai.org/Proceedings/16/Papers/101.pdf
+External Memory Bidirectional Search - 676,,,,https://www.ijcai.org/Proceedings/16/Papers/102.pdf
+Canonical Orderings on Grids - 683,,,,https://www.ijcai.org/Proceedings/16/Papers/103.pdf
+Monte Carlo Tree Search in Continuous Action Spaces with Execution Uncertainty - 690,,,,https://www.ijcai.org/Proceedings/16/Papers/104.pdf
+Multiple Constraint Acquisition - 698,,,,https://www.ijcai.org/Proceedings/16/Papers/105.pdf
+Ranking Constraints - 705,,,,https://www.ijcai.org/Proceedings/16/Papers/106.pdf
+Bias in Algorithm Portfolio Performance Evaluation - 712,,,,https://www.ijcai.org/Proceedings/16/Papers/107.pdf
+Constraint Acquisition with Recommendation Queries - 720,,,,https://www.ijcai.org/Proceedings/16/Papers/108.pdf
+Combining the k-CNF and XOR Phase-Transitions - 727,,,,https://www.ijcai.org/Proceedings/16/Papers/109.pdf
+Linear Arithmetic Satisfiability via Strategy Improvement - 735,,,,https://www.ijcai.org/Proceedings/16/Papers/110.pdf
+Constraint Detection in Natural Language Problem Descriptions - 744,,,,https://www.ijcai.org/Proceedings/16/Papers/111.pdf
+Improving Model Counting by Leveraging Definability - 751,,,,https://www.ijcai.org/Proceedings/16/Papers/112.pdf
+Static Symmetry Breaking with the Reflex Ordering - 758,,,,https://www.ijcai.org/Proceedings/16/Papers/113.pdf
+A Clause Tableau Calculus for MaxSAT - 766,,,,https://www.ijcai.org/Proceedings/16/Papers/114.pdf
+Optimizing Molecular Cloning of Multiple Plasmids - 773,,,,https://www.ijcai.org/Proceedings/16/Papers/115.pdf
+Controllable Procedural Content Generation via Constrained Multi-Dimensional Markov Chain Sampling - 780,,,,https://www.ijcai.org/Proceedings/16/Papers/116.pdf
+Optimizing Simple Tabular Reduction with a Bitwise Representation - 787,,,,https://www.ijcai.org/Proceedings/16/Papers/117.pdf
+Mutual Influence Potential Networks- Enabling Information Sharing in Loosely-Coupled Extended-Duration Teamwork - 796,,,,https://www.ijcai.org/Proceedings/16/Papers/118.pdf
+Interactive Teaching Strategies for Agent Training - 804,,,,https://www.ijcai.org/Proceedings/16/Papers/119.pdf
+Planning with Task-Oriented Knowledge Acquisition for a Service Robot - 812,,,,https://www.ijcai.org/Proceedings/16/Papers/120.pdf
+A Polynomial Time Optimal Algorithm for Robot-Human Search under Uncertainty - 819,,,,https://www.ijcai.org/Proceedings/16/Papers/121.pdf
+Apprenticeship Scheduling- Learning to Schedule from Human Experts - 826,,,,https://www.ijcai.org/Proceedings/16/Papers/122.pdf
+DeepSchema- Automatic Schema Acquisition from Wearable Sensor Data in Restaurant Situations - 834,,,,https://www.ijcai.org/Proceedings/16/Papers/123.pdf
+Interactive Martingale Boosting - 841,,,,https://www.ijcai.org/Proceedings/16/Papers/124.pdf
+Fear and Hope Emerge from Anticipation in Model-Based Reinforcement Learning - 848,,,,https://www.ijcai.org/Proceedings/16/Papers/125.pdf
+Predictive Models of Malicious Behavior in Human Negotiations - 855,,,,https://www.ijcai.org/Proceedings/16/Papers/126.pdf
+Verbalization- Narration of Autonomous Robot Experience - 862,,,,https://www.ijcai.org/Proceedings/16/Papers/127.pdf
+Interactive Scheduling of Appliance Usage in the Home - 869,,,,https://www.ijcai.org/Proceedings/16/Papers/128.pdf
+Polynomial Datalog Rewritings for Expressive Description Logics with Closed Predicates - 878,,,,https://www.ijcai.org/Proceedings/16/Papers/129.pdf
+Completion of Disjunctive Logic Programs - 886,,,,https://www.ijcai.org/Proceedings/16/Papers/130.pdf
+Query Answering with Transitive and Linear-Ordered Data - 893,,,,https://www.ijcai.org/Proceedings/16/Papers/131.pdf
+Evaluation of Arguments from Support Relations- Axioms and Semantics - 900,,,,https://www.ijcai.org/Proceedings/16/Papers/132.pdf
+Incomplete Causal Laws in the Situation Calculus Using Free Fluents - 907,,,,https://www.ijcai.org/Proceedings/16/Papers/133.pdf
+On the Relationship between P-log and LPMLN - 915,,,,https://www.ijcai.org/Proceedings/16/Papers/134.pdf
+Online Agent Supervision in the Situation Calculus - 922,,,,https://www.ijcai.org/Proceedings/16/Papers/135.pdf
+Equivalent Stream Reasoning Programs - 929,,,,https://www.ijcai.org/Proceedings/16/Papers/136.pdf
+The Inconsistency in Gödel’s Ontological Argument- A Success Story for AI in Metaphysics - 936,,,,https://www.ijcai.org/Proceedings/16/Papers/137.pdf
+Ontology-Mediated Queries Distributing over Components - 943,,,,https://www.ijcai.org/Proceedings/16/Papers/138.pdf
+Leviathan- A New LTL Satisfiability Checking Tool Based on a One-Pass Tree-Shaped Tableau - 950,,,,https://www.ijcai.org/Proceedings/16/Papers/139.pdf
+Query-Driven Repairing of Inconsistent DL-Lite Knowledge Bases - 957,,,,https://www.ijcai.org/Proceedings/16/Papers/140.pdf
+First Order-Rewritability and Containment of Conjunctive Queries in Horn Description Logics - 965,,,,https://www.ijcai.org/Proceedings/16/Papers/141.pdf
+Automated Synthesis of Timed Failure Propagation Graphs - 972,,,,https://www.ijcai.org/Proceedings/16/Papers/142.pdf
+ASP for Anytime Dynamic Programming on Tree Decompositions - 979,,,,https://www.ijcai.org/Proceedings/16/Papers/143.pdf
+Extending the Harper Identity to Iterated Belief Change - 987,,,,https://www.ijcai.org/Proceedings/16/Papers/144.pdf
+Preferential Query Answering over the Semantic Web with Possibilistic Networks - 994,,,,https://www.ijcai.org/Proceedings/16/Papers/145.pdf
+Query-Based Entailment and Inseparability for ALC Ontologies - 1001,,,,https://www.ijcai.org/Proceedings/16/Papers/146.pdf
+Knowledge Compilation Meets Communication Complexity - 1008,,,,https://www.ijcai.org/Proceedings/16/Papers/147.pdf
+An ASP Semantics for Default Reasoning with Constraints - 1015,,,,https://www.ijcai.org/Proceedings/16/Papers/148.pdf
+Plan Synthesis for Knowledge and Action Bases - 1022,,,,https://www.ijcai.org/Proceedings/16/Papers/149.pdf
+On the Impact of Modal Depth in Epistemic Planning - 1030,,,,https://www.ijcai.org/Proceedings/16/Papers/150.pdf
+Imperfect-Information Games and Generalized Planning - 1037,,,,https://www.ijcai.org/Proceedings/16/Papers/151.pdf
+LTLf and LDLf Synthesis under Partial Observability - 1044,,,,https://www.ijcai.org/Proceedings/16/Papers/152.pdf
+Investigating the Relationship between Argumentation Semantics via Signatures - 1051,,,,https://www.ijcai.org/Proceedings/16/Papers/153.pdf
+Exploiting Partial Assignments for Efficient Evaluation of Answer Set Programs with External Source Access - 1058,,,,https://www.ijcai.org/Proceedings/16/Papers/154.pdf
+Forgetting in Multi-Agent Modal Logics - 1066,,,,https://www.ijcai.org/Proceedings/16/Papers/155.pdf
+Trend-Based Prediction of Spatial Change - 1074,,,,https://www.ijcai.org/Proceedings/16/Papers/156.pdf
+Towards Fast Algorithms for the Preference Consistency Problem Based on Hierarchical Models - 1081,,,,https://www.ijcai.org/Proceedings/16/Papers/157.pdf
+Querying Data Graphs with Arithmetical Regular Expressions - 1088,,,,https://www.ijcai.org/Proceedings/16/Papers/158.pdf
+On Consensus Extraction - 1095,,,,https://www.ijcai.org/Proceedings/16/Papers/159.pdf
+Temporalized EL Ontologies for Accessing Temporal Data- Complexity of Atomic Queries - 1102,,,,https://www.ijcai.org/Proceedings/16/Papers/160.pdf
+Distributing Knowledge into Simple Bases - 1109,,,,https://www.ijcai.org/Proceedings/16/Papers/161.pdf
+Epistemic Boolean Games Based on a Logic of Visibility and Control - 1116,,,,https://www.ijcai.org/Proceedings/16/Papers/162.pdf
+Normative Multiagent Systems- The Dynamic Generalization - 1123,,,,https://www.ijcai.org/Proceedings/16/Papers/163.pdf
+Eliminating Disjunctions in Answer Set Programming by Restricted Unfolding - 1130,,,,https://www.ijcai.org/Proceedings/16/Papers/164.pdf
+Epistemic GDL- A Logic for Representing and Reasoning about Imperfect Information Games - 1138,,,,https://www.ijcai.org/Proceedings/16/Papers/165.pdf
+Question Answering via Integer Programming over Semi-Structured Knowledge - 1145,,,,https://www.ijcai.org/Proceedings/16/Papers/166.pdf
+Conservative Rewritability of Description Logic TBoxes - 1153,,,,https://www.ijcai.org/Proceedings/16/Papers/167.pdf
+Temporal and Spatial OBDA with Many-Dimensional Halpern-Shoham Logic - 1160,,,,https://www.ijcai.org/Proceedings/16/Papers/168.pdf
+Learning Possibilistic Logic Theories from Default Rules - 1167,,,,https://www.ijcai.org/Proceedings/16/Papers/169.pdf
+Answering Metaqueries over Hi (OWL 2 QL) Ontologies - 1174,,,,https://www.ijcai.org/Proceedings/16/Papers/170.pdf
+Constraint Answer Set Programming versus Satisfiability Modulo Theories - 1181,,,,https://www.ijcai.org/Proceedings/16/Papers/171.pdf
+Exploring the Context of Locations for Personalized Location Recommendations - 1188,,,,https://www.ijcai.org/Proceedings/16/Papers/172.pdf
+A Decision Procedure for a Fragment of Linear Time Mu-Calculus - 1195,,,,https://www.ijcai.org/Proceedings/16/Papers/173.pdf
+Efficient Path Consistency Algorithm for Large Qualitative Constraint Networks - 1202,,,,https://www.ijcai.org/Proceedings/16/Papers/174.pdf
+Belief Update for Proper Epistemic Knowledge Bases - 1209,,,,https://www.ijcai.org/Proceedings/16/Papers/175.pdf
+Optimal Status Enforcement in Abstract Argumentation - 1216,,,,https://www.ijcai.org/Proceedings/16/Papers/176.pdf
+Efficient Representations for the Modal Logic S5 - 1223,,,,https://www.ijcai.org/Proceedings/16/Papers/177.pdf
+Expressivity of Datalog Variants — Completing the Picture - 1230,,,,https://www.ijcai.org/Proceedings/16/Papers/178.pdf
+Is Promoting Beliefs Useful to Make Them Accepted in Networks of Agents- - 1237,,,,https://www.ijcai.org/Proceedings/16/Papers/179.pdf
+Normative Practical Reasoning via Argumentation and Dialogue - 1244,,,,https://www.ijcai.org/Proceedings/16/Papers/180.pdf
+Efficient Sequential Model-Based Fault-Localization with Partial Diagnoses - 1251,,,,https://www.ijcai.org/Proceedings/16/Papers/181.pdf
+Object-Relational Queries over CFDInc Knowledge Bases- OBDA for the SQL-Literate - 1258,,,,https://www.ijcai.org/Proceedings/16/Papers/182.pdf
+Diagnosability of Discrete-Event Systems with Uncertain Observations - 1265,,,,https://www.ijcai.org/Proceedings/16/Papers/183.pdf
+Sampling-Based Belief Revision - 1272,,,,https://www.ijcai.org/Proceedings/16/Papers/184.pdf
+Efficient Query Answering over Expressive Inconsistent Description Logics - 1279,,,,https://www.ijcai.org/Proceedings/16/Papers/185.pdf
+Distributed Autoepistemic Logic and its Application to Access Control - 1286,,,,https://www.ijcai.org/Proceedings/16/Papers/186.pdf
+Text-Enhanced Representation Learning for Knowledge Graph - 1293,,,,https://www.ijcai.org/Proceedings/16/Papers/187.pdf
+On the Representation and Embedding of Knowledge Bases beyond Binary Relations - 1300,,,,https://www.ijcai.org/Proceedings/16/Papers/188.pdf
+Connecting Qualitative Spatial and Temporal Representations by Propositional Closure - 1308,,,,https://www.ijcai.org/Proceedings/16/Papers/189.pdf
+From One Point to a Manifold- Knowledge Graph Embedding for Precise Link Prediction - 1315,,,,https://www.ijcai.org/Proceedings/16/Papers/190.pdf
+Strategy Representation and Reasoning for Incomplete Information Concurrent Games in the Situation Calculus - 1322,,,,https://www.ijcai.org/Proceedings/16/Papers/191.pdf
+Expressive Completeness of Existential Rule Languages for Ontology-Based Query Answering - 1330,,,,https://www.ijcai.org/Proceedings/16/Papers/192.pdf
+A Characterization of the Semantics of Logic Programs with Aggregates - 1338,,,,https://www.ijcai.org/Proceedings/16/Papers/193.pdf
+"Forgetting Concept and Role Symbols in ALCOIHμ+(∇, ⊓)-Ontologies - 1345",,,,https://www.ijcai.org/Proceedings/16/Papers/194.pdf
+Driver Frustration Detection from Audio and Video in the Wild - 1354,,,,https://www.ijcai.org/Proceedings/16/Papers/195.pdf
+The Complexity of Learning Acyclic CP-Nets - 1361,,,,https://www.ijcai.org/Proceedings/16/Papers/196.pdf
+Change Detection in Multivariate Datastreams- Likelihood and Detectability Loss - 1368,,,,https://www.ijcai.org/Proceedings/16/Papers/197.pdf
+Cold-Start Recommendations for Audio News Stories Using Matrix Factorization - 1375,,,,https://www.ijcai.org/Proceedings/16/Papers/198.pdf
+MPMA- Mixture Probabilistic Matrix Approximation for Collaborative Filtering - 1382,,,,https://www.ijcai.org/Proceedings/16/Papers/199.pdf
+A Generalized Matching Pursuit Approach for Graph-Structured Sparsity - 1389,,,,https://www.ijcai.org/Proceedings/16/Papers/200.pdf
+Entity Embedding-Based Anomaly Detection for Heterogeneous Categorical Events - 1396,,,,https://www.ijcai.org/Proceedings/16/Papers/201.pdf
+ADL™- A Topic Model for Discovery of Activities of Daily Living in a Smart Home - 1404,,,,https://www.ijcai.org/Proceedings/16/Papers/202.pdf
+Cost-Aware Pre-Training for Multiclass Cost-Sensitive Deep Learning - 1411,,,,https://www.ijcai.org/Proceedings/16/Papers/203.pdf
+Learning Higher-Order Logic Programs through Abstraction and Invention - 1418,,,,https://www.ijcai.org/Proceedings/16/Papers/204.pdf
+A Unifying Framework for Learning Bag Labels from Generalized Multiple-Instance Data - 1425,,,,https://www.ijcai.org/Proceedings/16/Papers/205.pdf
+Hidden Parameter Markov Decision Processes- A Semiparametric Regression Approach for Discovering Latent Task Parametrizations - 1432,,,,https://www.ijcai.org/Proceedings/16/Papers/206.pdf
+EBEK- Exemplar-Based Kernel Preserving Embedding - 1441,,,,https://www.ijcai.org/Proceedings/16/Papers/207.pdf
+Version Space Reduction Based on Ensembles of Dissimilar Balanced Perceptrons - 1448,,,,https://www.ijcai.org/Proceedings/16/Papers/208.pdf
+Robust Domain Generalisation by Enforcing Distribution Invariance - 1455,,,,https://www.ijcai.org/Proceedings/16/Papers/209.pdf
+Copula Mixed-Membership Stochastic Blockmodel - 1462,,,,https://www.ijcai.org/Proceedings/16/Papers/210.pdf
+DrMAD- Distilling Reverse-Mode Automatic Differentiation for Optimizing Hyperparameters of Deep Neural Networks - 1469,,,,https://www.ijcai.org/Proceedings/16/Papers/211.pdf
+A Robust Convex Formulation for Ensemble Clustering - 1476,,,,https://www.ijcai.org/Proceedings/16/Papers/212.pdf
+Semi-Data-Driven Network Coarsening - 1483,,,,https://www.ijcai.org/Proceedings/16/Papers/213.pdf
+Constrained Local Latent Variable Discovery - 1490,,,,https://www.ijcai.org/Proceedings/16/Papers/214.pdf
+Knowledge-Based Sequence Mining with ASP - 1497,,,,https://www.ijcai.org/Proceedings/16/Papers/215.pdf
+Incremental Truncated LSTD - 1505,,,,https://www.ijcai.org/Proceedings/16/Papers/216.pdf
+A Distributed and Scalable Machine Learning Approach for Big Data - 1512,,,,https://www.ijcai.org/Proceedings/16/Papers/217.pdf
+Deep Learning for Reward Design to Improve Monte Carlo Tree Search in ATARI Games - 1519,,,,https://www.ijcai.org/Proceedings/16/Papers/218.pdf
+Semi-Supervised Active Learning with Cross-Class Sample Transfer - 1526,,,,https://www.ijcai.org/Proceedings/16/Papers/219.pdf
+"Deep, Convolutional, and Recurrent Models for Human Activity Recognition Using Wearables - 1533",,,,https://www.ijcai.org/Proceedings/16/Papers/220.pdf
+Incorporating External Knowledge into Crowd Intelligence for More Specific Knowledge Acquisition - 1541,,,,https://www.ijcai.org/Proceedings/16/Papers/221.pdf
+Partially Supervised Graph Embedding for Positive Unlabelled Feature Selection - 1548,,,,https://www.ijcai.org/Proceedings/16/Papers/222.pdf
+Online Bayesian Max-Margin Subspace Multi-View Learning - 1555,,,,https://www.ijcai.org/Proceedings/16/Papers/223.pdf
+Tight Policy Regret Bounds for Improving and Decaying Bandits - 1562,,,,https://www.ijcai.org/Proceedings/16/Papers/224.pdf
+Bayesian Reinforcement Learning with Behavioral Feedback - 1571,,,,https://www.ijcai.org/Proceedings/16/Papers/225.pdf
+Grounding Topic Models with Knowledge Bases - 1578,,,,https://www.ijcai.org/Proceedings/16/Papers/226.pdf
+Class-Wise Supervised Hashing with Label Embedding and Active Bits - 1585,,,,https://www.ijcai.org/Proceedings/16/Papers/227.pdf
+Transfer Learning with Active Queries from Source Domain - 1592,,,,https://www.ijcai.org/Proceedings/16/Papers/228.pdf
+Learning Stable Linear Dynamical Systems with the Weighted Least Square Method - 1599,,,,https://www.ijcai.org/Proceedings/16/Papers/229.pdf
+Learning Unified Features from Natural and Programming Languages for Locating Buggy Source Code - 1606,,,,https://www.ijcai.org/Proceedings/16/Papers/230.pdf
+Change Detection Using Directional Statistics - 1613,,,,https://www.ijcai.org/Proceedings/16/Papers/231.pdf
+Using Task Features for Zero-Shot Knowledge Transfer in Lifelong Learning - 1620,,,,https://www.ijcai.org/Proceedings/16/Papers/232.pdf
+Multi-Label Informed Feature Selection - 1627,,,,https://www.ijcai.org/Proceedings/16/Papers/233.pdf
+Robust Out-of-Sample Data Recovery - 1634,,,,https://www.ijcai.org/Proceedings/16/Papers/234.pdf
+On Structural Properties of MDPs that Bound Loss Due to Shallow Planning - 1640,,,,https://www.ijcai.org/Proceedings/16/Papers/235.pdf
+Constructing Abstraction Hierarchies Using a Skill-Symbol Loop - 1648,,,,https://www.ijcai.org/Proceedings/16/Papers/236.pdf
+Bounds for Learning from Evolutionary-Related Data in the Realizable Case - 1655,,,,https://www.ijcai.org/Proceedings/16/Papers/237.pdf
+Learning Multi-Step Predictive State Representations - 1662,,,,https://www.ijcai.org/Proceedings/16/Papers/238.pdf
+Dual-Memory Deep Learning Architectures for Lifelong Learning of Everyday Human Behaviors - 1669,,,,https://www.ijcai.org/Proceedings/16/Papers/239.pdf
+Predicting Personal Traits from Facial Images Using Convolutional Neural Networks Augmented with Facial Landmark Information - 1676,,,,https://www.ijcai.org/Proceedings/16/Papers/240.pdf
+A Relaxed Ranking-Based Factor Model for Recommender System from Implicit Feedback - 1683,,,,https://www.ijcai.org/Proceedings/16/Papers/241.pdf
+Adversarial Sequence Tagging - 1690,,,,https://www.ijcai.org/Proceedings/16/Papers/242.pdf
+Joint Feature Selection and Structure Preservation for Domain Adaptation - 1697,,,,https://www.ijcai.org/Proceedings/16/Papers/243.pdf
+Multiple Kernel Clustering with Local Kernel Alignment Maximization - 1704,,,,https://www.ijcai.org/Proceedings/16/Papers/244.pdf
+Feature Learning Based Deep Supervised Hashing with Pairwise Labels - 1711,,,,https://www.ijcai.org/Proceedings/16/Papers/245.pdf
+Multi-View Learning with Limited and Noisy Tagging - 1718,,,,https://www.ijcai.org/Proceedings/16/Papers/246.pdf
+Graph Quality Judgement- A Large Margin Expedition - 1725,,,,https://www.ijcai.org/Proceedings/16/Papers/247.pdf
+Sparse Bayesian Content-Aware Collaborative Filtering for Implicit Feedback - 1732,,,,https://www.ijcai.org/Proceedings/16/Papers/248.pdf
+Group-Invariant Cross-Modal Subspace Learning - 1739,,,,https://www.ijcai.org/Proceedings/16/Papers/249.pdf
+Learning to Detect Concepts from Webly-Labeled Video Data - 1746,,,,https://www.ijcai.org/Proceedings/16/Papers/250.pdf
+Towards Convolutional Neural Networks Compression via Global Error Reconstruction - 1753,,,,https://www.ijcai.org/Proceedings/16/Papers/251.pdf
+Efficient k-Support-Norm Regularized Minimization via Fully Corrective Frank-Wolfe Method - 1760,,,,https://www.ijcai.org/Proceedings/16/Papers/252.pdf
+Supervised Matrix Factorization for Cross-Modality Hashing - 1767,,,,https://www.ijcai.org/Proceedings/16/Papers/253.pdf
+Aligning Users across Social Networks Using Network Embedding - 1774,,,,https://www.ijcai.org/Proceedings/16/Papers/254.pdf
+Transductive Optimization of Top k Precision - 1781,,,,https://www.ijcai.org/Proceedings/16/Papers/255.pdf
+Natural Supervised Hashing - 1788,,,,https://www.ijcai.org/Proceedings/16/Papers/256.pdf
+Linear-Time Outlier Detection via Sensitivity - 1795,,,,https://www.ijcai.org/Proceedings/16/Papers/257.pdf
+Avoiding Optimal Mean Robust PCA-2DPCA with Non-greedy ℓ1-Norm Maximization - 1802,,,,https://www.ijcai.org/Proceedings/16/Papers/258.pdf
+On Combining Side Information and Unlabeled Data for Heterogeneous Multi-Task Metric Learning - 1809,,,,https://www.ijcai.org/Proceedings/16/Papers/259.pdf
+Multi-Grained Role Labeling Based on Multi-Modality Information for Real Customer Service Telephone Conversation - 1816,,,,https://www.ijcai.org/Proceedings/16/Papers/260.pdf
+Predict Anchor Links across Social Networks via an Embedding Approach - 1823,,,,https://www.ijcai.org/Proceedings/16/Papers/261.pdf
+Efficient Bayesian Clustering for Reinforcement Learning - 1830,,,,https://www.ijcai.org/Proceedings/16/Papers/262.pdf
+Soft Margin Consistency Based Scalable Multi-View Maximum Entropy Discrimination - 1839,,,,https://www.ijcai.org/Proceedings/16/Papers/263.pdf
+Sum-Product-Max Networks for Tractable Decision Making - 1846,,,,https://www.ijcai.org/Proceedings/16/Papers/264.pdf
+Asynchronous Accelerated Stochastic Gradient Descent - 1853,,,,https://www.ijcai.org/Proceedings/16/Papers/265.pdf
+Coordinate Discrete Optimization for Efficient Cross-View Image Retrieval - 1860,,,,https://www.ijcai.org/Proceedings/16/Papers/266.pdf
+Fast Laplace Approximation for Sparse Bayesian Spike and Slab Models - 1867,,,,https://www.ijcai.org/Proceedings/16/Papers/267.pdf
+Subspace Clustering via New Low-Rank Model with Discrete Group Structure Constraint - 1874,,,,https://www.ijcai.org/Proceedings/16/Papers/268.pdf
+Parameter-Free Auto-Weighted Multiple Graph Learning- A Framework for Multiview Clustering and Semi-Supervised Classification - 1881,,,,https://www.ijcai.org/Proceedings/16/Papers/269.pdf
+Gated Probabilistic Matrix Factorization- Learning Users’ Attention from Missing Values - 1888,,,,https://www.ijcai.org/Proceedings/16/Papers/270.pdf
+Tri-Party Deep Network Representation - 1895,,,,https://www.ijcai.org/Proceedings/16/Papers/271.pdf
+Outlier Detection in Complex Categorical Data by Modeling the Feature Value Couplings - 1902,,,,https://www.ijcai.org/Proceedings/16/Papers/272.pdf
+Fast Learning from Distributed Datasets without Entity Matching - 1909,,,,https://www.ijcai.org/Proceedings/16/Papers/273.pdf
+Direct Sparsity Optimization Based Feature Selection for Multi-Class Classification - 1918,,,,https://www.ijcai.org/Proceedings/16/Papers/274.pdf
+Deep Subspace Clustering with Sparsity Prior - 1925,,,,https://www.ijcai.org/Proceedings/16/Papers/275.pdf
+Self-Paced Boost Learning for Classification - 1932,,,,https://www.ijcai.org/Proceedings/16/Papers/276.pdf
+Parallel Pareto Optimization for Subset Selection - 1939,,,,https://www.ijcai.org/Proceedings/16/Papers/277.pdf
+Derivative-Free Optimization of High-Dimensional Non-Convex Functions by Sequential Random Embeddings - 1946,,,,https://www.ijcai.org/Proceedings/16/Papers/278.pdf
+Bridging LSTM Architecture and the Neural Dynamics during Reading - 1953,,,,https://www.ijcai.org/Proceedings/16/Papers/279.pdf
+Non-Negative Matrix Factorization with Sinkhorn Distance - 1960,,,,https://www.ijcai.org/Proceedings/16/Papers/280.pdf
+Dependency Clustering of Mixed Data with Gaussian Mixture Copulas - 1967,,,,https://www.ijcai.org/Proceedings/16/Papers/281.pdf
+Trading-Off Cost of Deployment Versus Accuracy in Learning Predictive Models - 1974,,,,https://www.ijcai.org/Proceedings/16/Papers/282.pdf
+Portfolio Blending via Thompson Sampling - 1983,,,,https://www.ijcai.org/Proceedings/16/Papers/283.pdf
+Adaptive Variance Reducing for Stochastic Gradient Descent - 1990,,,,https://www.ijcai.org/Proceedings/16/Papers/284.pdf
+Diversifying Convex Transductive Experimental Design for Active Learning - 1997,,,,https://www.ijcai.org/Proceedings/16/Papers/285.pdf
+Improving CNN Performance with Min-Max Objective - 2004,,,,https://www.ijcai.org/Proceedings/16/Papers/286.pdf
+Distance-Preserving Probabilistic Embeddings with Side Information- Variational Bayesian Multidimensional Scaling Gaussian Process - 2011,,,,https://www.ijcai.org/Proceedings/16/Papers/287.pdf
+Fast Structural Binary Coding - 2018,,,,https://www.ijcai.org/Proceedings/16/Papers/288.pdf
+Unsupervised Alignment of Actions in Video with Text Descriptions - 2025,,,,https://www.ijcai.org/Proceedings/16/Papers/289.pdf
+Distance Based Modeling of Interactions in Structured Regression - 2032,,,,https://www.ijcai.org/Proceedings/16/Papers/290.pdf
+Supervised Heterogeneous Domain Adaptation via Random Forests - 2039,,,,https://www.ijcai.org/Proceedings/16/Papers/291.pdf
+Learning Compact Neural Word Embeddings by Parameter Space Sharing - 2046,,,,https://www.ijcai.org/Proceedings/16/Papers/292.pdf
+A Novel Feature Matching Strategy for Large Scale Image Retrieval - 2053,,,,https://www.ijcai.org/Proceedings/16/Papers/293.pdf
+Learning Using Unselected Features (LUFe) - 2060,,,,https://www.ijcai.org/Proceedings/16/Papers/294.pdf
+Constructive Preference Elicitation by Setwise Max-Margin Learning - 2067,,,,https://www.ijcai.org/Proceedings/16/Papers/295.pdf
+Inference Machines for Nonparametric Filter Learning - 2074,,,,https://www.ijcai.org/Proceedings/16/Papers/296.pdf
+Dynamic Early Stopping for Naive Bayes - 2082,,,,https://www.ijcai.org/Proceedings/16/Papers/297.pdf
+Policy Search in Reproducing Kernel Hilbert Space - 2089,,,,https://www.ijcai.org/Proceedings/16/Papers/298.pdf
+Generalized Dictionary for Multitask Learning with Boosting - 2097,,,,https://www.ijcai.org/Proceedings/16/Papers/299.pdf
+Fast Robust Non-Negative Matrix Factorization for Large-Scale Human Action Data Clustering - 2104,,,,https://www.ijcai.org/Proceedings/16/Papers/300.pdf
+Cost-Saving Effect of Crowdsourcing Learning - 2111,,,,https://www.ijcai.org/Proceedings/16/Papers/301.pdf
+Dealing with Multiple Classes in Online Class Imbalance Learning - 2118,,,,https://www.ijcai.org/Proceedings/16/Papers/302.pdf
+Coupled Marginalized Auto-Encoders for Cross-Domain Multi-View Learning - 2125,,,,https://www.ijcai.org/Proceedings/16/Papers/303.pdf
+Learning First-Order Logic Embeddings via Matrix Factorization - 2132,,,,https://www.ijcai.org/Proceedings/16/Papers/304.pdf
+Constrained Preference Embedding for Item Recommendation - 2139,,,,https://www.ijcai.org/Proceedings/16/Papers/305.pdf
+Nonparametric Risk and Stability Analysis for Multi-Task Learning Problems - 2146,,,,https://www.ijcai.org/Proceedings/16/Papers/306.pdf
+Iterative Views Agreement- An Iterative Low-Rank Based Structured Optimization Method to Multi-View Spectral Clustering - 2153,,,,https://www.ijcai.org/Proceedings/16/Papers/307.pdf
+Bayesian Optimization of Partition Layouts for Mondrian Processes - 2160,,,,https://www.ijcai.org/Proceedings/16/Papers/308.pdf
+Bernoulli Random Forests- Closing the Gap between Theoretical Consistency and Empirical Soundness - 2167,,,,https://www.ijcai.org/Proceedings/16/Papers/309.pdf
+Learning A Deep ℓ∞ Encoder for Hashing - 2174,,,,https://www.ijcai.org/Proceedings/16/Papers/310.pdf
+To Project More or to Quantize More- Minimize Reconstruction Bias for Learning Compact Binary Codes - 2181,,,,https://www.ijcai.org/Proceedings/16/Papers/311.pdf
+Deep Nonlinear Feature Coding for Unsupervised Domain Adaptation - 2189,,,,https://www.ijcai.org/Proceedings/16/Papers/312.pdf
+Discriminatively Trained Recurrent Neural Networks for Continuous Dimensional Emotion Recognition from Audio - 2196,,,,https://www.ijcai.org/Proceedings/16/Papers/313.pdf
+Preference Inference through Rescaling Preference Learning - 2203,,,,https://www.ijcai.org/Proceedings/16/Papers/314.pdf
+Budgeted Multi-Armed Bandits with Multiple Plays - 2210,,,,https://www.ijcai.org/Proceedings/16/Papers/315.pdf
+Multi-View Exclusive Unsupervised Dimension Reduction for Video-Based Facial Expression Recognition - 2217,,,,https://www.ijcai.org/Proceedings/16/Papers/316.pdf
+Robust and Sparse Fuzzy K-Means Clustering - 2224,,,,https://www.ijcai.org/Proceedings/16/Papers/317.pdf
+Weight Features for Predicting Future Model Performance of Deep Neural Networks - 2231,,,,https://www.ijcai.org/Proceedings/16/Papers/318.pdf
+"i, Poet- Automatic Poetry Composition through Recurrent Neural Networks with Iterative Polishing Schema - 2238",,,,https://www.ijcai.org/Proceedings/16/Papers/319.pdf
+Unsupervised Human Action Categorization with Consensus Information Bottleneck Method - 2245,,,,https://www.ijcai.org/Proceedings/16/Papers/320.pdf
+Modularity Based Community Detection with Deep Learning - 2252,,,,https://www.ijcai.org/Proceedings/16/Papers/321.pdf
+Sparsity Conditional Energy Label Distribution Learning for Age Estimation - 2259,,,,https://www.ijcai.org/Proceedings/16/Papers/322.pdf
+Empirical Risk Minimization for Metric Learning Using Privileged Information - 2266,,,,https://www.ijcai.org/Proceedings/16/Papers/323.pdf
+A Unified Framework for Discrete Spectral Clustering - 2273,,,,https://www.ijcai.org/Proceedings/16/Papers/324.pdf
+Learning by Actively Querying Strong Modal Features - 2280,,,,https://www.ijcai.org/Proceedings/16/Papers/325.pdf
+Multi-Modal Bayesian Embeddings for Learning Social Knowledge Graphs - 2287,,,,https://www.ijcai.org/Proceedings/16/Papers/326.pdf
+Greedy Learning of Generalized Low-Rank Models - 2294,,,,https://www.ijcai.org/Proceedings/16/Papers/327.pdf
+Frequent Direction Algorithms for Approximate Matrix Multiplication with Applications in CCA - 2301,,,,https://www.ijcai.org/Proceedings/16/Papers/328.pdf
+Neural Enquirer- Learning to Query Tables in Natural Language - 2308,,,,https://www.ijcai.org/Proceedings/16/Papers/329.pdf
+Theoretically-Grounded Policy Advice from Multiple Teachers in Reinforcement Learning Settings with Applications to Negative Transfer - 2315,,,,https://www.ijcai.org/Proceedings/16/Papers/330.pdf
+Unsupervised Feature Learning from Time Series - 2322,,,,https://www.ijcai.org/Proceedings/16/Papers/331.pdf
+Collaborative Filtering with Generalized Laplacian Constraint via Overlapping Decomposition - 2329,,,,https://www.ijcai.org/Proceedings/16/Papers/332.pdf
+Large Scale Sparse Clustering - 2336,,,,https://www.ijcai.org/Proceedings/16/Papers/333.pdf
+Improving DCNN Performance with Sparse Category-Selective Objective Function - 2343,,,,https://www.ijcai.org/Proceedings/16/Papers/334.pdf
+Staleness-Aware Async-SGD for Distributed Deep Learning - 2350,,,,https://www.ijcai.org/Proceedings/16/Papers/335.pdf
+Self-Adapted Multi-Task Clustering - 2357,,,,https://www.ijcai.org/Proceedings/16/Papers/336.pdf
+Bayesian Dictionary Learning with Gaussian Processes and Sigmoid Belief Networks - 2364,,,,https://www.ijcai.org/Proceedings/16/Papers/337.pdf
+Denoising and Completion of 3D Data via Multidimensional Dictionary Learning - 2371,,,,https://www.ijcai.org/Proceedings/16/Papers/338.pdf
+Improving Top-N Recommendation with Heterogeneous Loss - 2378,,,,https://www.ijcai.org/Proceedings/16/Papers/339.pdf
+Predictive Collaborative Filtering with Side Information - 2385,,,,https://www.ijcai.org/Proceedings/16/Papers/340.pdf
+Incomplete Multi-Modal Visual Data Grouping - 2392,,,,https://www.ijcai.org/Proceedings/16/Papers/341.pdf
+Learning Cross-View Binary Identities for Fast Person Re-Identification - 2399,,,,https://www.ijcai.org/Proceedings/16/Papers/342.pdf
+Fast-and-Light Stochastic ADMM - 2407,,,,https://www.ijcai.org/Proceedings/16/Papers/343.pdf
+Transfer Hashing with Privileged Information - 2414,,,,https://www.ijcai.org/Proceedings/16/Papers/344.pdf
+Model-Based Deep Hand Pose Estimation - 2421,,,,https://www.ijcai.org/Proceedings/16/Papers/345.pdf
+Probabilistic Rank-One Matrix Analysis with Concurrent Regularization - 2428,,,,https://www.ijcai.org/Proceedings/16/Papers/346.pdf
+Crowdsourcing via Tensor Augmentation and Completion - 2435,,,,https://www.ijcai.org/Proceedings/16/Papers/347.pdf
+A Self-Representation Induced Classifier - 2442,,,,https://www.ijcai.org/Proceedings/16/Papers/348.pdf
+Stochastic Multiresolution Persistent Homology Kernel - 2449,,,,https://www.ijcai.org/Proceedings/16/Papers/349.pdf
+Asymptotic Optimality of Myopic Optimization in Trial-Offer Markets with Social Influence - 2458,,,,https://www.ijcai.org/Proceedings/16/Papers/350.pdf
+Managing Overstaying Electric Vehicles in Park-and-Charge Facilities - 2465,,,,https://www.ijcai.org/Proceedings/16/Papers/351.pdf
+A SAT-Based Approach for Mining Association Rules - 2472,,,,https://www.ijcai.org/Proceedings/16/Papers/352.pdf
+Taking Up the Gaokao Challenge- An Information Retrieval Approach - 2479,,,,https://www.ijcai.org/Proceedings/16/Papers/353.pdf
+A Framework for Integrating Symbolic and Sub-Symbolic Representations - 2486,,,,https://www.ijcai.org/Proceedings/16/Papers/354.pdf
+Informed Expectations to Guide GDA Agents in Partially Observable Environments - 2493,,,,https://www.ijcai.org/Proceedings/16/Papers/355.pdf
+A Collaborative Filtering Approach to Citywide Human Mobility Completion from Sparse Call Records - 2500,,,,https://www.ijcai.org/Proceedings/16/Papers/356.pdf
+Optimal Interdiction of Illegal Network Flow - 2507,,,,https://www.ijcai.org/Proceedings/16/Papers/357.pdf
+Modifying MCTS for Human-Like General Video Game Playing - 2514,,,,https://www.ijcai.org/Proceedings/16/Papers/358.pdf
+Baseline Regularization for Computational Drug Repositioning with Longitudinal Observational Data - 2521,,,,https://www.ijcai.org/Proceedings/16/Papers/359.pdf
+Predicting Confusion in Information Visualization from Eye Tracking and Interaction Data - 2529,,,,https://www.ijcai.org/Proceedings/16/Papers/360.pdf
+Word Clouds with Latent Variable Analysis for Visual Comparison of Documents - 2536,,,,https://www.ijcai.org/Proceedings/16/Papers/361.pdf
+Bayesian Nonparametric Collaborative Topic Poisson Factorization for Electronic Health Records-Based Phenotyping - 2544,,,,https://www.ijcai.org/Proceedings/16/Papers/362.pdf
+Household Structure Analysis via Hawkes Processes for Enhancing Energy Disaggregation - 2553,,,,https://www.ijcai.org/Proceedings/16/Papers/363.pdf
+Protein Secondary Structure Prediction Using Cascaded Convolutional and Recurrent Neural Networks - 2560,,,,https://www.ijcai.org/Proceedings/16/Papers/364.pdf
+Makeup Like a Superstar- Deep Localized Makeup Transfer Network - 2568,,,,https://www.ijcai.org/Proceedings/16/Papers/365.pdf
+Urban Water Quality Prediction Based on Multi-Task Multi-View Learning - 2576,,,,https://www.ijcai.org/Proceedings/16/Papers/366.pdf
+Clustering Financial Time Series- How Long Is Enough- - 2583,,,,https://www.ijcai.org/Proceedings/16/Papers/367.pdf
+Player Goal Recognition in Open-World Digital Games with Long Short-Term Memory Networks - 2590,,,,https://www.ijcai.org/Proceedings/16/Papers/368.pdf
+How to Build Your Network- A Structural Analysis - 2597,,,,https://www.ijcai.org/Proceedings/16/Papers/369.pdf
+Simulating Human Inferences in the Light of New Information- A Formal Analysis - 2604,,,,https://www.ijcai.org/Proceedings/16/Papers/370.pdf
+Measuring Performance of Peer Prediction Mechanisms Using Replicator Dynamics - 2611,,,,https://www.ijcai.org/Proceedings/16/Papers/371.pdf
+DeepTransport- Prediction and Simulation of Human Mobility and Transportation Mode at a Citywide Level - 2618,,,,https://www.ijcai.org/Proceedings/16/Papers/372.pdf
+Balancing Appearance and Context in Sketch Interpretation - 2625,,,,https://www.ijcai.org/Proceedings/16/Papers/373.pdf
+Semantic Question-Answering with Video and Eye-Tracking Data- AI Foundations for Human Visual Perception Driven Cognitive Film Studies - 2633,,,,https://www.ijcai.org/Proceedings/16/Papers/374.pdf
+Rating-Boosted Latent Topics- Understanding Users and Items with Ratings and Reviews - 2640,,,,https://www.ijcai.org/Proceedings/16/Papers/375.pdf
+Scene Text Detection in Video by Learning Locally and Globally - 2647,,,,https://www.ijcai.org/Proceedings/16/Papers/376.pdf
+Stochastic and-or Grammars- A Unified Framework and Logic Perspective - 2654,,,,https://www.ijcai.org/Proceedings/16/Papers/377.pdf
+Dimensionally Guided Synthesis of Mathematical Word Problems - 2661,,,,https://www.ijcai.org/Proceedings/16/Papers/378.pdf
+Scale-Adaptive Low-Resolution Person Re-Identification via Learning a Discriminating Surface - 2669,,,,https://www.ijcai.org/Proceedings/16/Papers/379.pdf
+On Modeling and Predicting Individual Paper Citation Count over Time - 2676,,,,https://www.ijcai.org/Proceedings/16/Papers/380.pdf
+Exploiting Problem Structure in Combinatorial Landscapes- A Case Study on Pure Mathematics Application - 2683,,,,https://www.ijcai.org/Proceedings/16/Papers/381.pdf
+Modeling Contagious Merger and Acquisition via Point Processes with a Profile Regression Prior - 2690,,,,https://www.ijcai.org/Proceedings/16/Papers/382.pdf
+POISketch- Semantic Place Labeling over User Activity Streams - 2697,,,,https://www.ijcai.org/Proceedings/16/Papers/383.pdf
+ST-MVL- Filling Missing Values in Geo-Sensory Time Series Data - 2704,,,,https://www.ijcai.org/Proceedings/16/Papers/384.pdf
+Nonlinear Hierarchical Part-Based Regression for Unconstrained Face Alignment - 2711,,,,https://www.ijcai.org/Proceedings/16/Papers/385.pdf
+Situation Testing-Based Discrimination Discovery- A Causal Inference Approach - 2718,,,,https://www.ijcai.org/Proceedings/16/Papers/386.pdf
+Maximum Sustainable Yield Problem for Robot Foraging and Construction System - 2725,,,,https://www.ijcai.org/Proceedings/16/Papers/387.pdf
+Personalizing EEG-Based Affective Models with Transfer Learning - 2732,,,,https://www.ijcai.org/Proceedings/16/Papers/388.pdf
+WikiWrite- Generating Wikipedia Articles Automatically - 2740,,,,https://www.ijcai.org/Proceedings/16/Papers/389.pdf
+A Discriminative Approach to Grounded Spoken Language Understanding in Interactive Robotics - 2747,,,,https://www.ijcai.org/Proceedings/16/Papers/390.pdf
+Distraction-Based Neural Networks for Modeling Document - 2754,,,,https://www.ijcai.org/Proceedings/16/Papers/391.pdf
+Agreement-Based Joint Training for Bidirectional Attention-Based Neural Machine Translation - 2761,,,,https://www.ijcai.org/Proceedings/16/Papers/392.pdf
+Neural Network Translation Models for Grammatical Error Correction - 2768,,,,https://www.ijcai.org/Proceedings/16/Papers/393.pdf
+Recognizing Opinion Sources Based on a New Categorization of Opinion Types - 2775,,,,https://www.ijcai.org/Proceedings/16/Papers/394.pdf
+Hashtag Recommendation Using Attention-Based Convolutional Neural Network - 2782,,,,https://www.ijcai.org/Proceedings/16/Papers/395.pdf
+Intersubjectivity and Sentiment- From Language to Knowledge - 2789,,,,https://www.ijcai.org/Proceedings/16/Papers/396.pdf
+Parse Tree Fragmentation of Ungrammatical Sentences - 2796,,,,https://www.ijcai.org/Proceedings/16/Papers/397.pdf
+Exploiting N-Best Hypotheses to Improve an SMT Approach to Grammatical Error Correction - 2803,,,,https://www.ijcai.org/Proceedings/16/Papers/398.pdf
+Generating Recommendation Evidence Using Translation Model - 2810,,,,https://www.ijcai.org/Proceedings/16/Papers/399.pdf
+Tree-State Based Rule Selection Models for Hierarchical Phrase-Based Machine Translation - 2817,,,,https://www.ijcai.org/Proceedings/16/Papers/400.pdf
+Bag-of-Embeddings for Text Classification - 2824,,,,https://www.ijcai.org/Proceedings/16/Papers/401.pdf
+Reinforcement Learning for Turn-Taking Management in Incremental Spoken Dialogue Systems - 2831,,,,https://www.ijcai.org/Proceedings/16/Papers/402.pdf
+Joint Models for Extracting Adverse Drug Events from Biomedical Text - 2838,,,,https://www.ijcai.org/Proceedings/16/Papers/403.pdf
+StalemateBreaker- A Proactive Content-Introducing Approach to Automatic Human-Computer Conversation - 2845,,,,https://www.ijcai.org/Proceedings/16/Papers/404.pdf
+Towards Zero Unknown Word in Neural Machine Translation - 2852,,,,https://www.ijcai.org/Proceedings/16/Papers/405.pdf
+Learning Paraphrase Identification with Structural Alignment - 2859,,,,https://www.ijcai.org/Proceedings/16/Papers/406.pdf
+"Knowledge Representation Learning with Entities, Attributes and Relations - 2866",,,,https://www.ijcai.org/Proceedings/16/Papers/407.pdf
+Recurrent Neural Network for Text Classification with Multi-Task Learning - 2873,,,,https://www.ijcai.org/Proceedings/16/Papers/408.pdf
+Exploring Segment Representations for Neural Segmentation Models - 2880,,,,https://www.ijcai.org/Proceedings/16/Papers/409.pdf
+HC-Search for Incremental Parsing - 2887,,,,https://www.ijcai.org/Proceedings/16/Papers/410.pdf
+Automatic Construction and Evaluation of a Large Semantically Enriched Wikipedia - 2894,,,,https://www.ijcai.org/Proceedings/16/Papers/411.pdf
+Cross-Lingual Dataless Classification for Many Languages - 2901,,,,https://www.ijcai.org/Proceedings/16/Papers/412.pdf
+"Robust Natural Language Processing — Combining Reasoning, Cognitive Semantics, and Construction Grammar for Spatial Language - 2908",,,,https://www.ijcai.org/Proceedings/16/Papers/413.pdf
+Sparse Word Embeddings Using ℓ1 Regularized Online Learning - 2915,,,,https://www.ijcai.org/Proceedings/16/Papers/414.pdf
+Match-SRNN- Modeling the Recursive Matching Structure with Spatial RNN - 2922,,,,https://www.ijcai.org/Proceedings/16/Papers/415.pdf
+Employing External Rich Knowledge for Machine Comprehension - 2929,,,,https://www.ijcai.org/Proceedings/16/Papers/416.pdf
+Building Joint Spaces for Relation Extraction - 2936,,,,https://www.ijcai.org/Proceedings/16/Papers/417.pdf
+Chinese Song Iambics Generation with Neural Attention-Based Model - 2943,,,,https://www.ijcai.org/Proceedings/16/Papers/418.pdf
+A Bilingual Graph-Based Semantic Model for Statistical Machine Translation - 2950,,,,https://www.ijcai.org/Proceedings/16/Papers/419.pdf
+Diverse Image Captioning via GroupTalk - 2957,,,,https://www.ijcai.org/Proceedings/16/Papers/420.pdf
+Representation Learning of Knowledge Graphs with Hierarchical Types - 2965,,,,https://www.ijcai.org/Proceedings/16/Papers/421.pdf
+Neural Generative Question Answering - 2972,,,,https://www.ijcai.org/Proceedings/16/Papers/422.pdf
+Unsupervised Word and Dependency Path Embeddings for Aspect Term Extraction - 2979,,,,https://www.ijcai.org/Proceedings/16/Papers/423.pdf
+Collaborative Multi-Level Embedding Learning from Reviews for Rating Prediction - 2986,,,,https://www.ijcai.org/Proceedings/16/Papers/424.pdf
+A Joint Model of Intent Determination and Slot Filling for Spoken Language Understanding - 2993,,,,https://www.ijcai.org/Proceedings/16/Papers/425.pdf
+Expert Finding for Community-Based Question Answering via Ranking Metric Network Learning - 3000,,,,https://www.ijcai.org/Proceedings/16/Papers/426.pdf
+Context-Specific and Multi-Prototype Character Representations - 3007,,,,https://www.ijcai.org/Proceedings/16/Papers/427.pdf
+Unsupervised Storyline Extraction from News Articles - 3014,,,,https://www.ijcai.org/Proceedings/16/Papers/428.pdf
+Hierarchical Planning- Relating Task and Goal Decomposition with Task Sharing - 3022,,,,https://www.ijcai.org/Proceedings/16/Papers/429.pdf
+Markovian State and Action Abstractions for MDPs via Hierarchical MCTS - 3029,,,,https://www.ijcai.org/Proceedings/16/Papers/430.pdf
+Which Contingent Events to Observe for the Dynamic Controllability of a Plan - 3038,,,,https://www.ijcai.org/Proceedings/16/Papers/431.pdf
+Factored Probabilistic Belief Tracking - 3045,,,,https://www.ijcai.org/Proceedings/16/Papers/432.pdf
+Maintaining Evolving Domain Models - 3053,,,,https://www.ijcai.org/Proceedings/16/Papers/433.pdf
+A Branch-and-Price Algorithm for Scheduling Observations on a Telescope - 3060,,,,https://www.ijcai.org/Proceedings/16/Papers/434.pdf
+Improved Solvers for Bounded-Suboptimal Multi-Agent Path Finding - 3067,,,,https://www.ijcai.org/Proceedings/16/Papers/435.pdf
+Online Symbolic Gradient-Based Optimization for Factored Action MDPs - 3075,,,,https://www.ijcai.org/Proceedings/16/Papers/436.pdf
+∃-STRIPS- Existential Quantification in Planning and Constraint Satisfaction - 3082,,,,https://www.ijcai.org/Proceedings/16/Papers/437.pdf
+Learning to Rank for Synthesizing Planning Heuristics - 3089,,,,https://www.ijcai.org/Proceedings/16/Papers/438.pdf
+Robust Repositioning to Counter Unpredictable Demand in Bike Sharing Systems - 3096,,,,https://www.ijcai.org/Proceedings/16/Papers/439.pdf
+Generalizing the Edge-Finder Rule for the Cumulative Constraint - 3103,,,,https://www.ijcai.org/Proceedings/16/Papers/440.pdf
+Decoupled Strong Stubborn Sets - 3110,,,,https://www.ijcai.org/Proceedings/16/Papers/441.pdf
+Demand Prediction and Placement Optimization for Electric Vehicle Charging Stations - 3117,,,,https://www.ijcai.org/Proceedings/16/Papers/442.pdf
+A POMDP Approach to Influence Diagram Evaluation - 3124,,,,https://www.ijcai.org/Proceedings/16/Papers/443.pdf
+Anticipatory Troubleshooting - 3133,,,,https://www.ijcai.org/Proceedings/16/Papers/444.pdf
+Hierarchical Model Predictive Control for Multi-Robot Navigation - 3140,,,,https://www.ijcai.org/Proceedings/16/Papers/445.pdf
+Batch-Switching Policy Iteration - 3147,,,,https://www.ijcai.org/Proceedings/16/Papers/446.pdf
+In Search of Tractability for Partial Satisfaction Planning - 3154,,,,https://www.ijcai.org/Proceedings/16/Papers/447.pdf
+State-Dependent Cost Partitionings for Cartesian Abstractions in Classical Planning - 3161,,,,https://www.ijcai.org/Proceedings/16/Papers/448.pdf
+Privacy Preserving Plans in Partially Observable Environments - 3170,,,,https://www.ijcai.org/Proceedings/16/Papers/449.pdf
+Sequential Planning for Steering Immune System Adaptation - 3177,,,,https://www.ijcai.org/Proceedings/16/Papers/450.pdf
+Heuristic Subset Selection in Classical Planning - 3185,,,,https://www.ijcai.org/Proceedings/16/Papers/451.pdf
+Learning Predictive State Representations via Monte-Carlo Tree Search - 3192,,,,https://www.ijcai.org/Proceedings/16/Papers/452.pdf
+Automatic Generation of High-Level State Features for Generalized Planning - 3199,,,,https://www.ijcai.org/Proceedings/16/Papers/453.pdf
+Planning for a Single Agent in a Multi-Agent Environment Using FOND - 3206,,,,https://www.ijcai.org/Proceedings/16/Papers/454.pdf
+Heuristic Planning for PDDL+ Domains - 3213,,,,https://www.ijcai.org/Proceedings/16/Papers/455.pdf
+PAC Greedy Maximization with Efficient Bounds on Information Gain for Sensor Selection - 3220,,,,https://www.ijcai.org/Proceedings/16/Papers/456.pdf
+Heuristics for Numeric Planning via Subgoaling - 3228,,,,https://www.ijcai.org/Proceedings/16/Papers/457.pdf
+Hierarchical Finite State Controllers for Generalized Planning - 3235,,,,https://www.ijcai.org/Proceedings/16/Papers/458.pdf
+Correlation Complexity of Classical Planning Domains - 3242,,,,https://www.ijcai.org/Proceedings/16/Papers/459.pdf
+Blind Search for Atari-Like Online Planning Revisited - 3251,,,,https://www.ijcai.org/Proceedings/16/Papers/460.pdf
+Plan Recognition as Planning Revisited - 3258,,,,https://www.ijcai.org/Proceedings/16/Papers/461.pdf
+On State-Dominance Criteria in Fork-Decoupled Search - 3265,,,,https://www.ijcai.org/Proceedings/16/Papers/462.pdf
+Abstraction Heuristics for Symbolic Bidirectional Search - 3272,,,,https://www.ijcai.org/Proceedings/16/Papers/463.pdf
+Goal Recognition Design with Stochastic Agent Action Outcomes - 3279,,,,https://www.ijcai.org/Proceedings/16/Papers/464.pdf
+Graph-Based Factorization of Classical Planning Problems - 3286,,,,https://www.ijcai.org/Proceedings/16/Papers/465.pdf
+Structural Symmetries for Fully Observable Nondeterministic Planning - 3293,,,,https://www.ijcai.org/Proceedings/16/Papers/466.pdf
+Resolving Over-Constrained Conditional Temporal Problems Using Semantically Similar Alternatives - 3300,,,,https://www.ijcai.org/Proceedings/16/Papers/467.pdf
+Co-Optimizating Multi-Agent Placement with Task Assignment and Scheduling - 3308,,,,https://www.ijcai.org/Proceedings/16/Papers/468.pdf
+Commitment Semantics for Sequential Decision Making under Reward Uncertainty - 3315,,,,https://www.ijcai.org/Proceedings/16/Papers/469.pdf
+Action Recognition with Joints-Pooled 3D Deep Convolutional Descriptors - 3324,,,,https://www.ijcai.org/Proceedings/16/Papers/470.pdf
+3D Action Recognition Using Multi-Temporal Depth Motion Maps and Fisher Vector - 3331,,,,https://www.ijcai.org/Proceedings/16/Papers/471.pdf
+Clustering-Based Joint Feature Selection for Semantic Attribute Prediction - 3338,,,,https://www.ijcai.org/Proceedings/16/Papers/472.pdf
+Semi-Supervised Multimodal Deep Learning for RGB-D Object Recognition - 3345,,,,https://www.ijcai.org/Proceedings/16/Papers/473.pdf
+Precision Instrument Targeting via Image Registration for the Mars 2020 Rover - 3352,,,,https://www.ijcai.org/Proceedings/16/Papers/474.pdf
+Discriminative Log-Euclidean Feature Learning for Sparse Representation-Based Recognition of Faces from Videos - 3359,,,,https://www.ijcai.org/Proceedings/16/Papers/475.pdf
+Highly Accurate Gaze Estimation Using a Consumer RGB-D Sensor - 3368,,,,https://www.ijcai.org/Proceedings/16/Papers/476.pdf
+Making Robots Proactive through Equilibrium Maintenance - 3375,,,,https://www.ijcai.org/Proceedings/16/Papers/477.pdf
+Robust Iterative Quantization for Efficient ℓp-norm Similarity Search - 3382,,,,https://www.ijcai.org/Proceedings/16/Papers/478.pdf
+Semantic Analysis for Crowded Scenes Based on Non-Parametric Tracklet Clustering - 3389,,,,https://www.ijcai.org/Proceedings/16/Papers/479.pdf
+Online Multi-Object Tracking by Quadratic Pseudo-Boolean Optimization - 3396,,,,https://www.ijcai.org/Proceedings/16/Papers/480.pdf
+Robust Joint Discriminative Feature Learning for Visual Tracking - 3403,,,,https://www.ijcai.org/Proceedings/16/Papers/481.pdf
+Saliency Transfer- An Example-Based Method for Salient Object Detection - 3411,,,,https://www.ijcai.org/Proceedings/16/Papers/482.pdf
+What Is Where- Inferring Containment Relations from Videos - 3418,,,,https://www.ijcai.org/Proceedings/16/Papers/483.pdf
+A Stochastic Image Grammar for Fine-Grained 3D Scene Reconstruction - 3425,,,,https://www.ijcai.org/Proceedings/16/Papers/484.pdf
+Unsupervised Learning on Neural Network Outputs- With Application in Zero-Shot Learning - 3432,,,,https://www.ijcai.org/Proceedings/16/Papers/485.pdf
+Geometric Scene Parsing with Hierarchical LSTM - 3439,,,,https://www.ijcai.org/Proceedings/16/Papers/486.pdf
+Incorporating Prototype Theory in Convolutional Neural Networks - 3446,,,,https://www.ijcai.org/Proceedings/16/Papers/487.pdf
+Learning Social Affordance for Human-Robot Interaction - 3454,,,,https://www.ijcai.org/Proceedings/16/Papers/488.pdf
+Learning to Order Objects Using Haptic and Proprioceptive Exploratory Behaviors - 3462,,,,https://www.ijcai.org/Proceedings/16/Papers/489.pdf
+Crowd Scene Understanding with Coherent Recurrent Neural Networks - 3469,,,,https://www.ijcai.org/Proceedings/16/Papers/490.pdf
+Learning Multi-Modal Grounded Linguistic Semantics by Playing “I Spy” - 3477,,,,https://www.ijcai.org/Proceedings/16/Papers/491.pdf
+Beyond Object Recognition- Visual Sentiment Analysis with Deep Coupled Adjective and Noun Neural Networks - 3484,,,,https://www.ijcai.org/Proceedings/16/Papers/492.pdf
+Visual Tracking with Reliable Memories - 3491,,,,https://www.ijcai.org/Proceedings/16/Papers/493.pdf
+Object Recognition with Hidden Attributes - 3498,,,,https://www.ijcai.org/Proceedings/16/Papers/494.pdf
+Rule-Based Programming of Molecular Robot Swarms for Biomedical Applications - 3505,,,,https://www.ijcai.org/Proceedings/16/Papers/495.pdf
+Object-Based World Modeling in Semi-Static Environments with Dependent Dirichlet Process Mixtures - 3513,,,,https://www.ijcai.org/Proceedings/16/Papers/496.pdf
+Enforcing Template Representability and Temporal Consistency for Adaptive Sparse Tracking - 3522,,,,https://www.ijcai.org/Proceedings/16/Papers/497.pdf
+Synthesizing Robotic Handwriting Motion by Learning from Human Demonstrations - 3530,,,,https://www.ijcai.org/Proceedings/16/Papers/498.pdf
+Bridging Saliency Detection to Weakly Supervised Object Detection Based on Self-Paced Curriculum Learning - 3538,,,,https://www.ijcai.org/Proceedings/16/Papers/499.pdf
+Semantics-Aware Deep Correspondence Structure Learning for Robust Person Re-Identification - 3545,,,,https://www.ijcai.org/Proceedings/16/Papers/500.pdf
+Video-Based Person Re-Identification by Simultaneously Learning Intra-Video and Inter-Video Distance Metrics - 3552,,,,https://www.ijcai.org/Proceedings/16/Papers/501.pdf
+Contextual Symmetries in Probabilistic Graphical Models - 3560,,,,https://www.ijcai.org/Proceedings/16/Papers/502.pdf
+Algorithmic Improvements in Approximate Counting for Probabilistic Inference- From Linear to Logarithmic SAT Calls - 3569,,,,https://www.ijcai.org/Proceedings/16/Papers/503.pdf
+Incorporating Knowledge into Structural Equation Models Using Auxiliary Variables - 3577,,,,https://www.ijcai.org/Proceedings/16/Papers/504.pdf
+Solving M-Modes Using Heuristic Search - 3584,,,,https://www.ijcai.org/Proceedings/16/Papers/505.pdf
+Probabilistic Inference Modulo Theories - 3591,,,,https://www.ijcai.org/Proceedings/16/Papers/506.pdf
+Adaptive Budget Allocation for Maximizing Influence of Advertisements - 3600,,,,https://www.ijcai.org/Proceedings/16/Papers/507.pdf
+A Symbolic Closed-Form Solution to Sequential Market Making with Inventory - 3609,,,,https://www.ijcai.org/Proceedings/16/Papers/508.pdf
+Approximate Probabilistic Inference with Bounded Error for Hybrid Probabilistic Logic Programming - 3616,,,,https://www.ijcai.org/Proceedings/16/Papers/509.pdf
+Group Decision Making via Probabilistic Belief Merging - 3623,,,,https://www.ijcai.org/Proceedings/16/Papers/510.pdf
+Probably Approximately Correct Learning in Stochastic Games with Temporal Logic Specifications - 3630,,,,https://www.ijcai.org/Proceedings/16/Papers/511.pdf
+Swift- Compiled Inference for Probabilistic Programming Languages - 3637,,,,https://www.ijcai.org/Proceedings/16/Papers/512.pdf
+Latent Contextual Bandits and their Application to Personalized Recommendations for New Users - 3646,,,,https://www.ijcai.org/Proceedings/16/Papers/513.pdf
+A Generative Model for Recognizing Mixed Group Activities in Still Images - 3654,,,,https://www.ijcai.org/Proceedings/16/Papers/514.pdf
+ATUCAPTS- Automated Tests that a User Cannot Pass Twice Simultaneously - 3662,,,,https://www.ijcai.org/Proceedings/16/Papers/515.pdf
+Domain Adaptation for Learning from Label Proportions Using Self-Training - 3670,,,,https://www.ijcai.org/Proceedings/16/Papers/516.pdf
+Inferring Motif-Based Diffusion Models for Social Networks - 3677,,,,https://www.ijcai.org/Proceedings/16/Papers/517.pdf
+Non-Objection Inference for Inconsistency-Tolerant Query Answering - 3684,,,,https://www.ijcai.org/Proceedings/16/Papers/518.pdf
+Multi-Source Iterative Adaptation for Cross-Domain Classification - 3691,,,,https://www.ijcai.org/Proceedings/16/Papers/519.pdf
+Timeline Summarization from Social Media with Life Cycle Models - 3698,,,,https://www.ijcai.org/Proceedings/16/Papers/520.pdf
+HIEDS- A Generic and Efficient Approach to Hierarchical Dataset Summarization - 3705,,,,https://www.ijcai.org/Proceedings/16/Papers/521.pdf
+Assessing Translation Ability through Vocabulary Ability Assessment - 3712,,,,https://www.ijcai.org/Proceedings/16/Papers/522.pdf
+Weakly-Supervised Deep Learning for Customer Review Sentiment Classification - 3719,,,,https://www.ijcai.org/Proceedings/16/Papers/523.pdf
+Questimator- Generating Knowledge Assessments for Arbitrary Topics - 3726,,,,https://www.ijcai.org/Proceedings/16/Papers/524.pdf
+Efficient Algorithms for Spanning Tree Centrality - 3733,,,,https://www.ijcai.org/Proceedings/16/Papers/525.pdf
+Sherlock- Sparse Hierarchical Embeddings for Visually-Aware One-Class Collaborative Filtering - 3740,,,,https://www.ijcai.org/Proceedings/16/Papers/526.pdf
+Ordering Concepts Based on Common Attribute Intensity - 3747,,,,https://www.ijcai.org/Proceedings/16/Papers/527.pdf
+Real-Time Web Scale Event Summarization Using Sequential Decision Making - 3754,,,,https://www.ijcai.org/Proceedings/16/Papers/528.pdf
+Identifying Key Observers to Find Popular Information in Advance - 3761,,,,https://www.ijcai.org/Proceedings/16/Papers/529.pdf
+Matching via Dimensionality Reduction for Estimation of Treatment Effects in Digital Marketing Campaigns - 3768,,,,https://www.ijcai.org/Proceedings/16/Papers/530.pdf
+What Does Social Media Say about Your Stress- - 3775,,,,https://www.ijcai.org/Proceedings/16/Papers/531.pdf
+Learning to Incentivize- Eliciting Effort via Output Agreement - 3782,,,,https://www.ijcai.org/Proceedings/16/Papers/532.pdf
+Pay Me and I’ll Follow You- Detection of Crowdturfing Following Activities in Microblog Environment - 3789,,,,https://www.ijcai.org/Proceedings/16/Papers/533.pdf
+Item Recommendation for Emerging Online Businesses - 3797,,,,https://www.ijcai.org/Proceedings/16/Papers/534.pdf
+Collaborative Evolution for User Profiling in Recommender Systems - 3804,,,,https://www.ijcai.org/Proceedings/16/Papers/535.pdf
+Browsing Regularities in Hedonic Content Systems - 3811,,,,https://www.ijcai.org/Proceedings/16/Papers/536.pdf
+Detecting Rumors from Microblogs with Recurrent Neural Networks - 3818,,,,https://www.ijcai.org/Proceedings/16/Papers/537.pdf
+Dynamic Task Allocation Algorithm for Hiring Workers that Learn - 3825,,,,https://www.ijcai.org/Proceedings/16/Papers/538.pdf
+Learning Deep Intrinsic Video Representation by Exploring Temporal Coherence and Graph Structure - 3832,,,,https://www.ijcai.org/Proceedings/16/Papers/539.pdf
+WebGazer- Scalable Webcam Eye Tracking Using User Interactions - 3839,,,,https://www.ijcai.org/Proceedings/16/Papers/540.pdf
+Cross-Media Shared Representation by Hierarchical Learning with Multiple Deep Networks - 3846,,,,https://www.ijcai.org/Proceedings/16/Papers/541.pdf
+Practical Linear Models for Large-Scale One-Class Collaborative Filtering - 3854,,,,https://www.ijcai.org/Proceedings/16/Papers/542.pdf
+"Intervention Strategies for Increasing Engagement in Crowdsourcing- Platform, Predictions, and Experiments - 3861",,,,https://www.ijcai.org/Proceedings/16/Papers/543.pdf
+A Framework for Recommending Relevant and Diverse Items - 3868,,,,https://www.ijcai.org/Proceedings/16/Papers/544.pdf
+Understanding Information Diffusion under Interactions - 3875,,,,https://www.ijcai.org/Proceedings/16/Papers/545.pdf
+Progressive Comparison for Ranking Estimation - 3882,,,,https://www.ijcai.org/Proceedings/16/Papers/546.pdf
+Max-Margin DeepWalk- Discriminative Learning of Network Representation - 3889,,,,https://www.ijcai.org/Proceedings/16/Papers/547.pdf
+KOGNAC- Efficient Encoding of Large Knowledge Graphs - 3896,,,,https://www.ijcai.org/Proceedings/16/Papers/548.pdf
+Learning Hostname Preference to Enhance Search Relevance - 3903,,,,https://www.ijcai.org/Proceedings/16/Papers/549.pdf
+Bayesian Probabilistic Multi-Topic Matrix Factorization for Rating Prediction - 3910,,,,https://www.ijcai.org/Proceedings/16/Papers/550.pdf
+Causality Based Propagation History Ranking in Social Networks - 3917,,,,https://www.ijcai.org/Proceedings/16/Papers/551.pdf
+Learning Defining Features for Categories - 3924,,,,https://www.ijcai.org/Proceedings/16/Papers/552.pdf
+Deep Semantic-Preserving and Ranking-Based Hashing for Image Retrieval - 3931,,,,https://www.ijcai.org/Proceedings/16/Papers/553.pdf
+Modeling the Homophily Effect between Links and Communities for Overlapping Community Detection - 3938,,,,https://www.ijcai.org/Proceedings/16/Papers/554.pdf
+Matrix Factorization+ for Movie Recommendation - 3945,,,,https://www.ijcai.org/Proceedings/16/Papers/555.pdf
+Content-Driven Detection of Cyberbullying on the Instagram Social Network - 3952,,,,https://www.ijcai.org/Proceedings/16/Papers/556.pdf
+Learning Compact Visual Representation with Canonical Views for Robust Mobile Landmark Search - 3959,,,,https://www.ijcai.org/Proceedings/16/Papers/557.pdf
+Rational-Based Visual Planning Monitors - 3968,,,,https://www.ijcai.org/Proceedings/16/Papers/558.pdf
+Online Fair Division Redux - 3970,,,,https://www.ijcai.org/Proceedings/16/Papers/559.pdf
+Lifting Techniques for Sequential Decision Making and Probabilistic Inference (Extended Abstract) - 3972,,,,https://www.ijcai.org/Proceedings/16/Papers/560.pdf
+Combining Logic and Probability- P-log Perspective - 3974,,,,https://www.ijcai.org/Proceedings/16/Papers/561.pdf
+Planning under Uncertainty and Temporally Extended Goals - 3976,,,,https://www.ijcai.org/Proceedings/16/Papers/562.pdf
+Bounded Suboptimal Multi-Agent Path Finding Using Highways - 3978,,,,https://www.ijcai.org/Proceedings/16/Papers/563.pdf
+Logic-Based Inductive Synthesis of Efficient Programs - 3980,,,,https://www.ijcai.org/Proceedings/16/Papers/564.pdf
+Transfer Learning for Multiagent Reinforcement Learning Systems - 3982,,,,https://www.ijcai.org/Proceedings/16/Papers/565.pdf
+An Approach to Cooperation in General-Sum Normal Form Games - 3984,,,,https://www.ijcai.org/Proceedings/16/Papers/566.pdf
+"Self Monitoring, Goal Driven Autonomy Agents - 3986",,,,https://www.ijcai.org/Proceedings/16/Papers/567.pdf
+Fast Motion Prediction for Collaborative Robotics - 3988,,,,https://www.ijcai.org/Proceedings/16/Papers/568.pdf
+Location-Based Activity Recognition with Hierarchical Dirichlet Process - 3990,,,,https://www.ijcai.org/Proceedings/16/Papers/569.pdf
+Action Selection Methods for Multi-Agent Navigation in Crowded Environments - 3992,,,,https://www.ijcai.org/Proceedings/16/Papers/570.pdf
+Proactivity in Robots - 3994,,,,https://www.ijcai.org/Proceedings/16/Papers/571.pdf
+Probabilistic Planning with Risk-Sensitive Criterion - 3996,,,,https://www.ijcai.org/Proceedings/16/Papers/572.pdf
+Computer-Aided Game Design- Doctoral Consortium Research Abstract - 3998,,,,https://www.ijcai.org/Proceedings/16/Papers/573.pdf
+Stochastic Planning in Large Search Spaces - 4000,,,,https://www.ijcai.org/Proceedings/16/Papers/574.pdf
+Extractive and Abstractive Event Summarization over Streaming Web Text - 4002,,,,https://www.ijcai.org/Proceedings/16/Papers/575.pdf
+Machine Learning for Integer Programming - 4004,,,,https://www.ijcai.org/Proceedings/16/Papers/576.pdf
+Toward a Robust and Universal Crowd-Labeling Framework - 4006,,,,https://www.ijcai.org/Proceedings/16/Papers/577.pdf
+Active Inference for Dynamic Bayesian Networks - 4008,,,,https://www.ijcai.org/Proceedings/16/Papers/578.pdf
+Learning Robust Representations for Data Analytics - 4010,,,,https://www.ijcai.org/Proceedings/16/Papers/579.pdf
+Modelling Satisfiability Problems- Theory and Practice - 4012,,,,https://www.ijcai.org/Proceedings/16/Papers/580.pdf
+Solving Hard Subgraph Problems in Parallel - 4014,,,,https://www.ijcai.org/Proceedings/16/Papers/581.pdf
+Semantic Framework for Industrial Analytics and Diagnostics - 4016,,,,https://www.ijcai.org/Proceedings/16/Papers/582.pdf
+Adaptive Sequential Recommendation Using Context Trees - 4018,,,,https://www.ijcai.org/Proceedings/16/Papers/583.pdf
+On the Synergy of Network Science and Artificial Intelligence - 4020,,,,https://www.ijcai.org/Proceedings/16/Papers/584.pdf
+Are Spiking Neural Networks Useful for Classifying and Early Recognition of Spatio-Temporal Patterns- - 4022,,,,https://www.ijcai.org/Proceedings/16/Papers/585.pdf
+Reactive Policy Checking for Action Languages - 4024,,,,https://www.ijcai.org/Proceedings/16/Papers/586.pdf
+"Towards Understanding Natural Language- Semantic Parsing, Commonsense Knowledge Acquisition and Applications - 4026",,,,https://www.ijcai.org/Proceedings/16/Papers/587.pdf
+General Statistical Approaches to Procedural Map Generation - 4028,,,,https://www.ijcai.org/Proceedings/16/Papers/588.pdf
+Time Decomposition for Diagnosis of Discrete Event Systems (Extended Abstract) - 4030,,,,https://www.ijcai.org/Proceedings/16/Papers/589.pdf
+Integrating Social Network Structure into Online Feature Selection - 4032,,,,https://www.ijcai.org/Proceedings/16/Papers/590.pdf
+Conceptual Visualization and Navigation Methods for Polyadic Formal Concept Analysis - 4034,,,,https://www.ijcai.org/Proceedings/16/Papers/591.pdf
+Automated Narrative Information Extraction Using Non-Linear Pipelines - 4036,,,,https://www.ijcai.org/Proceedings/16/Papers/592.pdf
+Reasoning about Space and Change with Answer Set Programming Modulo Theories - 4038,,,,https://www.ijcai.org/Proceedings/16/Papers/593.pdf
+A Framework for Anomaly Reasoning- Interpretation through Concept Formation for Knowledge Transfer and Lifelong Learning - 4040,,,,https://www.ijcai.org/Proceedings/16/Papers/594.pdf
+BiPOCL- A Discourse-Driven Story Planner for Procedural Narrative Generation (Extended Abstract) - 4042,,,,https://www.ijcai.org/Proceedings/16/Papers/595.pdf
+Quantitative Path-Planning from Qualitative Language Instructions - 4044,,,,https://www.ijcai.org/Proceedings/16/Papers/596.pdf
+Towards Intelligent Visual Understanding under Minimal Supervision - 4046,,,,https://www.ijcai.org/Proceedings/16/Papers/597.pdf
+On Ranking and Choice Models - 4050,,,,https://www.ijcai.org/Proceedings/16/Papers/598.pdf
+Computational Social Choice- Some Current and New Directions - 4054,,,,https://www.ijcai.org/Proceedings/16/Papers/599.pdf
+Ontology-Mediated Query Answering- Harnessing Knowledge to Get More from Data - 4058,,,,https://www.ijcai.org/Proceedings/16/Papers/600.pdf
+Preference Restrictions in Computational Social Choice- Recent Progress - 4062,,,,https://www.ijcai.org/Proceedings/16/Papers/601.pdf
+"Boolean Satifiability and Beyond- Algorithms, Analysis, and AI Applications - 4066",,,,https://www.ijcai.org/Proceedings/16/Papers/602.pdf
+Directions in Hybrid Intelligence- Complementing AI Systems with Human Intelligence - 4070,,,,https://www.ijcai.org/Proceedings/16/Papers/603.pdf
+Open Information Extraction Systems and Downstream Applications - 4074,,,,https://www.ijcai.org/Proceedings/16/Papers/604.pdf
+Plausible Reasoning Based on Qualitative Entity Embeddings - 4078,,,,https://www.ijcai.org/Proceedings/16/Papers/605.pdf
+A Hard Look at Soft Concepts - 4082,,,,https://www.ijcai.org/Proceedings/16/Papers/606.pdf
+First-Order Model Counting in a Nutshell - 4086,,,,https://www.ijcai.org/Proceedings/16/Papers/607.pdf
+Sequential Decision Making for Improving Efficiency in Urban Environments - 4090,,,,https://www.ijcai.org/Proceedings/16/Papers/608.pdf
+Adversarial AI - 4094,,,,https://www.ijcai.org/Proceedings/16/Papers/609.pdf
+From Non-Convex Aggregates to Monotone Aggregates in ASP - 4100,,,,https://www.ijcai.org/Proceedings/16/Papers/610.pdf
+On the Properties of GZ-Aggregates in Answer Set Programming - 4105,,,,https://www.ijcai.org/Proceedings/16/Papers/611.pdf
+Optimal Prosumer Decision-Making Using Factored MDPs - 4110,,,,https://www.ijcai.org/Proceedings/16/Papers/612.pdf
+Hashing-Based Approximate Probabilistic Inference in Hybrid Domains- An Abridged Report - 4115,,,,https://www.ijcai.org/Proceedings/16/Papers/613.pdf
+Optimal and Adaptive Algorithms for Online Boosting - 4120,,,,https://www.ijcai.org/Proceedings/16/Papers/614.pdf
+Detecting Student Emotions in Computer-Enabled Classrooms - 4125,,,,https://www.ijcai.org/Proceedings/16/Papers/615.pdf
+Learning Qualitative Spatial Relations for Robotic Navigation - 4130,,,,https://www.ijcai.org/Proceedings/16/Papers/616.pdf
+On Broken Triangles - 4135,,,,https://www.ijcai.org/Proceedings/16/Papers/617.pdf
+Sequencing Operator Counts - 4140,,,,https://www.ijcai.org/Proceedings/16/Papers/618.pdf
+Tabling as a Library with Delimited Control - 4145,,,,https://www.ijcai.org/Proceedings/16/Papers/619.pdf
+"Büchi, Lindenbaum, Tarski- A Program Analysis Appetizer - 4150",,,,https://www.ijcai.org/Proceedings/16/Papers/620.pdf
+Effective Planning with More Expressive Languages - 4155,,,,https://www.ijcai.org/Proceedings/16/Papers/621.pdf
+Domain Model Acquisition in the Presence of Static Relations in the LOP System - 4160,,,,https://www.ijcai.org/Proceedings/16/Papers/622.pdf
+A Nearly-Linear Time Framework for Graph-Structured Sparsity - 4165,,,,https://www.ijcai.org/Proceedings/16/Papers/623.pdf
+"Observability, Identifiability and Sensitivity of Vision-Aided Inertial Navigation - 4170",,,,https://www.ijcai.org/Proceedings/16/Papers/624.pdf
+"Projection, Inference, and Consistency - 4175",,,,https://www.ijcai.org/Proceedings/16/Papers/625.pdf
+The Dependence of Effective Planning Horizon on Model Accuracy - 4180,,,,https://www.ijcai.org/Proceedings/16/Papers/626.pdf
+Fleet Design Optimisation from Historical Data Using Constraint Programming and Large Neighbourhood Search - 4185,,,,https://www.ijcai.org/Proceedings/16/Papers/627.pdf
+Deep Neural Decision Forests - 4190,,,,https://www.ijcai.org/Proceedings/16/Papers/628.pdf
+Proximal Gradient Temporal Difference Learning Algorithms - 4195,,,,https://www.ijcai.org/Proceedings/16/Papers/629.pdf
+Generating Tests for Robotized Painting Using Constraint Programming - 4200,,,,https://www.ijcai.org/Proceedings/16/Papers/630.pdf
+A Decision Procedure for (Co)datatypes in SMT Solvers - 4205,,,,https://www.ijcai.org/Proceedings/16/Papers/631.pdf
+Why Prices Need Algorithms - 4210,,,,https://www.ijcai.org/Proceedings/16/Papers/632.pdf
+Online Bellman Residual and Temporal Difference Algorithms with Predictive Error Guarantees - 4213,,,,https://www.ijcai.org/Proceedings/16/Papers/633.pdf
+Welfare Effects of Market Making in Continuous Double Auctions- Extended Abstract - 4218,,,,https://www.ijcai.org/Proceedings/16/Papers/634.pdf
+Improving Topic Model Stability for Effective Document Exploration - 4223,,,,https://www.ijcai.org/Proceedings/16/Papers/635.pdf
+MATHCHECK- A Math Assistant via a Combination of Computer Algebra Systems and SAT Solvers - 4228,,,,https://www.ijcai.org/Proceedings/16/Papers/636.pdf
+Repairing General-Purpose ASR Output to Improve Accuracy of Spoken Sentences in Specific Domains Using Artificial Development Approach - 4234,,,,https://www.ijcai.org/Proceedings/16/Papers/637.pdf
+Practical 3D Tracking Using Low-Cost Cameras - 4236,,,,https://www.ijcai.org/Proceedings/16/Papers/638.pdf
+Baby Tartanian8- Winning Agent from the 2016 Annual Computer Poker Competition - 4238,,,,https://www.ijcai.org/Proceedings/16/Papers/639.pdf
+KBQA- An Online Template Based Question Answering System over Freebase - 4240,,,,https://www.ijcai.org/Proceedings/16/Papers/640.pdf
+SMACk- An Argumentation Framework for Opinion Mining - 4242,,,,https://www.ijcai.org/Proceedings/16/Papers/641.pdf
+A Virtual Assistant to Help Dysphagia Patients Eat Safely at Home - 4244,,,,https://www.ijcai.org/Proceedings/16/Papers/642.pdf
+The Malmo Platform for Artificial Intelligence Experimentation - 4246,,,,https://www.ijcai.org/Proceedings/16/Papers/643.pdf
+A Demonstration of Interactive Task Learning - 4248,,,,https://www.ijcai.org/Proceedings/16/Papers/644.pdf
+Implementation of Learning-Based Dynamic Demand Response on a Campus Micro-Grid - 4250,,,,https://www.ijcai.org/Proceedings/16/Papers/645.pdf
+Eddy- A Graphical Editor for OWL 2 Ontologies - 4252,,,,https://www.ijcai.org/Proceedings/16/Papers/646.pdf
+"A Tag-Based Statistical English Math Word Problem Solver with Understanding, Reasoning and Explanation - 4254",,,,https://www.ijcai.org/Proceedings/16/Papers/647.pdf
+"An Intelligent System for Taxi Service Monitoring, Analytics and Visualization - 4256",,,,https://www.ijcai.org/Proceedings/16/Papers/648.pdf
+"An Adaptive Process Management System Implementation Based on Situation Calculus, Indigolog and Classical Planning - 4258",,,,https://www.ijcai.org/Proceedings/16/Papers/649.pdf
+Demo- Assisting Visually Impaired People Navigate Indoors - 4260,,,,https://www.ijcai.org/Proceedings/16/Papers/650.pdf
+Klint- Assisting Integration of Heterogeneous Knowledge - 4262,,,,https://www.ijcai.org/Proceedings/16/Papers/651.pdf
+Thou Shalt ASQFor and Shalt Receive the Semantic Answer - 4264,,,,https://www.ijcai.org/Proceedings/16/Papers/652.pdf
+A Tool for Generating Interactive Euler Diagrams - 4266,,,,https://www.ijcai.org/Proceedings/16/Papers/653.pdf
+Interactive Planning-Based Hypothesis Generation with LTS++ - 4268,,,,https://www.ijcai.org/Proceedings/16/Papers/654.pdf
+Data-Based Promotion of Tourist Events with Minimal Operational Impact - 4270,,,,https://www.ijcai.org/Proceedings/16/Papers/655.pdf
+PARecommender- A Pattern-Based System for Route Recommendation - 4272,,,,https://www.ijcai.org/Proceedings/16/Papers/656.pdf
+VIPR- An Interactive Tool for Meaningful Visualization of High-Dimensional Data - 4274,,,,https://www.ijcai.org/Proceedings/16/Papers/657.pdf
+Robot Scavenger Hunt- A Standardized Framework for Evaluating Intelligent Mobile Robots - 4276,,,,https://www.ijcai.org/Proceedings/16/Papers/658.pdf

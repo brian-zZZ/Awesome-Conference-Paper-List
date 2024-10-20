@@ -1,0 +1,929 @@
+title,keywords,group,link,pdf
+1. A Discriminative Latent Variable Model for Online Clustering,,,https://proceedings.mlr.press/v32/samdani14.html,http://proceedings.mlr.press/v32/samdani14.pdf
+2. Kernel Mean Estimation and Stein Effect,,,https://proceedings.mlr.press/v32/muandet14.html,http://proceedings.mlr.press/v32/muandet14.pdf
+3. Demystifying Information-Theoretic Clustering,,,https://proceedings.mlr.press/v32/steeg14.html,http://proceedings.mlr.press/v32/steeg14.pdf
+4. Covering Number for Efficient Heuristic-based POMDP Planning,,,https://proceedings.mlr.press/v32/zhanga14.html,http://proceedings.mlr.press/v32/zhanga14.pdf
+5. The Coherent Loss Function for Classification,,,https://proceedings.mlr.press/v32/yanga14.html,http://proceedings.mlr.press/v32/yanga14.pdf
+6. Fast Stochastic Alternating Direction Method of Multipliers,,,https://proceedings.mlr.press/v32/zhong14.html,
+7. Active Detection via Adaptive Submodularity,,,https://proceedings.mlr.press/v32/chena14.html,http://proceedings.mlr.press/v32/chena14.pdf
+8. Accelerated Proximal Stochastic Dual Coordinate Ascent for Regularized Loss Minimization,,,https://proceedings.mlr.press/v32/shalev-shwartz14.html,
+9. An Adaptive Accelerated Proximal Gradient Method and its Homotopy Continuation for Sparse Optimization,,,https://proceedings.mlr.press/v32/lin14.html,http://proceedings.mlr.press/v32/lin14.pdf
+10. Recurrent Convolutional Neural Networks for Scene Labeling,,,https://proceedings.mlr.press/v32/pinheiro14.html,
+11. A Statistical Perspective on Algorithmic Leveraging,,,https://proceedings.mlr.press/v32/ma14.html,
+12. Thompson Sampling for Complex Online Problems,,,https://proceedings.mlr.press/v32/gopalan14.html,http://proceedings.mlr.press/v32/gopalan14.pdf
+13. Boosting multi-step autoregressive forecasts,,,https://proceedings.mlr.press/v32/taieb14.html,http://proceedings.mlr.press/v32/taieb14.pdf
+14. A Statistical Convergence Perspective of Algorithms for Rank Aggregation from Pairwise Data,,,https://proceedings.mlr.press/v32/rajkumar14.html,http://proceedings.mlr.press/v32/rajkumar14.pdf
+15. Scaling Up Approximate Value Iteration with Options- Better Policies with Fewer Iterations,,,https://proceedings.mlr.press/v32/mann14.html,http://proceedings.mlr.press/v32/mann14.pdf
+16. Latent Bandits.,,,https://proceedings.mlr.press/v32/maillard14.html,
+17. Fast Allocation of Gaussian Process Experts,,,https://proceedings.mlr.press/v32/nguyena14.html,
+18. Von Mises-Fisher Clustering Models,,,https://proceedings.mlr.press/v32/gopal14.html,http://proceedings.mlr.press/v32/gopal14.pdf
+19. Convergence rates for persistence diagram estimation in Topological Data Analysis,,,https://proceedings.mlr.press/v32/chazal14.html,
+20. Buffer k-d Trees- Processing Massive Nearest Neighbor Queries on GPUs,,,https://proceedings.mlr.press/v32/gieseke14.html,
+21. Austerity in MCMC Land- Cutting the Metropolis-Hastings Budget,,,https://proceedings.mlr.press/v32/korattikara14.html,http://proceedings.mlr.press/v32/korattikara14.pdf
+22. Understanding the Limiting Factors of Topic Modeling via Posterior Contraction Analysis,,,https://proceedings.mlr.press/v32/tang14.html,
+23. The Inverse Regression Topic Model,,,https://proceedings.mlr.press/v32/rabinovich14.html,http://proceedings.mlr.press/v32/rabinovich14.pdf
+24. A Consistent Histogram Estimator for Exchangeable Graph Models,,,https://proceedings.mlr.press/v32/chan14.html,
+25. Latent Variable Copula Inference for Bundle Pricing from Retail Transaction Data,,,https://proceedings.mlr.press/v32/letham14.html,
+26. Towards Minimax Online Learning with Unknown Time Horizon,,,https://proceedings.mlr.press/v32/luo14.html,http://proceedings.mlr.press/v32/luo14.pdf
+27. Factorized Point Process Intensities- A Spatial Analysis of Professional Basketball,,,https://proceedings.mlr.press/v32/miller14.html,http://proceedings.mlr.press/v32/miller14.pdf
+"28. Margins, Kernels and Non-linear Smoothed Perceptrons",,,https://proceedings.mlr.press/v32/ramdas14.html,http://proceedings.mlr.press/v32/ramdas14.pdf
+29. Robust RegBayes- Selectively Incorporating First-Order Logic Domain Knowledge into Bayesian Models,,,https://proceedings.mlr.press/v32/mei14.html,
+30. Learning Theory and Algorithms for revenue optimization in second price auctions with reserve,,,https://proceedings.mlr.press/v32/mohri14.html,http://proceedings.mlr.press/v32/mohri14.pdf
+31. Low-density Parity Constraints for Hashing-Based Discrete Integration,,,https://proceedings.mlr.press/v32/ermon14.html,http://proceedings.mlr.press/v32/ermon14.pdf
+32. Prediction with Limited Advice and Multiarmed Bandits with Paid Observations,,,https://proceedings.mlr.press/v32/seldin14.html,http://proceedings.mlr.press/v32/seldin14.pdf
+33. Bayesian Nonparametric Multilevel Clustering with Group-Level Contexts,,,https://proceedings.mlr.press/v32/nguyenb14.html,http://proceedings.mlr.press/v32/nguyenb14.pdf
+34. Large-Margin Metric Learning for Constrained Partitioning Problems,,,https://proceedings.mlr.press/v32/lajugie14.html,
+35. Wasserstein Propagation for Semi-Supervised Learning,,,https://proceedings.mlr.press/v32/solomon14.html,
+36. Max-Margin Infinite Hidden Markov Models,,,https://proceedings.mlr.press/v32/zhangb14.html,
+37. Efficient Approximation of Cross-Validation for Kernel Methods using Bouligand Influence Function,,,https://proceedings.mlr.press/v32/liua14.html,
+38. Generalized Exponential Concentration Inequality for Renyi Divergence Estimation,,,https://proceedings.mlr.press/v32/singh14.html,
+39. Boosting with Online Binary Learners for the Multiclass Bandit Problem,,,https://proceedings.mlr.press/v32/chenb14.html,
+40. Optimal Budget Allocation- Theoretical Guarantee and Efficient Algorithm,,,https://proceedings.mlr.press/v32/soma14.html,http://proceedings.mlr.press/v32/soma14.pdf
+41. Computing Parametric Ranking Models via Rank-Breaking,,,https://proceedings.mlr.press/v32/soufiani14.html,http://proceedings.mlr.press/v32/soufiani14.pdf
+42. Tracking Adversarial Targets,,,https://proceedings.mlr.press/v32/abbasi-yadkori14.html,http://proceedings.mlr.press/v32/abbasi-yadkori14.pdf
+43. Online Bayesian Passive-Aggressive Learning,,,https://proceedings.mlr.press/v32/shi14.html,http://proceedings.mlr.press/v32/shi14.pdf
+44. Deterministic Policy Gradient Algorithms,,,https://proceedings.mlr.press/v32/silver14.html,http://proceedings.mlr.press/v32/silver14.pdf
+45. Modeling Correlated Arrival Events with Latent Semi-Markov Processes,,,https://proceedings.mlr.press/v32/lian14.html,http://proceedings.mlr.press/v32/lian14.pdf
+46. Towards scaling up Markov chain Monte Carlo- an adaptive subsampling approach,,,https://proceedings.mlr.press/v32/bardenet14.html,http://proceedings.mlr.press/v32/bardenet14.pdf
+47. Diagnosis determination- decision trees optimizing simultaneously worst and expected testing cost,,,https://proceedings.mlr.press/v32/cicalese14.html,
+48. Condensed Filter Tree for Cost-Sensitive Multi-Label Classification,,,https://proceedings.mlr.press/v32/lia14.html,http://proceedings.mlr.press/v32/lia14.pdf
+49. On Measure Concentration of Random Maximum A-Posteriori Perturbations,,,https://proceedings.mlr.press/v32/orabona14.html,http://proceedings.mlr.press/v32/orabona14.pdf
+50. Bias in Natural Actor-Critic Algorithms,,,https://proceedings.mlr.press/v32/thomas14.html,
+51. Dimension-free Concentration Bounds on Hankel Matrices for Spectral Learning,,,https://proceedings.mlr.press/v32/denis14.html,
+52. On Modelling Non-linear Topical Dependencies,,,https://proceedings.mlr.press/v32/lib14.html,
+53. A Deep and Tractable Density Estimator,,,https://proceedings.mlr.press/v32/uria14.html,
+54. (Near) Dimension Independent Risk Bounds for Differentially Private Learning,,,https://proceedings.mlr.press/v32/jain14.html,http://proceedings.mlr.press/v32/jain14.pdf
+55. Quasi-Monte Carlo Feature Maps for Shift-Invariant Kernels,,,https://proceedings.mlr.press/v32/yangb14.html,http://proceedings.mlr.press/v32/yangb14.pdf
+56. Discriminative Features via Generalized Eigenvectors,,,https://proceedings.mlr.press/v32/karampatziakis14.html,
+57. Forward-Backward Greedy Algorithms for General Convex Smooth Functions over A Cardinality Constraint,,,https://proceedings.mlr.press/v32/liub14.html,
+58. Online Learning in Markov Decision Processes with Changing Cost Sequences,,,https://proceedings.mlr.press/v32/dick14.html,http://proceedings.mlr.press/v32/dick14.pdf
+59. Unimodal Bandits- Regret Lower Bounds and Optimal Algorithms,,,https://proceedings.mlr.press/v32/combes14.html,
+60. Maximum Mean Discrepancy for Class Ratio Estimation- Convergence Bounds and Kernel Selection,,,https://proceedings.mlr.press/v32/iyer14.html,http://proceedings.mlr.press/v32/iyer14.pdf
+61. Asymptotically consistent estimation of the number of change points in highly dependent time series,,,https://proceedings.mlr.press/v32/khaleghi14.html,
+62. Coordinate-descent for learning orthogonal matrices through Givens rotations,,,https://proceedings.mlr.press/v32/shalit14.html,http://proceedings.mlr.press/v32/shalit14.pdf
+63. Densifying One Permutation Hashing via Rotation for Fast Near Neighbor Search,,,https://proceedings.mlr.press/v32/shrivastava14.html,
+64. A Divide-and-Conquer Solver for Kernel Support Vector Machines,,,https://proceedings.mlr.press/v32/hsieha14.html,http://proceedings.mlr.press/v32/hsieha14.pdf
+65. Nuclear Norm Minimization via Active Subspace Selection,,,https://proceedings.mlr.press/v32/hsiehb14.html,http://proceedings.mlr.press/v32/hsiehb14.pdf
+66. Provable Bounds for Learning Some Deep Representations,,,https://proceedings.mlr.press/v32/arora14.html,
+67. Large-scale Multi-label Learning with Missing Labels,,,https://proceedings.mlr.press/v32/yu14.html,http://proceedings.mlr.press/v32/yu14.pdf
+68. Learning Graphs with a Few Hubs,,,https://proceedings.mlr.press/v32/tandon14.html,http://proceedings.mlr.press/v32/tandon14.pdf
+69. Agnostic Bayesian Learning of Ensembles,,,https://proceedings.mlr.press/v32/lacoste14.html,http://proceedings.mlr.press/v32/lacoste14.pdf
+70. Towards an optimal stochastic alternating direction method of multipliers,,,https://proceedings.mlr.press/v32/azadi14.html,http://proceedings.mlr.press/v32/azadi14.pdf
+71. Spherical Hamiltonian Monte Carlo for Constrained Target Distributions,,,https://proceedings.mlr.press/v32/lan14.html,
+72. Efficient Continuous-Time Markov Chain Estimation,,,https://proceedings.mlr.press/v32/hajiaghayi14.html,http://proceedings.mlr.press/v32/hajiaghayi14.pdf
+73. DeCAF- A Deep Convolutional Activation Feature for Generic Visual Recognition,,,https://proceedings.mlr.press/v32/donahue14.html,
+74. Making the Most of Bag of Words- Sentence Regularization with Alternating Direction Method of Multipliers,,,https://proceedings.mlr.press/v32/yogatama14.html,
+75. Narrowing the Gap- Random Forests In Theory and In Practice,,,https://proceedings.mlr.press/v32/denil14.html,http://proceedings.mlr.press/v32/denil14.pdf
+76. Coherent Matrix Completion,,,https://proceedings.mlr.press/v32/chenc14.html,http://proceedings.mlr.press/v32/chenc14.pdf
+77. Admixture of Poisson MRFs- A Topic Model with Word Dependencies,,,https://proceedings.mlr.press/v32/inouye14.html,http://proceedings.mlr.press/v32/inouye14.pdf
+78. True Online TD(lambda),,,https://proceedings.mlr.press/v32/seijen14.html,
+79. Memory Efficient Kernel Approximation,,,https://proceedings.mlr.press/v32/si14.html,http://proceedings.mlr.press/v32/si14.pdf
+80. Learning Sum-Product Networks with Direct and Indirect Variable Interactions,,,https://proceedings.mlr.press/v32/rooshenas14.html,http://proceedings.mlr.press/v32/rooshenas14.pdf
+81. Hamiltonian Monte Carlo Without Detailed Balance,,,https://proceedings.mlr.press/v32/sohl-dickstein14.html,
+82. Filtering with Abstract Particles,,,https://proceedings.mlr.press/v32/steinhardt14.html,http://proceedings.mlr.press/v32/steinhardt14.pdf
+83. Stochastic Dual Coordinate Ascent with Alternating Direction Method of Multipliers,,,https://proceedings.mlr.press/v32/suzuki14.html,http://proceedings.mlr.press/v32/suzuki14.pdf
+84. Deep Supervised and Convolutional Generative Stochastic Network for Protein Secondary Structure Prediction,,,https://proceedings.mlr.press/v32/zhou14.html,
+85. An Efficient Approach for Assessing Hyperparameter Importance,,,https://proceedings.mlr.press/v32/hutter14.html,http://proceedings.mlr.press/v32/hutter14.pdf
+86. An Information Geometry of Statistical Manifold Learning,,,https://proceedings.mlr.press/v32/suna14.html,http://proceedings.mlr.press/v32/suna14.pdf
+87. Relative Upper Confidence Bound for the K-Armed Dueling Bandit Problem,,,https://proceedings.mlr.press/v32/zoghi14.html,http://proceedings.mlr.press/v32/zoghi14.pdf
+88. Compact Random Feature Maps,,,https://proceedings.mlr.press/v32/hamid14.html,
+89. Concentration in unbounded metric spaces and algorithmic stability,,,https://proceedings.mlr.press/v32/kontorovicha14.html,http://proceedings.mlr.press/v32/kontorovicha14.pdf
+90. Heavy-tailed regression with a generalized median-of-means,,,https://proceedings.mlr.press/v32/hsu14.html,
+91. Spectral Bandits for Smooth Graph Functions,,,https://proceedings.mlr.press/v32/valko14.html,http://proceedings.mlr.press/v32/valko14.pdf
+92. Robust Principal Component Analysis with Complex Noise,,,https://proceedings.mlr.press/v32/zhao14.html,http://proceedings.mlr.press/v32/zhao14.pdf
+93. Scalable Semidefinite Relaxation for Maximum A Posterior Estimation,,,https://proceedings.mlr.press/v32/huang14.html,http://proceedings.mlr.press/v32/huang14.pdf
+94. Square Deal- Lower Bounds and Improved Relaxations for Tensor Recovery,,,https://proceedings.mlr.press/v32/mu14.html,http://proceedings.mlr.press/v32/mu14.pdf
+95. Automated inference of point of view from user interactions in collective intelligence venues,,,https://proceedings.mlr.press/v32/das14.html,
+96. Rank-One Matrix Pursuit for Matrix Completion,,,https://proceedings.mlr.press/v32/wanga14.html,
+97. Near-Optimal Joint Object Matching via Convex Relaxation,,,https://proceedings.mlr.press/v32/chend14.html,http://proceedings.mlr.press/v32/chend14.pdf
+98. Convex Total Least Squares,,,https://proceedings.mlr.press/v32/malioutov14.html,
+99. On p-norm Path Following in Multiple Kernel Learning for Non-linear Feature Selection,,,https://proceedings.mlr.press/v32/jawanpuria14.html,http://proceedings.mlr.press/v32/jawanpuria14.pdf
+100. Gradient Hard Thresholding Pursuit for Sparsity-Constrained Optimization,,,https://proceedings.mlr.press/v32/yuan14.html,
+101. A Unified Framework for Consistency of Regularized Loss Minimizers,,,https://proceedings.mlr.press/v32/honorio14.html,http://proceedings.mlr.press/v32/honorio14.pdf
+102. Geodesic Distance Function Learning via Heat Flow on Vector Fields,,,https://proceedings.mlr.press/v32/linb14.html,
+103. Near-Optimally Teaching the Crowd to Classify,,,https://proceedings.mlr.press/v32/singla14.html,http://proceedings.mlr.press/v32/singla14.pdf
+104. On the convergence of no-regret learning in selfish routing,,,https://proceedings.mlr.press/v32/krichene14.html,http://proceedings.mlr.press/v32/krichene14.pdf
+105. Improving offline evaluation of contextual bandit algorithms via bootstrapping techniques,,,https://proceedings.mlr.press/v32/mary14.html,http://proceedings.mlr.press/v32/mary14.pdf
+106. Scaling Up Robust MDPs using Function Approximation,,,https://proceedings.mlr.press/v32/tamar14.html,http://proceedings.mlr.press/v32/tamar14.pdf
+107. Marginal Structured SVM with Hidden Variables,,,https://proceedings.mlr.press/v32/ping14.html,http://proceedings.mlr.press/v32/ping14.pdf
+108. Linear and Parallel Learning of Markov Random Fields,,,https://proceedings.mlr.press/v32/mizrahi14.html,
+109. Pitfalls in the use of Parallel Inference for the Dirichlet Process,,,https://proceedings.mlr.press/v32/gal14.html,
+110. Optimal PAC Multiple Arm Identification with Applications to Crowdsourcing,,,https://proceedings.mlr.press/v32/zhoub14.html,http://proceedings.mlr.press/v32/zhoub14.pdf
+111. Deep Generative Stochastic Networks Trainable by Backprop,,,https://proceedings.mlr.press/v32/bengio14.html,http://proceedings.mlr.press/v32/bengio14.pdf
+112. A Highly Scalable Parallel Algorithm for Isotropic Total Variation Models,,,https://proceedings.mlr.press/v32/wangb14.html,http://proceedings.mlr.press/v32/wangb14.pdf
+113. Statistical-Computational Phase Transitions in Planted Models- The High-Dimensional Setting,,,https://proceedings.mlr.press/v32/chene14.html,http://proceedings.mlr.press/v32/chene14.pdf
+114. Gaussian Process Optimization with Mutual Information,,,https://proceedings.mlr.press/v32/contal14.html,
+115. Aggregating  Ordinal Labels from Crowds by Minimax Conditional Entropy,,,https://proceedings.mlr.press/v32/zhouc14.html,
+116. Exchangeable Variable Models,,,https://proceedings.mlr.press/v32/niepert14.html,http://proceedings.mlr.press/v32/niepert14.pdf
+117. Clustering in the Presence of Background Noise,,,https://proceedings.mlr.press/v32/ben-david14.html,http://proceedings.mlr.press/v32/ben-david14.pdf
+118. Safe Screening with Variational Inequalities and Its Application to Lasso,,,https://proceedings.mlr.press/v32/liuc14.html,http://proceedings.mlr.press/v32/liuc14.pdf
+119. Learning the Consistent Behavior of Common Users for Target Node Prediction across Social Networks,,,https://proceedings.mlr.press/v32/wu14.html,http://proceedings.mlr.press/v32/wu14.pdf
+120. Signal recovery from Pooling Representations,,,https://proceedings.mlr.press/v32/estrach14.html,http://proceedings.mlr.press/v32/estrach14.pdf
+121. PAC-inspired Option Discovery in Lifelong Reinforcement Learning,,,https://proceedings.mlr.press/v32/brunskill14.html,http://proceedings.mlr.press/v32/brunskill14.pdf
+122. Multi-label Classification via Feature-aware Implicit Label Space Encoding,,,https://proceedings.mlr.press/v32/linc14.html,http://proceedings.mlr.press/v32/linc14.pdf
+123. Scalable Gaussian Process Structured Prediction for Grid Factor Graph Applications,,,https://proceedings.mlr.press/v32/bratieres14.html,http://proceedings.mlr.press/v32/bratieres14.pdf
+124. Anomaly Ranking as Supervised Bipartite Ranking,,,https://proceedings.mlr.press/v32/clemencon14.html,
+125. Hierarchical Quasi-Clustering Methods for Asymmetric Networks,,,https://proceedings.mlr.press/v32/carlsson14.html,http://proceedings.mlr.press/v32/carlsson14.pdf
+126. Rectangular Tiling Process,,,https://proceedings.mlr.press/v32/nakano14.html,http://proceedings.mlr.press/v32/nakano14.pdf
+127. Two-Stage Metric Learning,,,https://proceedings.mlr.press/v32/wangc14.html,http://proceedings.mlr.press/v32/wangc14.pdf
+128. Stochastic Inference for Scalable Probabilistic Modeling of Binary Matrices,,,https://proceedings.mlr.press/v32/hernandez-lobatoa14.html,http://proceedings.mlr.press/v32/hernandez-lobatoa14.pdf
+129. Elementary Estimators for High-Dimensional Linear Regression,,,https://proceedings.mlr.press/v32/yangc14.html,http://proceedings.mlr.press/v32/yangc14.pdf
+130. Elementary Estimators for Sparse Covariance Matrices and other Structured Moments,,,https://proceedings.mlr.press/v32/yangd14.html,http://proceedings.mlr.press/v32/yangd14.pdf
+131. Graph-based Semi-supervised Learning- Realizing Pointwise Smoothness Probabilistically,,,https://proceedings.mlr.press/v32/fang14.html,http://proceedings.mlr.press/v32/fang14.pdf
+132. Bayesian Max-margin Multi-Task Learning with Data Augmentation,,,https://proceedings.mlr.press/v32/lic14.html,
+133. Sparse Reinforcement Learning via Convex Optimization,,,https://proceedings.mlr.press/v32/qin14.html,http://proceedings.mlr.press/v32/qin14.pdf
+134. Gaussian Process Classification and Active Learning with Multiple Annotators,,,https://proceedings.mlr.press/v32/rodrigues14.html,http://proceedings.mlr.press/v32/rodrigues14.pdf
+135. Structured Prediction of Network Response,,,https://proceedings.mlr.press/v32/su14.html,http://proceedings.mlr.press/v32/su14.pdf
+136. An Analysis of State-Relevance Weights and Sampling Distributions on L1-Regularized Approximate Linear Programming Approximation Accuracy,,,https://proceedings.mlr.press/v32/taylor14.html,
+137. Optimization Equivalence of Divergences Improves Neighbor Embedding,,,https://proceedings.mlr.press/v32/yange14.html,http://proceedings.mlr.press/v32/yange14.pdf
+138. An Asynchronous Parallel Stochastic Coordinate Descent Algorithm,,,https://proceedings.mlr.press/v32/liud14.html,
+139. Consistency of Causal Inference under the Additive Noise Model,,,https://proceedings.mlr.press/v32/kpotufe14.html,
+140. Globally Convergent Parallel MAP LP Relaxation Solver using the Frank-Wolfe Algorithm,,,https://proceedings.mlr.press/v32/schwing14.html,
+141. Linear Programming for Large-Scale Markov Decision Problems,,,https://proceedings.mlr.press/v32/malek14.html,http://proceedings.mlr.press/v32/malek14.pdf
+142. Linear Time Solver for Primal SVM,,,https://proceedings.mlr.press/v32/niea14.html,
+143. Memory (and Time) Efficient Sequential Monte Carlo,,,https://proceedings.mlr.press/v32/jun14.html,http://proceedings.mlr.press/v32/jun14.pdf
+144. Scaling SVM and Least Absolute Deviations via Exact Data Reduction,,,https://proceedings.mlr.press/v32/wangd14.html,http://proceedings.mlr.press/v32/wangd14.pdf
+145. Latent Semantic Representation Learning for Scene Classification,,,https://proceedings.mlr.press/v32/lid14.html,
+146. Least Squares Revisited- Scalable Approaches for Multi-class Prediction,,,https://proceedings.mlr.press/v32/agarwala14.html,
+147. Local algorithms for interactive clustering,,,https://proceedings.mlr.press/v32/awasthi14.html,
+148. Model-Based Relational RL When Object Existence is Partially Observable,,,https://proceedings.mlr.press/v32/ngo14.html,
+149. A new Q(lambda) with interim forward view and Monte Carlo equivalence,,,https://proceedings.mlr.press/v32/sutton14.html,http://proceedings.mlr.press/v32/sutton14.pdf
+150. On Robustness and Regularization of Structural Support Vector Machines,,,https://proceedings.mlr.press/v32/torkamani14.html,http://proceedings.mlr.press/v32/torkamani14.pdf
+151. Guess-Averse Loss Functions For Cost-Sensitive Multiclass Boosting,,,https://proceedings.mlr.press/v32/beijbom14.html,http://proceedings.mlr.press/v32/beijbom14.pdf
+152. Multimodal Neural Language Models,,,https://proceedings.mlr.press/v32/kiros14.html,http://proceedings.mlr.press/v32/kiros14.pdf
+153. Fast large-scale optimization by unifying stochastic gradient and quasi-Newton methods,,,https://proceedings.mlr.press/v32/sohl-dicksteinb14.html,
+154. Alternating Minimization for Mixed Linear Regression,,,https://proceedings.mlr.press/v32/yia14.html,http://proceedings.mlr.press/v32/yia14.pdf
+155. Stochastic Neighbor Compression,,,https://proceedings.mlr.press/v32/kusner14.html,
+156. Robust Learning under Uncertain Test Distributions- Relating Covariate Shift to Model Misspecification,,,https://proceedings.mlr.press/v32/wen14.html,http://proceedings.mlr.press/v32/wen14.pdf
+157. Nonparametric Estimation of Multi-View Latent Variable Models,,,https://proceedings.mlr.press/v32/songa14.html,http://proceedings.mlr.press/v32/songa14.pdf
+158. Structured Generative Models of Natural Source Code,,,https://proceedings.mlr.press/v32/maddison14.html,http://proceedings.mlr.press/v32/maddison14.pdf
+159. A Single-Pass Algorithm for Efficiently Recovering Sparse Cluster Centers of High-dimensional Data,,,https://proceedings.mlr.press/v32/yib14.html,http://proceedings.mlr.press/v32/yib14.pdf
+160. Statistical analysis of stochastic gradient methods for generalized linear models,,,https://proceedings.mlr.press/v32/toulis14.html,
+161. Coding for Random Projections,,,https://proceedings.mlr.press/v32/lie14.html,
+162. Fast Computation of Wasserstein Barycenters,,,https://proceedings.mlr.press/v32/cuturi14.html,
+163. Global graph kernels using geometric embeddings,,,https://proceedings.mlr.press/v32/johansson14.html,http://proceedings.mlr.press/v32/johansson14.pdf
+"164. Topic Modeling using Topics from Many Domains, Lifelong Learning and Big Data",,,https://proceedings.mlr.press/v32/chenf14.html,http://proceedings.mlr.press/v32/chenf14.pdf
+165. K-means recovers ICA filters when independent components are sparse,,,https://proceedings.mlr.press/v32/vinnikov14.html,http://proceedings.mlr.press/v32/vinnikov14.pdf
+166. Learning Mixtures of Linear Classifiers,,,https://proceedings.mlr.press/v32/sunb14.html,http://proceedings.mlr.press/v32/sunb14.pdf
+167. The Falling Factorial Basis and Its Statistical Applications,,,https://proceedings.mlr.press/v32/wange14.html,http://proceedings.mlr.press/v32/wange14.pdf
+168. Nonmyopic ε-Bayes-Optimal Active Learning of Gaussian Processes,,,https://proceedings.mlr.press/v32/hoang14.html,http://proceedings.mlr.press/v32/hoang14.pdf
+169. A Unifying View of Representer Theorems,,,https://proceedings.mlr.press/v32/argyriou14.html,http://proceedings.mlr.press/v32/argyriou14.pdf
+170. Online Clustering of Bandits,,,https://proceedings.mlr.press/v32/gentile14.html,http://proceedings.mlr.press/v32/gentile14.pdf
+171. Cold-start Active Learning with Robust Ordinal Matrix Factorization,,,https://proceedings.mlr.press/v32/houlsby14.html,http://proceedings.mlr.press/v32/houlsby14.pdf
+172. Multivariate Maximal Correlation Analysis,,,https://proceedings.mlr.press/v32/nguyenc14.html,
+173. Efficient Label Propagation,,,https://proceedings.mlr.press/v32/fujiwara14.html,
+"174. Estimating Diffusion Network Structures- Recovery Conditions, Sample Complexity & Soft-thresholding Algorithm",,,https://proceedings.mlr.press/v32/daneshmand14.html,http://proceedings.mlr.press/v32/daneshmand14.pdf
+175. Coupled Group Lasso for Web-Scale CTR Prediction in Display Advertising,,,https://proceedings.mlr.press/v32/yan14.html,
+176. Putting MRFs on a Tensor Train,,,https://proceedings.mlr.press/v32/novikov14.html,http://proceedings.mlr.press/v32/novikov14.pdf
+177. Efficient Algorithms for Robust One-bit Compressive Sensing,,,https://proceedings.mlr.press/v32/zhangc14.html,http://proceedings.mlr.press/v32/zhangc14.pdf
+178. Learning Complex Neural Network Policies with Trajectory Optimization,,,https://proceedings.mlr.press/v32/levine14.html,http://proceedings.mlr.press/v32/levine14.pdf
+179. Composite Quantization for Approximate Nearest Neighbor Search,,,https://proceedings.mlr.press/v32/zhangd14.html,http://proceedings.mlr.press/v32/zhangd14.pdf
+180. Local Ordinal Embedding,,,https://proceedings.mlr.press/v32/terada14.html,http://proceedings.mlr.press/v32/terada14.pdf
+181. Reducing Dueling Bandits to Cardinal Bandits,,,https://proceedings.mlr.press/v32/ailon14.html,http://proceedings.mlr.press/v32/ailon14.pdf
+182. Large-margin  Weakly Supervised Dimensionality Reduction,,,https://proceedings.mlr.press/v32/xu14.html,http://proceedings.mlr.press/v32/xu14.pdf
+183. Joint Inference of Multiple Label Types in Large Networks,,,https://proceedings.mlr.press/v32/chakrabarti14.html,
+184. Hard-Margin Active Linear Regression,,,https://proceedings.mlr.press/v32/hazan14.html,
+185. Maximum Margin Multiclass Nearest Neighbors,,,https://proceedings.mlr.press/v32/kontorovichb14.html,http://proceedings.mlr.press/v32/kontorovichb14.pdf
+186. Combinatorial Partial Monitoring Game with Linear Feedback and Its Applications,,,https://proceedings.mlr.press/v32/lind14.html,http://proceedings.mlr.press/v32/lind14.pdf
+187. Sparse meta-Gaussian information bottleneck,,,https://proceedings.mlr.press/v32/rey14.html,http://proceedings.mlr.press/v32/rey14.pdf
+188. Nonparametric Estimation of Renyi Divergence and Friends,,,https://proceedings.mlr.press/v32/krishnamurthy14.html,http://proceedings.mlr.press/v32/krishnamurthy14.pdf
+189. Robust Inverse Covariance Estimation under Noisy Measurements,,,https://proceedings.mlr.press/v32/wangf14.html,
+190. Bayesian Optimization with Inequality Constraints,,,https://proceedings.mlr.press/v32/gardner14.html,http://proceedings.mlr.press/v32/gardner14.pdf
+191. Circulant Binary Embedding,,,https://proceedings.mlr.press/v32/yub14.html,
+192. Multiple Testing under Dependence via Semiparametric Graphical Models,,,https://proceedings.mlr.press/v32/liue14.html,http://proceedings.mlr.press/v32/liue14.pdf
+193. Making Fisher Discriminant Analysis Scalable,,,https://proceedings.mlr.press/v32/tu14.html,http://proceedings.mlr.press/v32/tu14.pdf
+194. Hierarchical Dirichlet Scaling Process,,,https://proceedings.mlr.press/v32/kim14.html,http://proceedings.mlr.press/v32/kim14.pdf
+195. Approximation Analysis of Stochastic Gradient Langevin Dynamics  by using Fokker-Planck Equation and Ito Process,,,https://proceedings.mlr.press/v32/satoa14.html,
+196. A PAC-Bayesian bound for Lifelong Learning,,,https://proceedings.mlr.press/v32/pentina14.html,
+197. Communication-Efficient Distributed Optimization using an Approximate Newton-type Method,,,https://proceedings.mlr.press/v32/shamir14.html,http://proceedings.mlr.press/v32/shamir14.pdf
+198. Concept Drift Detection Through Resampling,,,https://proceedings.mlr.press/v32/harel14.html,http://proceedings.mlr.press/v32/harel14.pdf
+"199. Anti-differentiating approximation algorithms-A case study with min-cuts, spectral, and flow",,,https://proceedings.mlr.press/v32/gleich14.html,
+200. A Bayesian Wilcoxon signed-rank test based on the Dirichlet process,,,https://proceedings.mlr.press/v32/benavoli14.html,http://proceedings.mlr.press/v32/benavoli14.pdf
+201. Min-Max Problems on Factor Graphs,,,https://proceedings.mlr.press/v32/ravanbakhsh14.html,http://proceedings.mlr.press/v32/ravanbakhsh14.pdf
+202. Distributed Stochastic Gradient MCMC,,,https://proceedings.mlr.press/v32/ahn14.html,http://proceedings.mlr.press/v32/ahn14.pdf
+203. Nearest Neighbors Using Compact Sparse Codes,,,https://proceedings.mlr.press/v32/cherian14.html,
+204. Optimal Mean Robust Principal Component Analysis,,,https://proceedings.mlr.press/v32/nieb14.html,
+205. Preference-Based Rank Elicitation using Statistical Models- The Case of Mallows,,,https://proceedings.mlr.press/v32/busa-fekete14.html,http://proceedings.mlr.press/v32/busa-fekete14.pdf
+206. Hierarchical Conditional Random Fields for Outlier Detection- An Application to Detecting Epileptogenic Cortical Malformations,,,https://proceedings.mlr.press/v32/ahmed14.html,
+207. A Physics-Based Model Prior for Object-Oriented MDPs,,,https://proceedings.mlr.press/v32/scholz14.html,
+208. Outlier Path- A Homotopy Algorithm for Robust SVM,,,https://proceedings.mlr.press/v32/suzumura14.html,http://proceedings.mlr.press/v32/suzumura14.pdf
+209. Ensemble-Based Tracking- Aggregating Crowdsourced Structured Time Series Data,,,https://proceedings.mlr.press/v32/wangg14.html,http://proceedings.mlr.press/v32/wangg14.pdf
+210. Latent Confusion Analysis by Normalized Gamma Construction,,,https://proceedings.mlr.press/v32/satob14.html,http://proceedings.mlr.press/v32/satob14.pdf
+"211. Finito- A faster, permutable incremental gradient method for big data problems",,,https://proceedings.mlr.press/v32/defazio14.html,http://proceedings.mlr.press/v32/defazio14.pdf
+212. Ensemble Methods for Structured Prediction,,,https://proceedings.mlr.press/v32/cortesa14.html,http://proceedings.mlr.press/v32/cortesa14.pdf
+213. Standardized Mutual Information for Clustering Comparisons- One Step Further in Adjustment for Chance,,,https://proceedings.mlr.press/v32/romano14.html,http://proceedings.mlr.press/v32/romano14.pdf
+214. Preserving Modes and Messages via Diverse Particle Selection,,,https://proceedings.mlr.press/v32/pacheco14.html,http://proceedings.mlr.press/v32/pacheco14.pdf
+215. Nonlinear Information-Theoretic Compressive Measurement Design,,,https://proceedings.mlr.press/v32/wangh14.html,http://proceedings.mlr.press/v32/wangh14.pdf
+216. Dual Query- Practical Private Query Release for High Dimensional Data,,,https://proceedings.mlr.press/v32/gaboardi14.html,
+217. Deep Boosting,,,https://proceedings.mlr.press/v32/cortesb14.html,http://proceedings.mlr.press/v32/cortesb14.pdf
+218. Distributed Representations of Sentences and Documents,,,https://proceedings.mlr.press/v32/le14.html,
+219. Understanding Protein Dynamics with L1-Regularized Reversible Hidden Markov Models,,,https://proceedings.mlr.press/v32/mcgibbon14.html,
+220. Online Multi-Task Learning for Policy Gradient Methods,,,https://proceedings.mlr.press/v32/ammar14.html,
+221. Affinity Weighted Embedding,,,https://proceedings.mlr.press/v32/weston14.html,
+222. Learning the Parameters of Determinantal Point Process Kernels,,,https://proceedings.mlr.press/v32/affandi14.html,http://proceedings.mlr.press/v32/affandi14.pdf
+223. Discrete Chebyshev Classifiers,,,https://proceedings.mlr.press/v32/eban14.html,
+224. Deep AutoRegressive Networks,,,https://proceedings.mlr.press/v32/gregor14.html,http://proceedings.mlr.press/v32/gregor14.pdf
+"225. A Convergence Rate Analysis for LogitBoost, MART and Their Variant",,,https://proceedings.mlr.press/v32/sunc14.html,http://proceedings.mlr.press/v32/sunc14.pdf
+226. Inferning with High Girth Graphical Models,,,https://proceedings.mlr.press/v32/heinemann14.html,http://proceedings.mlr.press/v32/heinemann14.pdf
+227. Learning Latent Variable Gaussian Graphical Models,,,https://proceedings.mlr.press/v32/meng14.html,http://proceedings.mlr.press/v32/meng14.pdf
+228. Stochastic Backpropagation and Approximate Inference in Deep Generative Models,,,https://proceedings.mlr.press/v32/rezende14.html,http://proceedings.mlr.press/v32/rezende14.pdf
+229. One Practical Algorithm for Both Stochastic and Adversarial Bandits,,,https://proceedings.mlr.press/v32/seldinb14.html,http://proceedings.mlr.press/v32/seldinb14.pdf
+230. Robust and Efficient Kernel Hyperparameter Paths with Guarantees,,,https://proceedings.mlr.press/v32/giesen14.html,
+231. Active Transfer Learning under Model Shift,,,https://proceedings.mlr.press/v32/wangi14.html,http://proceedings.mlr.press/v32/wangi14.pdf
+232. Approximate Policy Iteration Schemes- A Comparison,,,https://proceedings.mlr.press/v32/scherrer14.html,http://proceedings.mlr.press/v32/scherrer14.pdf
+233. Stable and Efficient Representation Learning with Nonnegativity Constraints,,,https://proceedings.mlr.press/v32/line14.html,
+234. Sample Efficient Reinforcement Learning with Gaussian Processes,,,https://proceedings.mlr.press/v32/grande14.html,http://proceedings.mlr.press/v32/grande14.pdf
+235. Memory and Computation Efficient PCA via Very Sparse Random Projections,,,https://proceedings.mlr.press/v32/anaraki14.html,http://proceedings.mlr.press/v32/anaraki14.pdf
+236. Time-Regularized Interrupting Options (TRIO),,,https://proceedings.mlr.press/v32/mannb14.html,http://proceedings.mlr.press/v32/mannb14.pdf
+237. Randomized Nonlinear Component Analysis,,,https://proceedings.mlr.press/v32/lopez-paz14.html,
+238. High Order Regularization for Semi-Supervised Learning of Structured Output Problems,,,https://proceedings.mlr.press/v32/lif14.html,http://proceedings.mlr.press/v32/lif14.pdf
+239. Transductive Learning with Multi-class Volume Approximation,,,https://proceedings.mlr.press/v32/niu14.html,http://proceedings.mlr.press/v32/niu14.pdf
+240. Methods of Moments for Learning Stochastic Languages- Unified Presentation and Empirical Comparison,,,https://proceedings.mlr.press/v32/balle14.html,http://proceedings.mlr.press/v32/balle14.pdf
+241. Effective Bayesian Modeling of Groups of Related Count Time Series,,,https://proceedings.mlr.press/v32/chapados14.html,http://proceedings.mlr.press/v32/chapados14.pdf
+242. Variational Inference for Sequential Distance Dependent Chinese Restaurant Process,,,https://proceedings.mlr.press/v32/bartunov14.html,
+243. Discovering Latent Network Structure in Point Process Data,,,https://proceedings.mlr.press/v32/linderman14.html,http://proceedings.mlr.press/v32/linderman14.pdf
+244. A Kernel Independence Test for Random Processes,,,https://proceedings.mlr.press/v32/chwialkowski14.html,
+245. Learning to Disentangle Factors of Variation with Manifold Interaction,,,https://proceedings.mlr.press/v32/reed14.html,
+246. Learning Modular Structures from Network Data and Node Variables,,,https://proceedings.mlr.press/v32/azizi14.html,
+247. Probabilistic Partial Canonical Correlation Analysis,,,https://proceedings.mlr.press/v32/mukuta14.html,http://proceedings.mlr.press/v32/mukuta14.pdf
+248. Skip Context Tree Switching,,,https://proceedings.mlr.press/v32/bellemare14.html,http://proceedings.mlr.press/v32/bellemare14.pdf
+249. Lower Bounds for the Gibbs Sampler over Mixtures of Gaussians,,,https://proceedings.mlr.press/v32/tosh14.html,
+250. Marginalized Denoising Auto-encoders for Nonlinear Representations,,,https://proceedings.mlr.press/v32/cheng14.html,
+251. Gaussian Processes for Bayesian Estimation in Ordinary Differential Equations,,,https://proceedings.mlr.press/v32/barber14.html,
+252. Fast Multi-stage Submodular Maximization,,,https://proceedings.mlr.press/v32/wei14.html,http://proceedings.mlr.press/v32/wei14.pdf
+253. Programming by Feedback,,,https://proceedings.mlr.press/v32/schoenauer14.html,
+254. Probabilistic Matrix Factorization with Non-random Missing Data,,,https://proceedings.mlr.press/v32/hernandez-lobatob14.html,http://proceedings.mlr.press/v32/hernandez-lobatob14.pdf
+"255. Pursuit-Evasion Without Regret, with an Application to Trading",,,https://proceedings.mlr.press/v32/dworkin14.html,
+256. The f-Adjusted Graph Laplacian- a Diagonal Modification with a Geometric Interpretation,,,https://proceedings.mlr.press/v32/kurras14.html,http://proceedings.mlr.press/v32/kurras14.pdf
+257. Riemannian Pursuit for Big Matrix Recovery,,,https://proceedings.mlr.press/v32/tan14.html,http://proceedings.mlr.press/v32/tan14.pdf
+258. Dynamic Programming Boosting for Discriminative Macro-Action Discovery,,,https://proceedings.mlr.press/v32/lefakis14.html,
+259. Online Stochastic Optimization  under Correlated Bandit Feedback,,,https://proceedings.mlr.press/v32/azar14.html,http://proceedings.mlr.press/v32/azar14.pdf
+260. Weighted Graph Clustering with Non-Uniform Uncertainties,,,https://proceedings.mlr.press/v32/chenh14.html,http://proceedings.mlr.press/v32/chenh14.pdf
+261. GeNGA- A Generalization of Natural Gradient Ascent with Positive and Negative Convergence Results,,,https://proceedings.mlr.press/v32/thomasb14.html,
+262. A Bayesian Framework for Online Classifier Ensemble,,,https://proceedings.mlr.press/v32/bai14.html,http://proceedings.mlr.press/v32/bai14.pdf
+263. Adaptivity and Optimism- An Improved Exponentiated Gradient Algorithm,,,https://proceedings.mlr.press/v32/steinhardtb14.html,http://proceedings.mlr.press/v32/steinhardtb14.pdf
+264. Gaussian Approximation of Collective Graphical Models,,,https://proceedings.mlr.press/v32/liuf14.html,http://proceedings.mlr.press/v32/liuf14.pdf
+265. On learning to localize objects with minimal supervision,,,https://proceedings.mlr.press/v32/songb14.html,
+266. Multiresolution Matrix Factorization,,,https://proceedings.mlr.press/v32/kondor14.html,http://proceedings.mlr.press/v32/kondor14.pdf
+267. Learnability of the Superset Label Learning Problem,,,https://proceedings.mlr.press/v32/liug14.html,
+268. Taming the Monster- A Fast and Simple Algorithm for Contextual Bandits,,,https://proceedings.mlr.press/v32/agarwalb14.html,
+269. Structured Recurrent Temporal Restricted Boltzmann Machines,,,https://proceedings.mlr.press/v32/mittelman14.html,
+270. Scalable and Robust Bayesian Inference via the Median Posterior,,,https://proceedings.mlr.press/v32/minsker14.html,http://proceedings.mlr.press/v32/minsker14.pdf
+271. Kernel Adaptive Metropolis-Hastings,,,https://proceedings.mlr.press/v32/sejdinovic14.html,http://proceedings.mlr.press/v32/sejdinovic14.pdf
+272. Input Warping for Bayesian Optimization of Non-Stationary Functions,,,https://proceedings.mlr.press/v32/snoek14.html,
+273. Stochastic Gradient Hamiltonian Monte Carlo,,,https://proceedings.mlr.press/v32/cheni14.html,http://proceedings.mlr.press/v32/cheni14.pdf
+274. A Deep Semi-NMF Model for Learning Hidden Representations,,,https://proceedings.mlr.press/v32/trigeorgis14.html,http://proceedings.mlr.press/v32/trigeorgis14.pdf
+275. Asynchronous Distributed ADMM for Consensus Optimization,,,https://proceedings.mlr.press/v32/zhange14.html,
+276. Spectral Regularization for Max-Margin Sequence Tagging,,,https://proceedings.mlr.press/v32/quattoni14.html,
+277. Learning by Stretching Deep Networks,,,https://proceedings.mlr.press/v32/pandey14.html,http://proceedings.mlr.press/v32/pandey14.pdf
+278. Nonnegative Sparse PCA with Provable Guarantees,,,https://proceedings.mlr.press/v32/asteris14.html,http://proceedings.mlr.press/v32/asteris14.pdf
+279. Active Learning of Parameterized Skills,,,https://proceedings.mlr.press/v32/silva14.html,http://proceedings.mlr.press/v32/silva14.pdf
+280. Learning Ordered Representations with Nested Dropout,,,https://proceedings.mlr.press/v32/rippel14.html,http://proceedings.mlr.press/v32/rippel14.pdf
+281. Learning the Irreducible Representations of Commutative Lie Groups,,,https://proceedings.mlr.press/v32/cohen14.html,http://proceedings.mlr.press/v32/cohen14.pdf
+282. Towards End-To-End Speech Recognition with Recurrent Neural Networks,,,https://proceedings.mlr.press/v32/graves14.html,
+283. Multi-period Trading Prediction Markets with Connections to Machine Learning,,,https://proceedings.mlr.press/v32/hu14.html,http://proceedings.mlr.press/v32/hu14.pdf
+284. Efficient Gradient-Based Inference through Transformations between Bayes Nets and Neural Nets,,,https://proceedings.mlr.press/v32/kingma14.html,
+285. Neural Variational Inference and Learning in Belief Networks,,,https://proceedings.mlr.press/v32/mnih14.html,http://proceedings.mlr.press/v32/mnih14.pdf
+286. Scalable Bayesian Low-Rank Decomposition of Incomplete Multiway Tensors,,,https://proceedings.mlr.press/v32/rai14.html,http://proceedings.mlr.press/v32/rai14.pdf
+287. Beta Diffusion Trees,,,https://proceedings.mlr.press/v32/heaukulani14.html,
+288. Learning Character-level Representations for Part-of-Speech Tagging,,,https://proceedings.mlr.press/v32/santos14.html,
+289. Saddle Points and Accelerated Perceptron Algorithms,,,https://proceedings.mlr.press/v32/yuc14.html,http://proceedings.mlr.press/v32/yuc14.pdf
+290. Robust Distance Metric Learning via Simultaneous L1-Norm Minimization and Maximization,,,https://proceedings.mlr.press/v32/wangj14.html,
+291. Learning from Contagion (Without Timestamps),,,https://proceedings.mlr.press/v32/amin14.html,http://proceedings.mlr.press/v32/amin14.pdf
+292. Stochastic Variational Inference for Bayesian Time Series Models,,,https://proceedings.mlr.press/v32/johnson14.html,
+293. A Clockwork RNN,,,https://proceedings.mlr.press/v32/koutnik14.html,
+294. Estimating Latent-Variable Graphical Models using Moments and Likelihoods,,,https://proceedings.mlr.press/v32/chaganty14.html,http://proceedings.mlr.press/v32/chaganty14.pdf
+295. Universal Matrix Completion,,,https://proceedings.mlr.press/v32/bhojanapalli14.html,http://proceedings.mlr.press/v32/bhojanapalli14.pdf
+296. Finding Dense Subgraphs via Low-Rank Bilinear Optimization,,,https://proceedings.mlr.press/v32/papailiopoulos14.html,http://proceedings.mlr.press/v32/papailiopoulos14.pdf
+297. Compositional Morphology for Word Representations and Language Modelling,,,https://proceedings.mlr.press/v32/botha14.html,
+298. Learning Polynomials with Neural Networks,,,https://proceedings.mlr.press/v32/andoni14.html,
+299. Exponential Family Matrix Completion under Structural Constraints,,,https://proceedings.mlr.press/v32/gunasekar14.html,http://proceedings.mlr.press/v32/gunasekar14.pdf
+300. Sample-based approximate regularization,,,https://proceedings.mlr.press/v32/bachman14.html,http://proceedings.mlr.press/v32/bachman14.pdf
+301. A Compilation Target for Probabilistic Programming Languages,,,https://proceedings.mlr.press/v32/paige14.html,
+302. Adaptive Monte Carlo via Bandit Allocation,,,https://proceedings.mlr.press/v32/neufeld14.html,http://proceedings.mlr.press/v32/neufeld14.pdf
+303. Efficient Dimensionality Reduction for High-Dimensional Network Estimation,,,https://proceedings.mlr.press/v32/celik14.html,
+304. Deterministic Anytime Inference for Stochastic Continuous-Time Markov Processes,,,https://proceedings.mlr.press/v32/celikkaya14.html,
+305. Doubly Stochastic Variational Bayes for non-Conjugate Inference,,,https://proceedings.mlr.press/v32/titsias14.html,http://proceedings.mlr.press/v32/titsias14.pdf
+306. Efficient Learning of Mahalanobis Metrics for Ranking,,,https://proceedings.mlr.press/v32/lim14.html,http://proceedings.mlr.press/v32/lim14.pdf
+307. GEV-Canonical Regression for Accurate Binary Class Probability Estimation when One Class is Rare,,,https://proceedings.mlr.press/v32/agarwalc14.html,http://proceedings.mlr.press/v32/agarwalc14.pdf
+308. A reversible infinite HMM using normalised random measures,,,https://proceedings.mlr.press/v32/knowles14.html,http://proceedings.mlr.press/v32/knowles14.pdf
+"309. Structured Low-Rank Matrix Factorization- Optimality, Algorithm, and Applications to Image Processing",,,https://proceedings.mlr.press/v32/haeffele14.html,http://proceedings.mlr.press/v32/haeffele14.pdf
+"310. Influence Function Learning in Information Diffusion Networks | [link](https://proceedings.mlr.press/v32/du14.html), [pdf](http://proceedings.mlr.press/v32/du14.pdf), [supp](http://proceedings.mlr.press/v32/du14-supp.zip)A Discriminative Latent Variable Model for Online Clustering",,,https://proceedings.mlr.press/v32/du14.html,http://proceedings.mlr.press/v32/du14.pdf
+Kernel Mean Estimation and Stein Effect,,,https://proceedings.mlr.press/v32/muandet14.html,http://proceedings.mlr.press/v32/muandet14.pdf
+Demystifying Information-Theoretic Clustering,,,https://proceedings.mlr.press/v32/steeg14.html,http://proceedings.mlr.press/v32/steeg14.pdf
+Covering Number for Efficient Heuristic-based POMDP Planning,,,https://proceedings.mlr.press/v32/zhanga14.html,http://proceedings.mlr.press/v32/zhanga14.pdf
+The Coherent Loss Function for Classification,,,https://proceedings.mlr.press/v32/yanga14.html,http://proceedings.mlr.press/v32/yanga14.pdf
+Fast Stochastic Alternating Direction Method of Multipliers,,,https://proceedings.mlr.press/v32/zhong14.html,
+Active Detection via Adaptive Submodularity,,,https://proceedings.mlr.press/v32/chena14.html,http://proceedings.mlr.press/v32/chena14.pdf
+Accelerated Proximal Stochastic Dual Coordinate Ascent for Regularized Loss Minimization,,,https://proceedings.mlr.press/v32/shalev-shwartz14.html,
+An Adaptive Accelerated Proximal Gradient Method and its Homotopy Continuation for Sparse Optimization,,,https://proceedings.mlr.press/v32/lin14.html,http://proceedings.mlr.press/v32/lin14.pdf
+Recurrent Convolutional Neural Networks for Scene Labeling,,,https://proceedings.mlr.press/v32/pinheiro14.html,
+A Statistical Perspective on Algorithmic Leveraging,,,https://proceedings.mlr.press/v32/ma14.html,
+Thompson Sampling for Complex Online Problems,,,https://proceedings.mlr.press/v32/gopalan14.html,http://proceedings.mlr.press/v32/gopalan14.pdf
+Boosting multi-step autoregressive forecasts,,,https://proceedings.mlr.press/v32/taieb14.html,http://proceedings.mlr.press/v32/taieb14.pdf
+A Statistical Convergence Perspective of Algorithms for Rank Aggregation from Pairwise Data,,,https://proceedings.mlr.press/v32/rajkumar14.html,http://proceedings.mlr.press/v32/rajkumar14.pdf
+Scaling Up Approximate Value Iteration with Options- Better Policies with Fewer Iterations,,,https://proceedings.mlr.press/v32/mann14.html,http://proceedings.mlr.press/v32/mann14.pdf
+Latent Bandits.,,,https://proceedings.mlr.press/v32/maillard14.html,
+Fast Allocation of Gaussian Process Experts,,,https://proceedings.mlr.press/v32/nguyena14.html,
+Von Mises-Fisher Clustering Models,,,https://proceedings.mlr.press/v32/gopal14.html,http://proceedings.mlr.press/v32/gopal14.pdf
+Convergence rates for persistence diagram estimation in Topological Data Analysis,,,https://proceedings.mlr.press/v32/chazal14.html,
+Buffer k-d Trees- Processing Massive Nearest Neighbor Queries on GPUs,,,https://proceedings.mlr.press/v32/gieseke14.html,
+Austerity in MCMC Land- Cutting the Metropolis-Hastings Budget,,,https://proceedings.mlr.press/v32/korattikara14.html,http://proceedings.mlr.press/v32/korattikara14.pdf
+Understanding the Limiting Factors of Topic Modeling via Posterior Contraction Analysis,,,https://proceedings.mlr.press/v32/tang14.html,
+The Inverse Regression Topic Model,,,https://proceedings.mlr.press/v32/rabinovich14.html,http://proceedings.mlr.press/v32/rabinovich14.pdf
+A Consistent Histogram Estimator for Exchangeable Graph Models,,,https://proceedings.mlr.press/v32/chan14.html,
+Latent Variable Copula Inference for Bundle Pricing from Retail Transaction Data,,,https://proceedings.mlr.press/v32/letham14.html,
+Towards Minimax Online Learning with Unknown Time Horizon,,,https://proceedings.mlr.press/v32/luo14.html,http://proceedings.mlr.press/v32/luo14.pdf
+Factorized Point Process Intensities- A Spatial Analysis of Professional Basketball,,,https://proceedings.mlr.press/v32/miller14.html,http://proceedings.mlr.press/v32/miller14.pdf
+"Margins, Kernels and Non-linear Smoothed Perceptrons",,,https://proceedings.mlr.press/v32/ramdas14.html,http://proceedings.mlr.press/v32/ramdas14.pdf
+Robust RegBayes- Selectively Incorporating First-Order Logic Domain Knowledge into Bayesian Models,,,https://proceedings.mlr.press/v32/mei14.html,
+Learning Theory and Algorithms for revenue optimization in second price auctions with reserve,,,https://proceedings.mlr.press/v32/mohri14.html,http://proceedings.mlr.press/v32/mohri14.pdf
+Low-density Parity Constraints for Hashing-Based Discrete Integration,,,https://proceedings.mlr.press/v32/ermon14.html,http://proceedings.mlr.press/v32/ermon14.pdf
+Prediction with Limited Advice and Multiarmed Bandits with Paid Observations,,,https://proceedings.mlr.press/v32/seldin14.html,http://proceedings.mlr.press/v32/seldin14.pdf
+Bayesian Nonparametric Multilevel Clustering with Group-Level Contexts,,,https://proceedings.mlr.press/v32/nguyenb14.html,http://proceedings.mlr.press/v32/nguyenb14.pdf
+Large-Margin Metric Learning for Constrained Partitioning Problems,,,https://proceedings.mlr.press/v32/lajugie14.html,
+Wasserstein Propagation for Semi-Supervised Learning,,,https://proceedings.mlr.press/v32/solomon14.html,
+Max-Margin Infinite Hidden Markov Models,,,https://proceedings.mlr.press/v32/zhangb14.html,
+Efficient Approximation of Cross-Validation for Kernel Methods using Bouligand Influence Function,,,https://proceedings.mlr.press/v32/liua14.html,
+Generalized Exponential Concentration Inequality for Renyi Divergence Estimation,,,https://proceedings.mlr.press/v32/singh14.html,
+Boosting with Online Binary Learners for the Multiclass Bandit Problem,,,https://proceedings.mlr.press/v32/chenb14.html,
+Optimal Budget Allocation- Theoretical Guarantee and Efficient Algorithm,,,https://proceedings.mlr.press/v32/soma14.html,http://proceedings.mlr.press/v32/soma14.pdf
+Computing Parametric Ranking Models via Rank-Breaking,,,https://proceedings.mlr.press/v32/soufiani14.html,http://proceedings.mlr.press/v32/soufiani14.pdf
+Tracking Adversarial Targets,,,https://proceedings.mlr.press/v32/abbasi-yadkori14.html,http://proceedings.mlr.press/v32/abbasi-yadkori14.pdf
+Online Bayesian Passive-Aggressive Learning,,,https://proceedings.mlr.press/v32/shi14.html,http://proceedings.mlr.press/v32/shi14.pdf
+Deterministic Policy Gradient Algorithms,,,https://proceedings.mlr.press/v32/silver14.html,http://proceedings.mlr.press/v32/silver14.pdf
+Modeling Correlated Arrival Events with Latent Semi-Markov Processes,,,https://proceedings.mlr.press/v32/lian14.html,http://proceedings.mlr.press/v32/lian14.pdf
+Towards scaling up Markov chain Monte Carlo- an adaptive subsampling approach,,,https://proceedings.mlr.press/v32/bardenet14.html,http://proceedings.mlr.press/v32/bardenet14.pdf
+Diagnosis determination- decision trees optimizing simultaneously worst and expected testing cost,,,https://proceedings.mlr.press/v32/cicalese14.html,
+Condensed Filter Tree for Cost-Sensitive Multi-Label Classification,,,https://proceedings.mlr.press/v32/lia14.html,http://proceedings.mlr.press/v32/lia14.pdf
+On Measure Concentration of Random Maximum A-Posteriori Perturbations,,,https://proceedings.mlr.press/v32/orabona14.html,http://proceedings.mlr.press/v32/orabona14.pdf
+Bias in Natural Actor-Critic Algorithms,,,https://proceedings.mlr.press/v32/thomas14.html,
+Dimension-free Concentration Bounds on Hankel Matrices for Spectral Learning,,,https://proceedings.mlr.press/v32/denis14.html,
+On Modelling Non-linear Topical Dependencies,,,https://proceedings.mlr.press/v32/lib14.html,
+A Deep and Tractable Density Estimator,,,https://proceedings.mlr.press/v32/uria14.html,
+(Near) Dimension Independent Risk Bounds for Differentially Private Learning,,,https://proceedings.mlr.press/v32/jain14.html,http://proceedings.mlr.press/v32/jain14.pdf
+Quasi-Monte Carlo Feature Maps for Shift-Invariant Kernels,,,https://proceedings.mlr.press/v32/yangb14.html,http://proceedings.mlr.press/v32/yangb14.pdf
+Discriminative Features via Generalized Eigenvectors,,,https://proceedings.mlr.press/v32/karampatziakis14.html,
+Forward-Backward Greedy Algorithms for General Convex Smooth Functions over A Cardinality Constraint,,,https://proceedings.mlr.press/v32/liub14.html,
+Online Learning in Markov Decision Processes with Changing Cost Sequences,,,https://proceedings.mlr.press/v32/dick14.html,http://proceedings.mlr.press/v32/dick14.pdf
+Unimodal Bandits- Regret Lower Bounds and Optimal Algorithms,,,https://proceedings.mlr.press/v32/combes14.html,
+Maximum Mean Discrepancy for Class Ratio Estimation- Convergence Bounds and Kernel Selection,,,https://proceedings.mlr.press/v32/iyer14.html,http://proceedings.mlr.press/v32/iyer14.pdf
+Asymptotically consistent estimation of the number of change points in highly dependent time series,,,https://proceedings.mlr.press/v32/khaleghi14.html,
+Coordinate-descent for learning orthogonal matrices through Givens rotations,,,https://proceedings.mlr.press/v32/shalit14.html,http://proceedings.mlr.press/v32/shalit14.pdf
+Densifying One Permutation Hashing via Rotation for Fast Near Neighbor Search,,,https://proceedings.mlr.press/v32/shrivastava14.html,
+A Divide-and-Conquer Solver for Kernel Support Vector Machines,,,https://proceedings.mlr.press/v32/hsieha14.html,http://proceedings.mlr.press/v32/hsieha14.pdf
+Nuclear Norm Minimization via Active Subspace Selection,,,https://proceedings.mlr.press/v32/hsiehb14.html,http://proceedings.mlr.press/v32/hsiehb14.pdf
+Provable Bounds for Learning Some Deep Representations,,,https://proceedings.mlr.press/v32/arora14.html,
+Large-scale Multi-label Learning with Missing Labels,,,https://proceedings.mlr.press/v32/yu14.html,http://proceedings.mlr.press/v32/yu14.pdf
+Learning Graphs with a Few Hubs,,,https://proceedings.mlr.press/v32/tandon14.html,http://proceedings.mlr.press/v32/tandon14.pdf
+Agnostic Bayesian Learning of Ensembles,,,https://proceedings.mlr.press/v32/lacoste14.html,http://proceedings.mlr.press/v32/lacoste14.pdf
+Towards an optimal stochastic alternating direction method of multipliers,,,https://proceedings.mlr.press/v32/azadi14.html,http://proceedings.mlr.press/v32/azadi14.pdf
+Spherical Hamiltonian Monte Carlo for Constrained Target Distributions,,,https://proceedings.mlr.press/v32/lan14.html,
+Efficient Continuous-Time Markov Chain Estimation,,,https://proceedings.mlr.press/v32/hajiaghayi14.html,http://proceedings.mlr.press/v32/hajiaghayi14.pdf
+DeCAF- A Deep Convolutional Activation Feature for Generic Visual Recognition,,,https://proceedings.mlr.press/v32/donahue14.html,
+Making the Most of Bag of Words- Sentence Regularization with Alternating Direction Method of Multipliers,,,https://proceedings.mlr.press/v32/yogatama14.html,
+Narrowing the Gap- Random Forests In Theory and In Practice,,,https://proceedings.mlr.press/v32/denil14.html,http://proceedings.mlr.press/v32/denil14.pdf
+Coherent Matrix Completion,,,https://proceedings.mlr.press/v32/chenc14.html,http://proceedings.mlr.press/v32/chenc14.pdf
+Admixture of Poisson MRFs- A Topic Model with Word Dependencies,,,https://proceedings.mlr.press/v32/inouye14.html,http://proceedings.mlr.press/v32/inouye14.pdf
+True Online TD(lambda),,,https://proceedings.mlr.press/v32/seijen14.html,
+Memory Efficient Kernel Approximation,,,https://proceedings.mlr.press/v32/si14.html,http://proceedings.mlr.press/v32/si14.pdf
+Learning Sum-Product Networks with Direct and Indirect Variable Interactions,,,https://proceedings.mlr.press/v32/rooshenas14.html,http://proceedings.mlr.press/v32/rooshenas14.pdf
+Hamiltonian Monte Carlo Without Detailed Balance,,,https://proceedings.mlr.press/v32/sohl-dickstein14.html,
+Filtering with Abstract Particles,,,https://proceedings.mlr.press/v32/steinhardt14.html,http://proceedings.mlr.press/v32/steinhardt14.pdf
+Stochastic Dual Coordinate Ascent with Alternating Direction Method of Multipliers,,,https://proceedings.mlr.press/v32/suzuki14.html,http://proceedings.mlr.press/v32/suzuki14.pdf
+Deep Supervised and Convolutional Generative Stochastic Network for Protein Secondary Structure Prediction,,,https://proceedings.mlr.press/v32/zhou14.html,
+An Efficient Approach for Assessing Hyperparameter Importance,,,https://proceedings.mlr.press/v32/hutter14.html,http://proceedings.mlr.press/v32/hutter14.pdf
+An Information Geometry of Statistical Manifold Learning,,,https://proceedings.mlr.press/v32/suna14.html,http://proceedings.mlr.press/v32/suna14.pdf
+Relative Upper Confidence Bound for the K-Armed Dueling Bandit Problem,,,https://proceedings.mlr.press/v32/zoghi14.html,http://proceedings.mlr.press/v32/zoghi14.pdf
+Compact Random Feature Maps,,,https://proceedings.mlr.press/v32/hamid14.html,
+Concentration in unbounded metric spaces and algorithmic stability,,,https://proceedings.mlr.press/v32/kontorovicha14.html,http://proceedings.mlr.press/v32/kontorovicha14.pdf
+Heavy-tailed regression with a generalized median-of-means,,,https://proceedings.mlr.press/v32/hsu14.html,
+Spectral Bandits for Smooth Graph Functions,,,https://proceedings.mlr.press/v32/valko14.html,http://proceedings.mlr.press/v32/valko14.pdf
+Robust Principal Component Analysis with Complex Noise,,,https://proceedings.mlr.press/v32/zhao14.html,http://proceedings.mlr.press/v32/zhao14.pdf
+Scalable Semidefinite Relaxation for Maximum A Posterior Estimation,,,https://proceedings.mlr.press/v32/huang14.html,http://proceedings.mlr.press/v32/huang14.pdf
+Square Deal- Lower Bounds and Improved Relaxations for Tensor Recovery,,,https://proceedings.mlr.press/v32/mu14.html,http://proceedings.mlr.press/v32/mu14.pdf
+Automated inference of point of view from user interactions in collective intelligence venues,,,https://proceedings.mlr.press/v32/das14.html,
+Rank-One Matrix Pursuit for Matrix Completion,,,https://proceedings.mlr.press/v32/wanga14.html,
+Near-Optimal Joint Object Matching via Convex Relaxation,,,https://proceedings.mlr.press/v32/chend14.html,http://proceedings.mlr.press/v32/chend14.pdf
+Convex Total Least Squares,,,https://proceedings.mlr.press/v32/malioutov14.html,
+On p-norm Path Following in Multiple Kernel Learning for Non-linear Feature Selection,,,https://proceedings.mlr.press/v32/jawanpuria14.html,http://proceedings.mlr.press/v32/jawanpuria14.pdf
+Gradient Hard Thresholding Pursuit for Sparsity-Constrained Optimization,,,https://proceedings.mlr.press/v32/yuan14.html,
+A Unified Framework for Consistency of Regularized Loss Minimizers,,,https://proceedings.mlr.press/v32/honorio14.html,http://proceedings.mlr.press/v32/honorio14.pdf
+Geodesic Distance Function Learning via Heat Flow on Vector Fields,,,https://proceedings.mlr.press/v32/linb14.html,
+Near-Optimally Teaching the Crowd to Classify,,,https://proceedings.mlr.press/v32/singla14.html,http://proceedings.mlr.press/v32/singla14.pdf
+On the convergence of no-regret learning in selfish routing,,,https://proceedings.mlr.press/v32/krichene14.html,http://proceedings.mlr.press/v32/krichene14.pdf
+Improving offline evaluation of contextual bandit algorithms via bootstrapping techniques,,,https://proceedings.mlr.press/v32/mary14.html,http://proceedings.mlr.press/v32/mary14.pdf
+Scaling Up Robust MDPs using Function Approximation,,,https://proceedings.mlr.press/v32/tamar14.html,http://proceedings.mlr.press/v32/tamar14.pdf
+Marginal Structured SVM with Hidden Variables,,,https://proceedings.mlr.press/v32/ping14.html,http://proceedings.mlr.press/v32/ping14.pdf
+Linear and Parallel Learning of Markov Random Fields,,,https://proceedings.mlr.press/v32/mizrahi14.html,
+Pitfalls in the use of Parallel Inference for the Dirichlet Process,,,https://proceedings.mlr.press/v32/gal14.html,
+Optimal PAC Multiple Arm Identification with Applications to Crowdsourcing,,,https://proceedings.mlr.press/v32/zhoub14.html,http://proceedings.mlr.press/v32/zhoub14.pdf
+Deep Generative Stochastic Networks Trainable by Backprop,,,https://proceedings.mlr.press/v32/bengio14.html,http://proceedings.mlr.press/v32/bengio14.pdf
+A Highly Scalable Parallel Algorithm for Isotropic Total Variation Models,,,https://proceedings.mlr.press/v32/wangb14.html,http://proceedings.mlr.press/v32/wangb14.pdf
+Statistical-Computational Phase Transitions in Planted Models- The High-Dimensional Setting,,,https://proceedings.mlr.press/v32/chene14.html,http://proceedings.mlr.press/v32/chene14.pdf
+Gaussian Process Optimization with Mutual Information,,,https://proceedings.mlr.press/v32/contal14.html,
+Aggregating Ordinal Labels from Crowds by Minimax Conditional Entropy,,,https://proceedings.mlr.press/v32/zhouc14.html,
+Exchangeable Variable Models,,,https://proceedings.mlr.press/v32/niepert14.html,http://proceedings.mlr.press/v32/niepert14.pdf
+Clustering in the Presence of Background Noise,,,https://proceedings.mlr.press/v32/ben-david14.html,http://proceedings.mlr.press/v32/ben-david14.pdf
+Safe Screening with Variational Inequalities and Its Application to Lasso,,,https://proceedings.mlr.press/v32/liuc14.html,http://proceedings.mlr.press/v32/liuc14.pdf
+Learning the Consistent Behavior of Common Users for Target Node Prediction across Social Networks,,,https://proceedings.mlr.press/v32/wu14.html,http://proceedings.mlr.press/v32/wu14.pdf
+Signal recovery from Pooling Representations,,,https://proceedings.mlr.press/v32/estrach14.html,http://proceedings.mlr.press/v32/estrach14.pdf
+PAC-inspired Option Discovery in Lifelong Reinforcement Learning,,,https://proceedings.mlr.press/v32/brunskill14.html,http://proceedings.mlr.press/v32/brunskill14.pdf
+Multi-label Classification via Feature-aware Implicit Label Space Encoding,,,https://proceedings.mlr.press/v32/linc14.html,http://proceedings.mlr.press/v32/linc14.pdf
+Scalable Gaussian Process Structured Prediction for Grid Factor Graph Applications,,,https://proceedings.mlr.press/v32/bratieres14.html,http://proceedings.mlr.press/v32/bratieres14.pdf
+Anomaly Ranking as Supervised Bipartite Ranking,,,https://proceedings.mlr.press/v32/clemencon14.html,
+Hierarchical Quasi-Clustering Methods for Asymmetric Networks,,,https://proceedings.mlr.press/v32/carlsson14.html,http://proceedings.mlr.press/v32/carlsson14.pdf
+Rectangular Tiling Process,,,https://proceedings.mlr.press/v32/nakano14.html,http://proceedings.mlr.press/v32/nakano14.pdf
+Two-Stage Metric Learning,,,https://proceedings.mlr.press/v32/wangc14.html,http://proceedings.mlr.press/v32/wangc14.pdf
+Stochastic Inference for Scalable Probabilistic Modeling of Binary Matrices,,,https://proceedings.mlr.press/v32/hernandez-lobatoa14.html,http://proceedings.mlr.press/v32/hernandez-lobatoa14.pdf
+Elementary Estimators for High-Dimensional Linear Regression,,,https://proceedings.mlr.press/v32/yangc14.html,http://proceedings.mlr.press/v32/yangc14.pdf
+Elementary Estimators for Sparse Covariance Matrices and other Structured Moments,,,https://proceedings.mlr.press/v32/yangd14.html,http://proceedings.mlr.press/v32/yangd14.pdf
+Graph-based Semi-supervised Learning- Realizing Pointwise Smoothness Probabilistically,,,https://proceedings.mlr.press/v32/fang14.html,http://proceedings.mlr.press/v32/fang14.pdf
+Bayesian Max-margin Multi-Task Learning with Data Augmentation,,,https://proceedings.mlr.press/v32/lic14.html,
+Sparse Reinforcement Learning via Convex Optimization,,,https://proceedings.mlr.press/v32/qin14.html,http://proceedings.mlr.press/v32/qin14.pdf
+Gaussian Process Classification and Active Learning with Multiple Annotators,,,https://proceedings.mlr.press/v32/rodrigues14.html,http://proceedings.mlr.press/v32/rodrigues14.pdf
+Structured Prediction of Network Response,,,https://proceedings.mlr.press/v32/su14.html,http://proceedings.mlr.press/v32/su14.pdf
+An Analysis of State-Relevance Weights and Sampling Distributions on L1-Regularized Approximate Linear Programming Approximation Accuracy,,,https://proceedings.mlr.press/v32/taylor14.html,
+Optimization Equivalence of Divergences Improves Neighbor Embedding,,,https://proceedings.mlr.press/v32/yange14.html,http://proceedings.mlr.press/v32/yange14.pdf
+An Asynchronous Parallel Stochastic Coordinate Descent Algorithm,,,https://proceedings.mlr.press/v32/liud14.html,
+Consistency of Causal Inference under the Additive Noise Model,,,https://proceedings.mlr.press/v32/kpotufe14.html,
+Globally Convergent Parallel MAP LP Relaxation Solver using the Frank-Wolfe Algorithm,,,https://proceedings.mlr.press/v32/schwing14.html,
+Linear Programming for Large-Scale Markov Decision Problems,,,https://proceedings.mlr.press/v32/malek14.html,http://proceedings.mlr.press/v32/malek14.pdf
+Linear Time Solver for Primal SVM,,,https://proceedings.mlr.press/v32/niea14.html,
+Memory (and Time) Efficient Sequential Monte Carlo,,,https://proceedings.mlr.press/v32/jun14.html,http://proceedings.mlr.press/v32/jun14.pdf
+Scaling SVM and Least Absolute Deviations via Exact Data Reduction,,,https://proceedings.mlr.press/v32/wangd14.html,http://proceedings.mlr.press/v32/wangd14.pdf
+Latent Semantic Representation Learning for Scene Classification,,,https://proceedings.mlr.press/v32/lid14.html,
+Least Squares Revisited- Scalable Approaches for Multi-class Prediction,,,https://proceedings.mlr.press/v32/agarwala14.html,
+Local algorithms for interactive clustering,,,https://proceedings.mlr.press/v32/awasthi14.html,
+Model-Based Relational RL When Object Existence is Partially Observable,,,https://proceedings.mlr.press/v32/ngo14.html,
+A new Q(lambda) with interim forward view and Monte Carlo equivalence,,,https://proceedings.mlr.press/v32/sutton14.html,http://proceedings.mlr.press/v32/sutton14.pdf
+On Robustness and Regularization of Structural Support Vector Machines,,,https://proceedings.mlr.press/v32/torkamani14.html,http://proceedings.mlr.press/v32/torkamani14.pdf
+Guess-Averse Loss Functions For Cost-Sensitive Multiclass Boosting,,,https://proceedings.mlr.press/v32/beijbom14.html,http://proceedings.mlr.press/v32/beijbom14.pdf
+Multimodal Neural Language Models,,,https://proceedings.mlr.press/v32/kiros14.html,http://proceedings.mlr.press/v32/kiros14.pdf
+Fast large-scale optimization by unifying stochastic gradient and quasi-Newton methods,,,https://proceedings.mlr.press/v32/sohl-dicksteinb14.html,
+Alternating Minimization for Mixed Linear Regression,,,https://proceedings.mlr.press/v32/yia14.html,http://proceedings.mlr.press/v32/yia14.pdf
+Stochastic Neighbor Compression,,,https://proceedings.mlr.press/v32/kusner14.html,
+Robust Learning under Uncertain Test Distributions- Relating Covariate Shift to Model Misspecification,,,https://proceedings.mlr.press/v32/wen14.html,http://proceedings.mlr.press/v32/wen14.pdf
+Nonparametric Estimation of Multi-View Latent Variable Models,,,https://proceedings.mlr.press/v32/songa14.html,http://proceedings.mlr.press/v32/songa14.pdf
+Structured Generative Models of Natural Source Code,,,https://proceedings.mlr.press/v32/maddison14.html,http://proceedings.mlr.press/v32/maddison14.pdf
+A Single-Pass Algorithm for Efficiently Recovering Sparse Cluster Centers of High-dimensional Data,,,https://proceedings.mlr.press/v32/yib14.html,http://proceedings.mlr.press/v32/yib14.pdf
+Statistical analysis of stochastic gradient methods for generalized linear models,,,https://proceedings.mlr.press/v32/toulis14.html,
+Coding for Random Projections,,,https://proceedings.mlr.press/v32/lie14.html,
+Fast Computation of Wasserstein Barycenters,,,https://proceedings.mlr.press/v32/cuturi14.html,
+Global graph kernels using geometric embeddings,,,https://proceedings.mlr.press/v32/johansson14.html,http://proceedings.mlr.press/v32/johansson14.pdf
+"Topic Modeling using Topics from Many Domains, Lifelong Learning and Big Data",,,https://proceedings.mlr.press/v32/chenf14.html,http://proceedings.mlr.press/v32/chenf14.pdf
+K-means recovers ICA filters when independent components are sparse,,,https://proceedings.mlr.press/v32/vinnikov14.html,http://proceedings.mlr.press/v32/vinnikov14.pdf
+Learning Mixtures of Linear Classifiers,,,https://proceedings.mlr.press/v32/sunb14.html,http://proceedings.mlr.press/v32/sunb14.pdf
+The Falling Factorial Basis and Its Statistical Applications,,,https://proceedings.mlr.press/v32/wange14.html,http://proceedings.mlr.press/v32/wange14.pdf
+Nonmyopic ε-Bayes-Optimal Active Learning of Gaussian Processes,,,https://proceedings.mlr.press/v32/hoang14.html,http://proceedings.mlr.press/v32/hoang14.pdf
+A Unifying View of Representer Theorems,,,https://proceedings.mlr.press/v32/argyriou14.html,http://proceedings.mlr.press/v32/argyriou14.pdf
+Online Clustering of Bandits,,,https://proceedings.mlr.press/v32/gentile14.html,http://proceedings.mlr.press/v32/gentile14.pdf
+Cold-start Active Learning with Robust Ordinal Matrix Factorization,,,https://proceedings.mlr.press/v32/houlsby14.html,http://proceedings.mlr.press/v32/houlsby14.pdf
+Multivariate Maximal Correlation Analysis,,,https://proceedings.mlr.press/v32/nguyenc14.html,
+Efficient Label Propagation,,,https://proceedings.mlr.press/v32/fujiwara14.html,
+"Estimating Diffusion Network Structures- Recovery Conditions, Sample Complexity & Soft-thresholding Algorithm",,,https://proceedings.mlr.press/v32/daneshmand14.html,http://proceedings.mlr.press/v32/daneshmand14.pdf
+Coupled Group Lasso for Web-Scale CTR Prediction in Display Advertising,,,https://proceedings.mlr.press/v32/yan14.html,
+Putting MRFs on a Tensor Train,,,https://proceedings.mlr.press/v32/novikov14.html,http://proceedings.mlr.press/v32/novikov14.pdf
+Efficient Algorithms for Robust One-bit Compressive Sensing,,,https://proceedings.mlr.press/v32/zhangc14.html,http://proceedings.mlr.press/v32/zhangc14.pdf
+Learning Complex Neural Network Policies with Trajectory Optimization,,,https://proceedings.mlr.press/v32/levine14.html,http://proceedings.mlr.press/v32/levine14.pdf
+Composite Quantization for Approximate Nearest Neighbor Search,,,https://proceedings.mlr.press/v32/zhangd14.html,http://proceedings.mlr.press/v32/zhangd14.pdf
+Local Ordinal Embedding,,,https://proceedings.mlr.press/v32/terada14.html,http://proceedings.mlr.press/v32/terada14.pdf
+Reducing Dueling Bandits to Cardinal Bandits,,,https://proceedings.mlr.press/v32/ailon14.html,http://proceedings.mlr.press/v32/ailon14.pdf
+Large-margin Weakly Supervised Dimensionality Reduction,,,https://proceedings.mlr.press/v32/xu14.html,http://proceedings.mlr.press/v32/xu14.pdf
+Joint Inference of Multiple Label Types in Large Networks,,,https://proceedings.mlr.press/v32/chakrabarti14.html,
+Hard-Margin Active Linear Regression,,,https://proceedings.mlr.press/v32/hazan14.html,
+Maximum Margin Multiclass Nearest Neighbors,,,https://proceedings.mlr.press/v32/kontorovichb14.html,http://proceedings.mlr.press/v32/kontorovichb14.pdf
+Combinatorial Partial Monitoring Game with Linear Feedback and Its Applications,,,https://proceedings.mlr.press/v32/lind14.html,http://proceedings.mlr.press/v32/lind14.pdf
+Sparse meta-Gaussian information bottleneck,,,https://proceedings.mlr.press/v32/rey14.html,http://proceedings.mlr.press/v32/rey14.pdf
+Nonparametric Estimation of Renyi Divergence and Friends,,,https://proceedings.mlr.press/v32/krishnamurthy14.html,http://proceedings.mlr.press/v32/krishnamurthy14.pdf
+Robust Inverse Covariance Estimation under Noisy Measurements,,,https://proceedings.mlr.press/v32/wangf14.html,
+Bayesian Optimization with Inequality Constraints,,,https://proceedings.mlr.press/v32/gardner14.html,http://proceedings.mlr.press/v32/gardner14.pdf
+Circulant Binary Embedding,,,https://proceedings.mlr.press/v32/yub14.html,
+Multiple Testing under Dependence via Semiparametric Graphical Models,,,https://proceedings.mlr.press/v32/liue14.html,http://proceedings.mlr.press/v32/liue14.pdf
+Making Fisher Discriminant Analysis Scalable,,,https://proceedings.mlr.press/v32/tu14.html,http://proceedings.mlr.press/v32/tu14.pdf
+Hierarchical Dirichlet Scaling Process,,,https://proceedings.mlr.press/v32/kim14.html,http://proceedings.mlr.press/v32/kim14.pdf
+Approximation Analysis of Stochastic Gradient Langevin Dynamics by using Fokker-Planck Equation and Ito Process,,,https://proceedings.mlr.press/v32/satoa14.html,
+A PAC-Bayesian bound for Lifelong Learning,,,https://proceedings.mlr.press/v32/pentina14.html,
+Communication-Efficient Distributed Optimization using an Approximate Newton-type Method,,,https://proceedings.mlr.press/v32/shamir14.html,http://proceedings.mlr.press/v32/shamir14.pdf
+Concept Drift Detection Through Resampling,,,https://proceedings.mlr.press/v32/harel14.html,http://proceedings.mlr.press/v32/harel14.pdf
+"Anti-differentiating approximation algorithms-A case study with min-cuts, spectral, and flow",,,https://proceedings.mlr.press/v32/gleich14.html,
+A Bayesian Wilcoxon signed-rank test based on the Dirichlet process,,,https://proceedings.mlr.press/v32/benavoli14.html,http://proceedings.mlr.press/v32/benavoli14.pdf
+Min-Max Problems on Factor Graphs,,,https://proceedings.mlr.press/v32/ravanbakhsh14.html,http://proceedings.mlr.press/v32/ravanbakhsh14.pdf
+Distributed Stochastic Gradient MCMC,,,https://proceedings.mlr.press/v32/ahn14.html,http://proceedings.mlr.press/v32/ahn14.pdf
+Nearest Neighbors Using Compact Sparse Codes,,,https://proceedings.mlr.press/v32/cherian14.html,
+Optimal Mean Robust Principal Component Analysis,,,https://proceedings.mlr.press/v32/nieb14.html,
+Preference-Based Rank Elicitation using Statistical Models- The Case of Mallows,,,https://proceedings.mlr.press/v32/busa-fekete14.html,http://proceedings.mlr.press/v32/busa-fekete14.pdf
+Hierarchical Conditional Random Fields for Outlier Detection- An Application to Detecting Epileptogenic Cortical Malformations,,,https://proceedings.mlr.press/v32/ahmed14.html,
+A Physics-Based Model Prior for Object-Oriented MDPs,,,https://proceedings.mlr.press/v32/scholz14.html,
+Outlier Path- A Homotopy Algorithm for Robust SVM,,,https://proceedings.mlr.press/v32/suzumura14.html,http://proceedings.mlr.press/v32/suzumura14.pdf
+Ensemble-Based Tracking- Aggregating Crowdsourced Structured Time Series Data,,,https://proceedings.mlr.press/v32/wangg14.html,http://proceedings.mlr.press/v32/wangg14.pdf
+Latent Confusion Analysis by Normalized Gamma Construction,,,https://proceedings.mlr.press/v32/satob14.html,http://proceedings.mlr.press/v32/satob14.pdf
+"Finito- A faster, permutable incremental gradient method for big data problems",,,https://proceedings.mlr.press/v32/defazio14.html,http://proceedings.mlr.press/v32/defazio14.pdf
+Ensemble Methods for Structured Prediction,,,https://proceedings.mlr.press/v32/cortesa14.html,http://proceedings.mlr.press/v32/cortesa14.pdf
+Standardized Mutual Information for Clustering Comparisons- One Step Further in Adjustment for Chance,,,https://proceedings.mlr.press/v32/romano14.html,http://proceedings.mlr.press/v32/romano14.pdf
+Preserving Modes and Messages via Diverse Particle Selection,,,https://proceedings.mlr.press/v32/pacheco14.html,http://proceedings.mlr.press/v32/pacheco14.pdf
+Nonlinear Information-Theoretic Compressive Measurement Design,,,https://proceedings.mlr.press/v32/wangh14.html,http://proceedings.mlr.press/v32/wangh14.pdf
+Dual Query- Practical Private Query Release for High Dimensional Data,,,https://proceedings.mlr.press/v32/gaboardi14.html,
+Deep Boosting,,,https://proceedings.mlr.press/v32/cortesb14.html,http://proceedings.mlr.press/v32/cortesb14.pdf
+Distributed Representations of Sentences and Documents,,,https://proceedings.mlr.press/v32/le14.html,
+Understanding Protein Dynamics with L1-Regularized Reversible Hidden Markov Models,,,https://proceedings.mlr.press/v32/mcgibbon14.html,
+Online Multi-Task Learning for Policy Gradient Methods,,,https://proceedings.mlr.press/v32/ammar14.html,
+Affinity Weighted Embedding,,,https://proceedings.mlr.press/v32/weston14.html,
+Learning the Parameters of Determinantal Point Process Kernels,,,https://proceedings.mlr.press/v32/affandi14.html,http://proceedings.mlr.press/v32/affandi14.pdf
+Discrete Chebyshev Classifiers,,,https://proceedings.mlr.press/v32/eban14.html,
+Deep AutoRegressive Networks,,,https://proceedings.mlr.press/v32/gregor14.html,http://proceedings.mlr.press/v32/gregor14.pdf
+"A Convergence Rate Analysis for LogitBoost, MART and Their Variant",,,https://proceedings.mlr.press/v32/sunc14.html,http://proceedings.mlr.press/v32/sunc14.pdf
+Inferning with High Girth Graphical Models,,,https://proceedings.mlr.press/v32/heinemann14.html,http://proceedings.mlr.press/v32/heinemann14.pdf
+Learning Latent Variable Gaussian Graphical Models,,,https://proceedings.mlr.press/v32/meng14.html,http://proceedings.mlr.press/v32/meng14.pdf
+Stochastic Backpropagation and Approximate Inference in Deep Generative Models,,,https://proceedings.mlr.press/v32/rezende14.html,http://proceedings.mlr.press/v32/rezende14.pdf
+One Practical Algorithm for Both Stochastic and Adversarial Bandits,,,https://proceedings.mlr.press/v32/seldinb14.html,http://proceedings.mlr.press/v32/seldinb14.pdf
+Robust and Efficient Kernel Hyperparameter Paths with Guarantees,,,https://proceedings.mlr.press/v32/giesen14.html,
+Active Transfer Learning under Model Shift,,,https://proceedings.mlr.press/v32/wangi14.html,http://proceedings.mlr.press/v32/wangi14.pdf
+Approximate Policy Iteration Schemes- A Comparison,,,https://proceedings.mlr.press/v32/scherrer14.html,http://proceedings.mlr.press/v32/scherrer14.pdf
+Stable and Efficient Representation Learning with Nonnegativity Constraints,,,https://proceedings.mlr.press/v32/line14.html,
+Sample Efficient Reinforcement Learning with Gaussian Processes,,,https://proceedings.mlr.press/v32/grande14.html,http://proceedings.mlr.press/v32/grande14.pdf
+Memory and Computation Efficient PCA via Very Sparse Random Projections,,,https://proceedings.mlr.press/v32/anaraki14.html,http://proceedings.mlr.press/v32/anaraki14.pdf
+Time-Regularized Interrupting Options (TRIO),,,https://proceedings.mlr.press/v32/mannb14.html,http://proceedings.mlr.press/v32/mannb14.pdf
+Randomized Nonlinear Component Analysis,,,https://proceedings.mlr.press/v32/lopez-paz14.html,
+High Order Regularization for Semi-Supervised Learning of Structured Output Problems,,,https://proceedings.mlr.press/v32/lif14.html,http://proceedings.mlr.press/v32/lif14.pdf
+Transductive Learning with Multi-class Volume Approximation,,,https://proceedings.mlr.press/v32/niu14.html,http://proceedings.mlr.press/v32/niu14.pdf
+Methods of Moments for Learning Stochastic Languages- Unified Presentation and Empirical Comparison,,,https://proceedings.mlr.press/v32/balle14.html,http://proceedings.mlr.press/v32/balle14.pdf
+Effective Bayesian Modeling of Groups of Related Count Time Series,,,https://proceedings.mlr.press/v32/chapados14.html,http://proceedings.mlr.press/v32/chapados14.pdf
+Variational Inference for Sequential Distance Dependent Chinese Restaurant Process,,,https://proceedings.mlr.press/v32/bartunov14.html,
+Discovering Latent Network Structure in Point Process Data,,,https://proceedings.mlr.press/v32/linderman14.html,http://proceedings.mlr.press/v32/linderman14.pdf
+A Kernel Independence Test for Random Processes,,,https://proceedings.mlr.press/v32/chwialkowski14.html,
+Learning to Disentangle Factors of Variation with Manifold Interaction,,,https://proceedings.mlr.press/v32/reed14.html,
+Learning Modular Structures from Network Data and Node Variables,,,https://proceedings.mlr.press/v32/azizi14.html,
+Probabilistic Partial Canonical Correlation Analysis,,,https://proceedings.mlr.press/v32/mukuta14.html,http://proceedings.mlr.press/v32/mukuta14.pdf
+Skip Context Tree Switching,,,https://proceedings.mlr.press/v32/bellemare14.html,http://proceedings.mlr.press/v32/bellemare14.pdf
+Lower Bounds for the Gibbs Sampler over Mixtures of Gaussians,,,https://proceedings.mlr.press/v32/tosh14.html,
+Marginalized Denoising Auto-encoders for Nonlinear Representations,,,https://proceedings.mlr.press/v32/cheng14.html,
+Gaussian Processes for Bayesian Estimation in Ordinary Differential Equations,,,https://proceedings.mlr.press/v32/barber14.html,
+Fast Multi-stage Submodular Maximization,,,https://proceedings.mlr.press/v32/wei14.html,http://proceedings.mlr.press/v32/wei14.pdf
+Programming by Feedback,,,https://proceedings.mlr.press/v32/schoenauer14.html,
+Probabilistic Matrix Factorization with Non-random Missing Data,,,https://proceedings.mlr.press/v32/hernandez-lobatob14.html,http://proceedings.mlr.press/v32/hernandez-lobatob14.pdf
+"Pursuit-Evasion Without Regret, with an Application to Trading",,,https://proceedings.mlr.press/v32/dworkin14.html,
+The f-Adjusted Graph Laplacian- a Diagonal Modification with a Geometric Interpretation,,,https://proceedings.mlr.press/v32/kurras14.html,http://proceedings.mlr.press/v32/kurras14.pdf
+Riemannian Pursuit for Big Matrix Recovery,,,https://proceedings.mlr.press/v32/tan14.html,http://proceedings.mlr.press/v32/tan14.pdf
+Dynamic Programming Boosting for Discriminative Macro-Action Discovery,,,https://proceedings.mlr.press/v32/lefakis14.html,
+Online Stochastic Optimization under Correlated Bandit Feedback,,,https://proceedings.mlr.press/v32/azar14.html,http://proceedings.mlr.press/v32/azar14.pdf
+Weighted Graph Clustering with Non-Uniform Uncertainties,,,https://proceedings.mlr.press/v32/chenh14.html,http://proceedings.mlr.press/v32/chenh14.pdf
+GeNGA- A Generalization of Natural Gradient Ascent with Positive and Negative Convergence Results,,,https://proceedings.mlr.press/v32/thomasb14.html,
+A Bayesian Framework for Online Classifier Ensemble,,,https://proceedings.mlr.press/v32/bai14.html,http://proceedings.mlr.press/v32/bai14.pdf
+Adaptivity and Optimism- An Improved Exponentiated Gradient Algorithm,,,https://proceedings.mlr.press/v32/steinhardtb14.html,http://proceedings.mlr.press/v32/steinhardtb14.pdf
+Gaussian Approximation of Collective Graphical Models,,,https://proceedings.mlr.press/v32/liuf14.html,http://proceedings.mlr.press/v32/liuf14.pdf
+On learning to localize objects with minimal supervision,,,https://proceedings.mlr.press/v32/songb14.html,
+Multiresolution Matrix Factorization,,,https://proceedings.mlr.press/v32/kondor14.html,http://proceedings.mlr.press/v32/kondor14.pdf
+Learnability of the Superset Label Learning Problem,,,https://proceedings.mlr.press/v32/liug14.html,
+Taming the Monster- A Fast and Simple Algorithm for Contextual Bandits,,,https://proceedings.mlr.press/v32/agarwalb14.html,
+Structured Recurrent Temporal Restricted Boltzmann Machines,,,https://proceedings.mlr.press/v32/mittelman14.html,
+Scalable and Robust Bayesian Inference via the Median Posterior,,,https://proceedings.mlr.press/v32/minsker14.html,http://proceedings.mlr.press/v32/minsker14.pdf
+Kernel Adaptive Metropolis-Hastings,,,https://proceedings.mlr.press/v32/sejdinovic14.html,http://proceedings.mlr.press/v32/sejdinovic14.pdf
+Input Warping for Bayesian Optimization of Non-Stationary Functions,,,https://proceedings.mlr.press/v32/snoek14.html,
+Stochastic Gradient Hamiltonian Monte Carlo,,,https://proceedings.mlr.press/v32/cheni14.html,http://proceedings.mlr.press/v32/cheni14.pdf
+A Deep Semi-NMF Model for Learning Hidden Representations,,,https://proceedings.mlr.press/v32/trigeorgis14.html,http://proceedings.mlr.press/v32/trigeorgis14.pdf
+Asynchronous Distributed ADMM for Consensus Optimization,,,https://proceedings.mlr.press/v32/zhange14.html,
+Spectral Regularization for Max-Margin Sequence Tagging,,,https://proceedings.mlr.press/v32/quattoni14.html,
+Learning by Stretching Deep Networks,,,https://proceedings.mlr.press/v32/pandey14.html,http://proceedings.mlr.press/v32/pandey14.pdf
+Nonnegative Sparse PCA with Provable Guarantees,,,https://proceedings.mlr.press/v32/asteris14.html,http://proceedings.mlr.press/v32/asteris14.pdf
+Active Learning of Parameterized Skills,,,https://proceedings.mlr.press/v32/silva14.html,http://proceedings.mlr.press/v32/silva14.pdf
+Learning Ordered Representations with Nested Dropout,,,https://proceedings.mlr.press/v32/rippel14.html,http://proceedings.mlr.press/v32/rippel14.pdf
+Learning the Irreducible Representations of Commutative Lie Groups,,,https://proceedings.mlr.press/v32/cohen14.html,http://proceedings.mlr.press/v32/cohen14.pdf
+Towards End-To-End Speech Recognition with Recurrent Neural Networks,,,https://proceedings.mlr.press/v32/graves14.html,
+Multi-period Trading Prediction Markets with Connections to Machine Learning,,,https://proceedings.mlr.press/v32/hu14.html,http://proceedings.mlr.press/v32/hu14.pdf
+Efficient Gradient-Based Inference through Transformations between Bayes Nets and Neural Nets,,,https://proceedings.mlr.press/v32/kingma14.html,
+Neural Variational Inference and Learning in Belief Networks,,,https://proceedings.mlr.press/v32/mnih14.html,http://proceedings.mlr.press/v32/mnih14.pdf
+Scalable Bayesian Low-Rank Decomposition of Incomplete Multiway Tensors,,,https://proceedings.mlr.press/v32/rai14.html,http://proceedings.mlr.press/v32/rai14.pdf
+Beta Diffusion Trees,,,https://proceedings.mlr.press/v32/heaukulani14.html,
+Learning Character-level Representations for Part-of-Speech Tagging,,,https://proceedings.mlr.press/v32/santos14.html,
+Saddle Points and Accelerated Perceptron Algorithms,,,https://proceedings.mlr.press/v32/yuc14.html,http://proceedings.mlr.press/v32/yuc14.pdf
+Robust Distance Metric Learning via Simultaneous L1-Norm Minimization and Maximization,,,https://proceedings.mlr.press/v32/wangj14.html,
+Learning from Contagion (Without Timestamps),,,https://proceedings.mlr.press/v32/amin14.html,http://proceedings.mlr.press/v32/amin14.pdf
+Stochastic Variational Inference for Bayesian Time Series Models,,,https://proceedings.mlr.press/v32/johnson14.html,
+A Clockwork RNN,,,https://proceedings.mlr.press/v32/koutnik14.html,
+Estimating Latent-Variable Graphical Models using Moments and Likelihoods,,,https://proceedings.mlr.press/v32/chaganty14.html,http://proceedings.mlr.press/v32/chaganty14.pdf
+Universal Matrix Completion,,,https://proceedings.mlr.press/v32/bhojanapalli14.html,http://proceedings.mlr.press/v32/bhojanapalli14.pdf
+Finding Dense Subgraphs via Low-Rank Bilinear Optimization,,,https://proceedings.mlr.press/v32/papailiopoulos14.html,http://proceedings.mlr.press/v32/papailiopoulos14.pdf
+Compositional Morphology for Word Representations and Language Modelling,,,https://proceedings.mlr.press/v32/botha14.html,
+Learning Polynomials with Neural Networks,,,https://proceedings.mlr.press/v32/andoni14.html,
+Exponential Family Matrix Completion under Structural Constraints,,,https://proceedings.mlr.press/v32/gunasekar14.html,http://proceedings.mlr.press/v32/gunasekar14.pdf
+Sample-based approximate regularization,,,https://proceedings.mlr.press/v32/bachman14.html,http://proceedings.mlr.press/v32/bachman14.pdf
+A Compilation Target for Probabilistic Programming Languages,,,https://proceedings.mlr.press/v32/paige14.html,
+Adaptive Monte Carlo via Bandit Allocation,,,https://proceedings.mlr.press/v32/neufeld14.html,http://proceedings.mlr.press/v32/neufeld14.pdf
+Efficient Dimensionality Reduction for High-Dimensional Network Estimation,,,https://proceedings.mlr.press/v32/celik14.html,
+Deterministic Anytime Inference for Stochastic Continuous-Time Markov Processes,,,https://proceedings.mlr.press/v32/celikkaya14.html,
+Doubly Stochastic Variational Bayes for non-Conjugate Inference,,,https://proceedings.mlr.press/v32/titsias14.html,http://proceedings.mlr.press/v32/titsias14.pdf
+Efficient Learning of Mahalanobis Metrics for Ranking,,,https://proceedings.mlr.press/v32/lim14.html,http://proceedings.mlr.press/v32/lim14.pdf
+GEV-Canonical Regression for Accurate Binary Class Probability Estimation when One Class is Rare,,,https://proceedings.mlr.press/v32/agarwalc14.html,http://proceedings.mlr.press/v32/agarwalc14.pdf
+A reversible infinite HMM using normalised random measures,,,https://proceedings.mlr.press/v32/knowles14.html,http://proceedings.mlr.press/v32/knowles14.pdf
+"Structured Low-Rank Matrix Factorization- Optimality, Algorithm, and Applications to Image Processing",,,https://proceedings.mlr.press/v32/haeffele14.html,http://proceedings.mlr.press/v32/haeffele14.pdf
+"Influence Function Learning in Information Diffusion Networks | [link](https://proceedings.mlr.press/v32/du14.html), [pdf](http://proceedings.mlr.press/v32/du14.pdf), [supp](http://proceedings.mlr.press/v32/du14-supp.zip)A Discriminative Latent Variable Model for Online Clustering",,,https://proceedings.mlr.press/v32/du14.html,http://proceedings.mlr.press/v32/du14.pdf
+Kernel Mean Estimation and Stein Effect,,,https://proceedings.mlr.press/v32/muandet14.html,http://proceedings.mlr.press/v32/muandet14.pdf
+Demystifying Information-Theoretic Clustering,,,https://proceedings.mlr.press/v32/steeg14.html,http://proceedings.mlr.press/v32/steeg14.pdf
+Covering Number for Efficient Heuristic-based POMDP Planning,,,https://proceedings.mlr.press/v32/zhanga14.html,http://proceedings.mlr.press/v32/zhanga14.pdf
+The Coherent Loss Function for Classification,,,https://proceedings.mlr.press/v32/yanga14.html,http://proceedings.mlr.press/v32/yanga14.pdf
+Fast Stochastic Alternating Direction Method of Multipliers,,,https://proceedings.mlr.press/v32/zhong14.html,
+Active Detection via Adaptive Submodularity,,,https://proceedings.mlr.press/v32/chena14.html,http://proceedings.mlr.press/v32/chena14.pdf
+Accelerated Proximal Stochastic Dual Coordinate Ascent for Regularized Loss Minimization,,,https://proceedings.mlr.press/v32/shalev-shwartz14.html,
+An Adaptive Accelerated Proximal Gradient Method and its Homotopy Continuation for Sparse Optimization,,,https://proceedings.mlr.press/v32/lin14.html,http://proceedings.mlr.press/v32/lin14.pdf
+Recurrent Convolutional Neural Networks for Scene Labeling,,,https://proceedings.mlr.press/v32/pinheiro14.html,
+A Statistical Perspective on Algorithmic Leveraging,,,https://proceedings.mlr.press/v32/ma14.html,
+Thompson Sampling for Complex Online Problems,,,https://proceedings.mlr.press/v32/gopalan14.html,http://proceedings.mlr.press/v32/gopalan14.pdf
+Boosting multi-step autoregressive forecasts,,,https://proceedings.mlr.press/v32/taieb14.html,http://proceedings.mlr.press/v32/taieb14.pdf
+A Statistical Convergence Perspective of Algorithms for Rank Aggregation from Pairwise Data,,,https://proceedings.mlr.press/v32/rajkumar14.html,http://proceedings.mlr.press/v32/rajkumar14.pdf
+Scaling Up Approximate Value Iteration with Options- Better Policies with Fewer Iterations,,,https://proceedings.mlr.press/v32/mann14.html,http://proceedings.mlr.press/v32/mann14.pdf
+Latent Bandits.,,,https://proceedings.mlr.press/v32/maillard14.html,
+Fast Allocation of Gaussian Process Experts,,,https://proceedings.mlr.press/v32/nguyena14.html,
+Von Mises-Fisher Clustering Models,,,https://proceedings.mlr.press/v32/gopal14.html,http://proceedings.mlr.press/v32/gopal14.pdf
+Convergence rates for persistence diagram estimation in Topological Data Analysis,,,https://proceedings.mlr.press/v32/chazal14.html,
+Buffer k-d Trees- Processing Massive Nearest Neighbor Queries on GPUs,,,https://proceedings.mlr.press/v32/gieseke14.html,
+Austerity in MCMC Land- Cutting the Metropolis-Hastings Budget,,,https://proceedings.mlr.press/v32/korattikara14.html,http://proceedings.mlr.press/v32/korattikara14.pdf
+Understanding the Limiting Factors of Topic Modeling via Posterior Contraction Analysis,,,https://proceedings.mlr.press/v32/tang14.html,
+The Inverse Regression Topic Model,,,https://proceedings.mlr.press/v32/rabinovich14.html,http://proceedings.mlr.press/v32/rabinovich14.pdf
+A Consistent Histogram Estimator for Exchangeable Graph Models,,,https://proceedings.mlr.press/v32/chan14.html,
+Latent Variable Copula Inference for Bundle Pricing from Retail Transaction Data,,,https://proceedings.mlr.press/v32/letham14.html,
+Towards Minimax Online Learning with Unknown Time Horizon,,,https://proceedings.mlr.press/v32/luo14.html,http://proceedings.mlr.press/v32/luo14.pdf
+Factorized Point Process Intensities- A Spatial Analysis of Professional Basketball,,,https://proceedings.mlr.press/v32/miller14.html,http://proceedings.mlr.press/v32/miller14.pdf
+"Margins, Kernels and Non-linear Smoothed Perceptrons",,,https://proceedings.mlr.press/v32/ramdas14.html,http://proceedings.mlr.press/v32/ramdas14.pdf
+Robust RegBayes- Selectively Incorporating First-Order Logic Domain Knowledge into Bayesian Models,,,https://proceedings.mlr.press/v32/mei14.html,
+Learning Theory and Algorithms for revenue optimization in second price auctions with reserve,,,https://proceedings.mlr.press/v32/mohri14.html,http://proceedings.mlr.press/v32/mohri14.pdf
+Low-density Parity Constraints for Hashing-Based Discrete Integration,,,https://proceedings.mlr.press/v32/ermon14.html,http://proceedings.mlr.press/v32/ermon14.pdf
+Prediction with Limited Advice and Multiarmed Bandits with Paid Observations,,,https://proceedings.mlr.press/v32/seldin14.html,http://proceedings.mlr.press/v32/seldin14.pdf
+Bayesian Nonparametric Multilevel Clustering with Group-Level Contexts,,,https://proceedings.mlr.press/v32/nguyenb14.html,http://proceedings.mlr.press/v32/nguyenb14.pdf
+Large-Margin Metric Learning for Constrained Partitioning Problems,,,https://proceedings.mlr.press/v32/lajugie14.html,
+Wasserstein Propagation for Semi-Supervised Learning,,,https://proceedings.mlr.press/v32/solomon14.html,
+Max-Margin Infinite Hidden Markov Models,,,https://proceedings.mlr.press/v32/zhangb14.html,
+Efficient Approximation of Cross-Validation for Kernel Methods using Bouligand Influence Function,,,https://proceedings.mlr.press/v32/liua14.html,
+Generalized Exponential Concentration Inequality for Renyi Divergence Estimation,,,https://proceedings.mlr.press/v32/singh14.html,
+Boosting with Online Binary Learners for the Multiclass Bandit Problem,,,https://proceedings.mlr.press/v32/chenb14.html,
+Optimal Budget Allocation- Theoretical Guarantee and Efficient Algorithm,,,https://proceedings.mlr.press/v32/soma14.html,http://proceedings.mlr.press/v32/soma14.pdf
+Computing Parametric Ranking Models via Rank-Breaking,,,https://proceedings.mlr.press/v32/soufiani14.html,http://proceedings.mlr.press/v32/soufiani14.pdf
+Tracking Adversarial Targets,,,https://proceedings.mlr.press/v32/abbasi-yadkori14.html,http://proceedings.mlr.press/v32/abbasi-yadkori14.pdf
+Online Bayesian Passive-Aggressive Learning,,,https://proceedings.mlr.press/v32/shi14.html,http://proceedings.mlr.press/v32/shi14.pdf
+Deterministic Policy Gradient Algorithms,,,https://proceedings.mlr.press/v32/silver14.html,http://proceedings.mlr.press/v32/silver14.pdf
+Modeling Correlated Arrival Events with Latent Semi-Markov Processes,,,https://proceedings.mlr.press/v32/lian14.html,http://proceedings.mlr.press/v32/lian14.pdf
+Towards scaling up Markov chain Monte Carlo- an adaptive subsampling approach,,,https://proceedings.mlr.press/v32/bardenet14.html,http://proceedings.mlr.press/v32/bardenet14.pdf
+Diagnosis determination- decision trees optimizing simultaneously worst and expected testing cost,,,https://proceedings.mlr.press/v32/cicalese14.html,
+Condensed Filter Tree for Cost-Sensitive Multi-Label Classification,,,https://proceedings.mlr.press/v32/lia14.html,http://proceedings.mlr.press/v32/lia14.pdf
+On Measure Concentration of Random Maximum A-Posteriori Perturbations,,,https://proceedings.mlr.press/v32/orabona14.html,http://proceedings.mlr.press/v32/orabona14.pdf
+Bias in Natural Actor-Critic Algorithms,,,https://proceedings.mlr.press/v32/thomas14.html,
+Dimension-free Concentration Bounds on Hankel Matrices for Spectral Learning,,,https://proceedings.mlr.press/v32/denis14.html,
+On Modelling Non-linear Topical Dependencies,,,https://proceedings.mlr.press/v32/lib14.html,
+A Deep and Tractable Density Estimator,,,https://proceedings.mlr.press/v32/uria14.html,
+(Near) Dimension Independent Risk Bounds for Differentially Private Learning,,,https://proceedings.mlr.press/v32/jain14.html,http://proceedings.mlr.press/v32/jain14.pdf
+Quasi-Monte Carlo Feature Maps for Shift-Invariant Kernels,,,https://proceedings.mlr.press/v32/yangb14.html,http://proceedings.mlr.press/v32/yangb14.pdf
+Discriminative Features via Generalized Eigenvectors,,,https://proceedings.mlr.press/v32/karampatziakis14.html,
+Forward-Backward Greedy Algorithms for General Convex Smooth Functions over A Cardinality Constraint,,,https://proceedings.mlr.press/v32/liub14.html,
+Online Learning in Markov Decision Processes with Changing Cost Sequences,,,https://proceedings.mlr.press/v32/dick14.html,http://proceedings.mlr.press/v32/dick14.pdf
+Unimodal Bandits- Regret Lower Bounds and Optimal Algorithms,,,https://proceedings.mlr.press/v32/combes14.html,
+Maximum Mean Discrepancy for Class Ratio Estimation- Convergence Bounds and Kernel Selection,,,https://proceedings.mlr.press/v32/iyer14.html,http://proceedings.mlr.press/v32/iyer14.pdf
+Asymptotically consistent estimation of the number of change points in highly dependent time series,,,https://proceedings.mlr.press/v32/khaleghi14.html,
+Coordinate-descent for learning orthogonal matrices through Givens rotations,,,https://proceedings.mlr.press/v32/shalit14.html,http://proceedings.mlr.press/v32/shalit14.pdf
+Densifying One Permutation Hashing via Rotation for Fast Near Neighbor Search,,,https://proceedings.mlr.press/v32/shrivastava14.html,
+A Divide-and-Conquer Solver for Kernel Support Vector Machines,,,https://proceedings.mlr.press/v32/hsieha14.html,http://proceedings.mlr.press/v32/hsieha14.pdf
+Nuclear Norm Minimization via Active Subspace Selection,,,https://proceedings.mlr.press/v32/hsiehb14.html,http://proceedings.mlr.press/v32/hsiehb14.pdf
+Provable Bounds for Learning Some Deep Representations,,,https://proceedings.mlr.press/v32/arora14.html,
+Large-scale Multi-label Learning with Missing Labels,,,https://proceedings.mlr.press/v32/yu14.html,http://proceedings.mlr.press/v32/yu14.pdf
+Learning Graphs with a Few Hubs,,,https://proceedings.mlr.press/v32/tandon14.html,http://proceedings.mlr.press/v32/tandon14.pdf
+Agnostic Bayesian Learning of Ensembles,,,https://proceedings.mlr.press/v32/lacoste14.html,http://proceedings.mlr.press/v32/lacoste14.pdf
+Towards an optimal stochastic alternating direction method of multipliers,,,https://proceedings.mlr.press/v32/azadi14.html,http://proceedings.mlr.press/v32/azadi14.pdf
+Spherical Hamiltonian Monte Carlo for Constrained Target Distributions,,,https://proceedings.mlr.press/v32/lan14.html,
+Efficient Continuous-Time Markov Chain Estimation,,,https://proceedings.mlr.press/v32/hajiaghayi14.html,http://proceedings.mlr.press/v32/hajiaghayi14.pdf
+DeCAF- A Deep Convolutional Activation Feature for Generic Visual Recognition,,,https://proceedings.mlr.press/v32/donahue14.html,
+Making the Most of Bag of Words- Sentence Regularization with Alternating Direction Method of Multipliers,,,https://proceedings.mlr.press/v32/yogatama14.html,
+Narrowing the Gap- Random Forests In Theory and In Practice,,,https://proceedings.mlr.press/v32/denil14.html,http://proceedings.mlr.press/v32/denil14.pdf
+Coherent Matrix Completion,,,https://proceedings.mlr.press/v32/chenc14.html,http://proceedings.mlr.press/v32/chenc14.pdf
+Admixture of Poisson MRFs- A Topic Model with Word Dependencies,,,https://proceedings.mlr.press/v32/inouye14.html,http://proceedings.mlr.press/v32/inouye14.pdf
+True Online TD(lambda),,,https://proceedings.mlr.press/v32/seijen14.html,
+Memory Efficient Kernel Approximation,,,https://proceedings.mlr.press/v32/si14.html,http://proceedings.mlr.press/v32/si14.pdf
+Learning Sum-Product Networks with Direct and Indirect Variable Interactions,,,https://proceedings.mlr.press/v32/rooshenas14.html,http://proceedings.mlr.press/v32/rooshenas14.pdf
+Hamiltonian Monte Carlo Without Detailed Balance,,,https://proceedings.mlr.press/v32/sohl-dickstein14.html,
+Filtering with Abstract Particles,,,https://proceedings.mlr.press/v32/steinhardt14.html,http://proceedings.mlr.press/v32/steinhardt14.pdf
+Stochastic Dual Coordinate Ascent with Alternating Direction Method of Multipliers,,,https://proceedings.mlr.press/v32/suzuki14.html,http://proceedings.mlr.press/v32/suzuki14.pdf
+Deep Supervised and Convolutional Generative Stochastic Network for Protein Secondary Structure Prediction,,,https://proceedings.mlr.press/v32/zhou14.html,
+An Efficient Approach for Assessing Hyperparameter Importance,,,https://proceedings.mlr.press/v32/hutter14.html,http://proceedings.mlr.press/v32/hutter14.pdf
+An Information Geometry of Statistical Manifold Learning,,,https://proceedings.mlr.press/v32/suna14.html,http://proceedings.mlr.press/v32/suna14.pdf
+Relative Upper Confidence Bound for the K-Armed Dueling Bandit Problem,,,https://proceedings.mlr.press/v32/zoghi14.html,http://proceedings.mlr.press/v32/zoghi14.pdf
+Compact Random Feature Maps,,,https://proceedings.mlr.press/v32/hamid14.html,
+Concentration in unbounded metric spaces and algorithmic stability,,,https://proceedings.mlr.press/v32/kontorovicha14.html,http://proceedings.mlr.press/v32/kontorovicha14.pdf
+Heavy-tailed regression with a generalized median-of-means,,,https://proceedings.mlr.press/v32/hsu14.html,
+Spectral Bandits for Smooth Graph Functions,,,https://proceedings.mlr.press/v32/valko14.html,http://proceedings.mlr.press/v32/valko14.pdf
+Robust Principal Component Analysis with Complex Noise,,,https://proceedings.mlr.press/v32/zhao14.html,http://proceedings.mlr.press/v32/zhao14.pdf
+Scalable Semidefinite Relaxation for Maximum A Posterior Estimation,,,https://proceedings.mlr.press/v32/huang14.html,http://proceedings.mlr.press/v32/huang14.pdf
+Square Deal- Lower Bounds and Improved Relaxations for Tensor Recovery,,,https://proceedings.mlr.press/v32/mu14.html,http://proceedings.mlr.press/v32/mu14.pdf
+Automated inference of point of view from user interactions in collective intelligence venues,,,https://proceedings.mlr.press/v32/das14.html,
+Rank-One Matrix Pursuit for Matrix Completion,,,https://proceedings.mlr.press/v32/wanga14.html,
+Near-Optimal Joint Object Matching via Convex Relaxation,,,https://proceedings.mlr.press/v32/chend14.html,http://proceedings.mlr.press/v32/chend14.pdf
+Convex Total Least Squares,,,https://proceedings.mlr.press/v32/malioutov14.html,
+On p-norm Path Following in Multiple Kernel Learning for Non-linear Feature Selection,,,https://proceedings.mlr.press/v32/jawanpuria14.html,http://proceedings.mlr.press/v32/jawanpuria14.pdf
+Gradient Hard Thresholding Pursuit for Sparsity-Constrained Optimization,,,https://proceedings.mlr.press/v32/yuan14.html,
+A Unified Framework for Consistency of Regularized Loss Minimizers,,,https://proceedings.mlr.press/v32/honorio14.html,http://proceedings.mlr.press/v32/honorio14.pdf
+Geodesic Distance Function Learning via Heat Flow on Vector Fields,,,https://proceedings.mlr.press/v32/linb14.html,
+Near-Optimally Teaching the Crowd to Classify,,,https://proceedings.mlr.press/v32/singla14.html,http://proceedings.mlr.press/v32/singla14.pdf
+On the convergence of no-regret learning in selfish routing,,,https://proceedings.mlr.press/v32/krichene14.html,http://proceedings.mlr.press/v32/krichene14.pdf
+Improving offline evaluation of contextual bandit algorithms via bootstrapping techniques,,,https://proceedings.mlr.press/v32/mary14.html,http://proceedings.mlr.press/v32/mary14.pdf
+Scaling Up Robust MDPs using Function Approximation,,,https://proceedings.mlr.press/v32/tamar14.html,http://proceedings.mlr.press/v32/tamar14.pdf
+Marginal Structured SVM with Hidden Variables,,,https://proceedings.mlr.press/v32/ping14.html,http://proceedings.mlr.press/v32/ping14.pdf
+Linear and Parallel Learning of Markov Random Fields,,,https://proceedings.mlr.press/v32/mizrahi14.html,
+Pitfalls in the use of Parallel Inference for the Dirichlet Process,,,https://proceedings.mlr.press/v32/gal14.html,
+Optimal PAC Multiple Arm Identification with Applications to Crowdsourcing,,,https://proceedings.mlr.press/v32/zhoub14.html,http://proceedings.mlr.press/v32/zhoub14.pdf
+Deep Generative Stochastic Networks Trainable by Backprop,,,https://proceedings.mlr.press/v32/bengio14.html,http://proceedings.mlr.press/v32/bengio14.pdf
+A Highly Scalable Parallel Algorithm for Isotropic Total Variation Models,,,https://proceedings.mlr.press/v32/wangb14.html,http://proceedings.mlr.press/v32/wangb14.pdf
+Statistical-Computational Phase Transitions in Planted Models- The High-Dimensional Setting,,,https://proceedings.mlr.press/v32/chene14.html,http://proceedings.mlr.press/v32/chene14.pdf
+Gaussian Process Optimization with Mutual Information,,,https://proceedings.mlr.press/v32/contal14.html,
+Aggregating Ordinal Labels from Crowds by Minimax Conditional Entropy,,,https://proceedings.mlr.press/v32/zhouc14.html,
+Exchangeable Variable Models,,,https://proceedings.mlr.press/v32/niepert14.html,http://proceedings.mlr.press/v32/niepert14.pdf
+Clustering in the Presence of Background Noise,,,https://proceedings.mlr.press/v32/ben-david14.html,http://proceedings.mlr.press/v32/ben-david14.pdf
+Safe Screening with Variational Inequalities and Its Application to Lasso,,,https://proceedings.mlr.press/v32/liuc14.html,http://proceedings.mlr.press/v32/liuc14.pdf
+Learning the Consistent Behavior of Common Users for Target Node Prediction across Social Networks,,,https://proceedings.mlr.press/v32/wu14.html,http://proceedings.mlr.press/v32/wu14.pdf
+Signal recovery from Pooling Representations,,,https://proceedings.mlr.press/v32/estrach14.html,http://proceedings.mlr.press/v32/estrach14.pdf
+PAC-inspired Option Discovery in Lifelong Reinforcement Learning,,,https://proceedings.mlr.press/v32/brunskill14.html,http://proceedings.mlr.press/v32/brunskill14.pdf
+Multi-label Classification via Feature-aware Implicit Label Space Encoding,,,https://proceedings.mlr.press/v32/linc14.html,http://proceedings.mlr.press/v32/linc14.pdf
+Scalable Gaussian Process Structured Prediction for Grid Factor Graph Applications,,,https://proceedings.mlr.press/v32/bratieres14.html,http://proceedings.mlr.press/v32/bratieres14.pdf
+Anomaly Ranking as Supervised Bipartite Ranking,,,https://proceedings.mlr.press/v32/clemencon14.html,
+Hierarchical Quasi-Clustering Methods for Asymmetric Networks,,,https://proceedings.mlr.press/v32/carlsson14.html,http://proceedings.mlr.press/v32/carlsson14.pdf
+Rectangular Tiling Process,,,https://proceedings.mlr.press/v32/nakano14.html,http://proceedings.mlr.press/v32/nakano14.pdf
+Two-Stage Metric Learning,,,https://proceedings.mlr.press/v32/wangc14.html,http://proceedings.mlr.press/v32/wangc14.pdf
+Stochastic Inference for Scalable Probabilistic Modeling of Binary Matrices,,,https://proceedings.mlr.press/v32/hernandez-lobatoa14.html,http://proceedings.mlr.press/v32/hernandez-lobatoa14.pdf
+Elementary Estimators for High-Dimensional Linear Regression,,,https://proceedings.mlr.press/v32/yangc14.html,http://proceedings.mlr.press/v32/yangc14.pdf
+Elementary Estimators for Sparse Covariance Matrices and other Structured Moments,,,https://proceedings.mlr.press/v32/yangd14.html,http://proceedings.mlr.press/v32/yangd14.pdf
+Graph-based Semi-supervised Learning- Realizing Pointwise Smoothness Probabilistically,,,https://proceedings.mlr.press/v32/fang14.html,http://proceedings.mlr.press/v32/fang14.pdf
+Bayesian Max-margin Multi-Task Learning with Data Augmentation,,,https://proceedings.mlr.press/v32/lic14.html,
+Sparse Reinforcement Learning via Convex Optimization,,,https://proceedings.mlr.press/v32/qin14.html,http://proceedings.mlr.press/v32/qin14.pdf
+Gaussian Process Classification and Active Learning with Multiple Annotators,,,https://proceedings.mlr.press/v32/rodrigues14.html,http://proceedings.mlr.press/v32/rodrigues14.pdf
+Structured Prediction of Network Response,,,https://proceedings.mlr.press/v32/su14.html,http://proceedings.mlr.press/v32/su14.pdf
+An Analysis of State-Relevance Weights and Sampling Distributions on L1-Regularized Approximate Linear Programming Approximation Accuracy,,,https://proceedings.mlr.press/v32/taylor14.html,
+Optimization Equivalence of Divergences Improves Neighbor Embedding,,,https://proceedings.mlr.press/v32/yange14.html,http://proceedings.mlr.press/v32/yange14.pdf
+An Asynchronous Parallel Stochastic Coordinate Descent Algorithm,,,https://proceedings.mlr.press/v32/liud14.html,
+Consistency of Causal Inference under the Additive Noise Model,,,https://proceedings.mlr.press/v32/kpotufe14.html,
+Globally Convergent Parallel MAP LP Relaxation Solver using the Frank-Wolfe Algorithm,,,https://proceedings.mlr.press/v32/schwing14.html,
+Linear Programming for Large-Scale Markov Decision Problems,,,https://proceedings.mlr.press/v32/malek14.html,http://proceedings.mlr.press/v32/malek14.pdf
+Linear Time Solver for Primal SVM,,,https://proceedings.mlr.press/v32/niea14.html,
+Memory (and Time) Efficient Sequential Monte Carlo,,,https://proceedings.mlr.press/v32/jun14.html,http://proceedings.mlr.press/v32/jun14.pdf
+Scaling SVM and Least Absolute Deviations via Exact Data Reduction,,,https://proceedings.mlr.press/v32/wangd14.html,http://proceedings.mlr.press/v32/wangd14.pdf
+Latent Semantic Representation Learning for Scene Classification,,,https://proceedings.mlr.press/v32/lid14.html,
+Least Squares Revisited- Scalable Approaches for Multi-class Prediction,,,https://proceedings.mlr.press/v32/agarwala14.html,
+Local algorithms for interactive clustering,,,https://proceedings.mlr.press/v32/awasthi14.html,
+Model-Based Relational RL When Object Existence is Partially Observable,,,https://proceedings.mlr.press/v32/ngo14.html,
+A new Q(lambda) with interim forward view and Monte Carlo equivalence,,,https://proceedings.mlr.press/v32/sutton14.html,http://proceedings.mlr.press/v32/sutton14.pdf
+On Robustness and Regularization of Structural Support Vector Machines,,,https://proceedings.mlr.press/v32/torkamani14.html,http://proceedings.mlr.press/v32/torkamani14.pdf
+Guess-Averse Loss Functions For Cost-Sensitive Multiclass Boosting,,,https://proceedings.mlr.press/v32/beijbom14.html,http://proceedings.mlr.press/v32/beijbom14.pdf
+Multimodal Neural Language Models,,,https://proceedings.mlr.press/v32/kiros14.html,http://proceedings.mlr.press/v32/kiros14.pdf
+Fast large-scale optimization by unifying stochastic gradient and quasi-Newton methods,,,https://proceedings.mlr.press/v32/sohl-dicksteinb14.html,
+Alternating Minimization for Mixed Linear Regression,,,https://proceedings.mlr.press/v32/yia14.html,http://proceedings.mlr.press/v32/yia14.pdf
+Stochastic Neighbor Compression,,,https://proceedings.mlr.press/v32/kusner14.html,
+Robust Learning under Uncertain Test Distributions- Relating Covariate Shift to Model Misspecification,,,https://proceedings.mlr.press/v32/wen14.html,http://proceedings.mlr.press/v32/wen14.pdf
+Nonparametric Estimation of Multi-View Latent Variable Models,,,https://proceedings.mlr.press/v32/songa14.html,http://proceedings.mlr.press/v32/songa14.pdf
+Structured Generative Models of Natural Source Code,,,https://proceedings.mlr.press/v32/maddison14.html,http://proceedings.mlr.press/v32/maddison14.pdf
+A Single-Pass Algorithm for Efficiently Recovering Sparse Cluster Centers of High-dimensional Data,,,https://proceedings.mlr.press/v32/yib14.html,http://proceedings.mlr.press/v32/yib14.pdf
+Statistical analysis of stochastic gradient methods for generalized linear models,,,https://proceedings.mlr.press/v32/toulis14.html,
+Coding for Random Projections,,,https://proceedings.mlr.press/v32/lie14.html,
+Fast Computation of Wasserstein Barycenters,,,https://proceedings.mlr.press/v32/cuturi14.html,
+Global graph kernels using geometric embeddings,,,https://proceedings.mlr.press/v32/johansson14.html,http://proceedings.mlr.press/v32/johansson14.pdf
+"Topic Modeling using Topics from Many Domains, Lifelong Learning and Big Data",,,https://proceedings.mlr.press/v32/chenf14.html,http://proceedings.mlr.press/v32/chenf14.pdf
+K-means recovers ICA filters when independent components are sparse,,,https://proceedings.mlr.press/v32/vinnikov14.html,http://proceedings.mlr.press/v32/vinnikov14.pdf
+Learning Mixtures of Linear Classifiers,,,https://proceedings.mlr.press/v32/sunb14.html,http://proceedings.mlr.press/v32/sunb14.pdf
+The Falling Factorial Basis and Its Statistical Applications,,,https://proceedings.mlr.press/v32/wange14.html,http://proceedings.mlr.press/v32/wange14.pdf
+Nonmyopic ε-Bayes-Optimal Active Learning of Gaussian Processes,,,https://proceedings.mlr.press/v32/hoang14.html,http://proceedings.mlr.press/v32/hoang14.pdf
+A Unifying View of Representer Theorems,,,https://proceedings.mlr.press/v32/argyriou14.html,http://proceedings.mlr.press/v32/argyriou14.pdf
+Online Clustering of Bandits,,,https://proceedings.mlr.press/v32/gentile14.html,http://proceedings.mlr.press/v32/gentile14.pdf
+Cold-start Active Learning with Robust Ordinal Matrix Factorization,,,https://proceedings.mlr.press/v32/houlsby14.html,http://proceedings.mlr.press/v32/houlsby14.pdf
+Multivariate Maximal Correlation Analysis,,,https://proceedings.mlr.press/v32/nguyenc14.html,
+Efficient Label Propagation,,,https://proceedings.mlr.press/v32/fujiwara14.html,
+"Estimating Diffusion Network Structures- Recovery Conditions, Sample Complexity & Soft-thresholding Algorithm",,,https://proceedings.mlr.press/v32/daneshmand14.html,http://proceedings.mlr.press/v32/daneshmand14.pdf
+Coupled Group Lasso for Web-Scale CTR Prediction in Display Advertising,,,https://proceedings.mlr.press/v32/yan14.html,
+Putting MRFs on a Tensor Train,,,https://proceedings.mlr.press/v32/novikov14.html,http://proceedings.mlr.press/v32/novikov14.pdf
+Efficient Algorithms for Robust One-bit Compressive Sensing,,,https://proceedings.mlr.press/v32/zhangc14.html,http://proceedings.mlr.press/v32/zhangc14.pdf
+Learning Complex Neural Network Policies with Trajectory Optimization,,,https://proceedings.mlr.press/v32/levine14.html,http://proceedings.mlr.press/v32/levine14.pdf
+Composite Quantization for Approximate Nearest Neighbor Search,,,https://proceedings.mlr.press/v32/zhangd14.html,http://proceedings.mlr.press/v32/zhangd14.pdf
+Local Ordinal Embedding,,,https://proceedings.mlr.press/v32/terada14.html,http://proceedings.mlr.press/v32/terada14.pdf
+Reducing Dueling Bandits to Cardinal Bandits,,,https://proceedings.mlr.press/v32/ailon14.html,http://proceedings.mlr.press/v32/ailon14.pdf
+Large-margin Weakly Supervised Dimensionality Reduction,,,https://proceedings.mlr.press/v32/xu14.html,http://proceedings.mlr.press/v32/xu14.pdf
+Joint Inference of Multiple Label Types in Large Networks,,,https://proceedings.mlr.press/v32/chakrabarti14.html,
+Hard-Margin Active Linear Regression,,,https://proceedings.mlr.press/v32/hazan14.html,
+Maximum Margin Multiclass Nearest Neighbors,,,https://proceedings.mlr.press/v32/kontorovichb14.html,http://proceedings.mlr.press/v32/kontorovichb14.pdf
+Combinatorial Partial Monitoring Game with Linear Feedback and Its Applications,,,https://proceedings.mlr.press/v32/lind14.html,http://proceedings.mlr.press/v32/lind14.pdf
+Sparse meta-Gaussian information bottleneck,,,https://proceedings.mlr.press/v32/rey14.html,http://proceedings.mlr.press/v32/rey14.pdf
+Nonparametric Estimation of Renyi Divergence and Friends,,,https://proceedings.mlr.press/v32/krishnamurthy14.html,http://proceedings.mlr.press/v32/krishnamurthy14.pdf
+Robust Inverse Covariance Estimation under Noisy Measurements,,,https://proceedings.mlr.press/v32/wangf14.html,
+Bayesian Optimization with Inequality Constraints,,,https://proceedings.mlr.press/v32/gardner14.html,http://proceedings.mlr.press/v32/gardner14.pdf
+Circulant Binary Embedding,,,https://proceedings.mlr.press/v32/yub14.html,
+Multiple Testing under Dependence via Semiparametric Graphical Models,,,https://proceedings.mlr.press/v32/liue14.html,http://proceedings.mlr.press/v32/liue14.pdf
+Making Fisher Discriminant Analysis Scalable,,,https://proceedings.mlr.press/v32/tu14.html,http://proceedings.mlr.press/v32/tu14.pdf
+Hierarchical Dirichlet Scaling Process,,,https://proceedings.mlr.press/v32/kim14.html,http://proceedings.mlr.press/v32/kim14.pdf
+Approximation Analysis of Stochastic Gradient Langevin Dynamics by using Fokker-Planck Equation and Ito Process,,,https://proceedings.mlr.press/v32/satoa14.html,
+A PAC-Bayesian bound for Lifelong Learning,,,https://proceedings.mlr.press/v32/pentina14.html,
+Communication-Efficient Distributed Optimization using an Approximate Newton-type Method,,,https://proceedings.mlr.press/v32/shamir14.html,http://proceedings.mlr.press/v32/shamir14.pdf
+Concept Drift Detection Through Resampling,,,https://proceedings.mlr.press/v32/harel14.html,http://proceedings.mlr.press/v32/harel14.pdf
+"Anti-differentiating approximation algorithms-A case study with min-cuts, spectral, and flow",,,https://proceedings.mlr.press/v32/gleich14.html,
+A Bayesian Wilcoxon signed-rank test based on the Dirichlet process,,,https://proceedings.mlr.press/v32/benavoli14.html,http://proceedings.mlr.press/v32/benavoli14.pdf
+Min-Max Problems on Factor Graphs,,,https://proceedings.mlr.press/v32/ravanbakhsh14.html,http://proceedings.mlr.press/v32/ravanbakhsh14.pdf
+Distributed Stochastic Gradient MCMC,,,https://proceedings.mlr.press/v32/ahn14.html,http://proceedings.mlr.press/v32/ahn14.pdf
+Nearest Neighbors Using Compact Sparse Codes,,,https://proceedings.mlr.press/v32/cherian14.html,
+Optimal Mean Robust Principal Component Analysis,,,https://proceedings.mlr.press/v32/nieb14.html,
+Preference-Based Rank Elicitation using Statistical Models- The Case of Mallows,,,https://proceedings.mlr.press/v32/busa-fekete14.html,http://proceedings.mlr.press/v32/busa-fekete14.pdf
+Hierarchical Conditional Random Fields for Outlier Detection- An Application to Detecting Epileptogenic Cortical Malformations,,,https://proceedings.mlr.press/v32/ahmed14.html,
+A Physics-Based Model Prior for Object-Oriented MDPs,,,https://proceedings.mlr.press/v32/scholz14.html,
+Outlier Path- A Homotopy Algorithm for Robust SVM,,,https://proceedings.mlr.press/v32/suzumura14.html,http://proceedings.mlr.press/v32/suzumura14.pdf
+Ensemble-Based Tracking- Aggregating Crowdsourced Structured Time Series Data,,,https://proceedings.mlr.press/v32/wangg14.html,http://proceedings.mlr.press/v32/wangg14.pdf
+Latent Confusion Analysis by Normalized Gamma Construction,,,https://proceedings.mlr.press/v32/satob14.html,http://proceedings.mlr.press/v32/satob14.pdf
+"Finito- A faster, permutable incremental gradient method for big data problems",,,https://proceedings.mlr.press/v32/defazio14.html,http://proceedings.mlr.press/v32/defazio14.pdf
+Ensemble Methods for Structured Prediction,,,https://proceedings.mlr.press/v32/cortesa14.html,http://proceedings.mlr.press/v32/cortesa14.pdf
+Standardized Mutual Information for Clustering Comparisons- One Step Further in Adjustment for Chance,,,https://proceedings.mlr.press/v32/romano14.html,http://proceedings.mlr.press/v32/romano14.pdf
+Preserving Modes and Messages via Diverse Particle Selection,,,https://proceedings.mlr.press/v32/pacheco14.html,http://proceedings.mlr.press/v32/pacheco14.pdf
+Nonlinear Information-Theoretic Compressive Measurement Design,,,https://proceedings.mlr.press/v32/wangh14.html,http://proceedings.mlr.press/v32/wangh14.pdf
+Dual Query- Practical Private Query Release for High Dimensional Data,,,https://proceedings.mlr.press/v32/gaboardi14.html,
+Deep Boosting,,,https://proceedings.mlr.press/v32/cortesb14.html,http://proceedings.mlr.press/v32/cortesb14.pdf
+Distributed Representations of Sentences and Documents,,,https://proceedings.mlr.press/v32/le14.html,
+Understanding Protein Dynamics with L1-Regularized Reversible Hidden Markov Models,,,https://proceedings.mlr.press/v32/mcgibbon14.html,
+Online Multi-Task Learning for Policy Gradient Methods,,,https://proceedings.mlr.press/v32/ammar14.html,
+Affinity Weighted Embedding,,,https://proceedings.mlr.press/v32/weston14.html,
+Learning the Parameters of Determinantal Point Process Kernels,,,https://proceedings.mlr.press/v32/affandi14.html,http://proceedings.mlr.press/v32/affandi14.pdf
+Discrete Chebyshev Classifiers,,,https://proceedings.mlr.press/v32/eban14.html,
+Deep AutoRegressive Networks,,,https://proceedings.mlr.press/v32/gregor14.html,http://proceedings.mlr.press/v32/gregor14.pdf
+"A Convergence Rate Analysis for LogitBoost, MART and Their Variant",,,https://proceedings.mlr.press/v32/sunc14.html,http://proceedings.mlr.press/v32/sunc14.pdf
+Inferning with High Girth Graphical Models,,,https://proceedings.mlr.press/v32/heinemann14.html,http://proceedings.mlr.press/v32/heinemann14.pdf
+Learning Latent Variable Gaussian Graphical Models,,,https://proceedings.mlr.press/v32/meng14.html,http://proceedings.mlr.press/v32/meng14.pdf
+Stochastic Backpropagation and Approximate Inference in Deep Generative Models,,,https://proceedings.mlr.press/v32/rezende14.html,http://proceedings.mlr.press/v32/rezende14.pdf
+One Practical Algorithm for Both Stochastic and Adversarial Bandits,,,https://proceedings.mlr.press/v32/seldinb14.html,http://proceedings.mlr.press/v32/seldinb14.pdf
+Robust and Efficient Kernel Hyperparameter Paths with Guarantees,,,https://proceedings.mlr.press/v32/giesen14.html,
+Active Transfer Learning under Model Shift,,,https://proceedings.mlr.press/v32/wangi14.html,http://proceedings.mlr.press/v32/wangi14.pdf
+Approximate Policy Iteration Schemes- A Comparison,,,https://proceedings.mlr.press/v32/scherrer14.html,http://proceedings.mlr.press/v32/scherrer14.pdf
+Stable and Efficient Representation Learning with Nonnegativity Constraints,,,https://proceedings.mlr.press/v32/line14.html,
+Sample Efficient Reinforcement Learning with Gaussian Processes,,,https://proceedings.mlr.press/v32/grande14.html,http://proceedings.mlr.press/v32/grande14.pdf
+Memory and Computation Efficient PCA via Very Sparse Random Projections,,,https://proceedings.mlr.press/v32/anaraki14.html,http://proceedings.mlr.press/v32/anaraki14.pdf
+Time-Regularized Interrupting Options (TRIO),,,https://proceedings.mlr.press/v32/mannb14.html,http://proceedings.mlr.press/v32/mannb14.pdf
+Randomized Nonlinear Component Analysis,,,https://proceedings.mlr.press/v32/lopez-paz14.html,
+High Order Regularization for Semi-Supervised Learning of Structured Output Problems,,,https://proceedings.mlr.press/v32/lif14.html,http://proceedings.mlr.press/v32/lif14.pdf
+Transductive Learning with Multi-class Volume Approximation,,,https://proceedings.mlr.press/v32/niu14.html,http://proceedings.mlr.press/v32/niu14.pdf
+Methods of Moments for Learning Stochastic Languages- Unified Presentation and Empirical Comparison,,,https://proceedings.mlr.press/v32/balle14.html,http://proceedings.mlr.press/v32/balle14.pdf
+Effective Bayesian Modeling of Groups of Related Count Time Series,,,https://proceedings.mlr.press/v32/chapados14.html,http://proceedings.mlr.press/v32/chapados14.pdf
+Variational Inference for Sequential Distance Dependent Chinese Restaurant Process,,,https://proceedings.mlr.press/v32/bartunov14.html,
+Discovering Latent Network Structure in Point Process Data,,,https://proceedings.mlr.press/v32/linderman14.html,http://proceedings.mlr.press/v32/linderman14.pdf
+A Kernel Independence Test for Random Processes,,,https://proceedings.mlr.press/v32/chwialkowski14.html,
+Learning to Disentangle Factors of Variation with Manifold Interaction,,,https://proceedings.mlr.press/v32/reed14.html,
+Learning Modular Structures from Network Data and Node Variables,,,https://proceedings.mlr.press/v32/azizi14.html,
+Probabilistic Partial Canonical Correlation Analysis,,,https://proceedings.mlr.press/v32/mukuta14.html,http://proceedings.mlr.press/v32/mukuta14.pdf
+Skip Context Tree Switching,,,https://proceedings.mlr.press/v32/bellemare14.html,http://proceedings.mlr.press/v32/bellemare14.pdf
+Lower Bounds for the Gibbs Sampler over Mixtures of Gaussians,,,https://proceedings.mlr.press/v32/tosh14.html,
+Marginalized Denoising Auto-encoders for Nonlinear Representations,,,https://proceedings.mlr.press/v32/cheng14.html,
+Gaussian Processes for Bayesian Estimation in Ordinary Differential Equations,,,https://proceedings.mlr.press/v32/barber14.html,
+Fast Multi-stage Submodular Maximization,,,https://proceedings.mlr.press/v32/wei14.html,http://proceedings.mlr.press/v32/wei14.pdf
+Programming by Feedback,,,https://proceedings.mlr.press/v32/schoenauer14.html,
+Probabilistic Matrix Factorization with Non-random Missing Data,,,https://proceedings.mlr.press/v32/hernandez-lobatob14.html,http://proceedings.mlr.press/v32/hernandez-lobatob14.pdf
+"Pursuit-Evasion Without Regret, with an Application to Trading",,,https://proceedings.mlr.press/v32/dworkin14.html,
+The f-Adjusted Graph Laplacian- a Diagonal Modification with a Geometric Interpretation,,,https://proceedings.mlr.press/v32/kurras14.html,http://proceedings.mlr.press/v32/kurras14.pdf
+Riemannian Pursuit for Big Matrix Recovery,,,https://proceedings.mlr.press/v32/tan14.html,http://proceedings.mlr.press/v32/tan14.pdf
+Dynamic Programming Boosting for Discriminative Macro-Action Discovery,,,https://proceedings.mlr.press/v32/lefakis14.html,
+Online Stochastic Optimization under Correlated Bandit Feedback,,,https://proceedings.mlr.press/v32/azar14.html,http://proceedings.mlr.press/v32/azar14.pdf
+Weighted Graph Clustering with Non-Uniform Uncertainties,,,https://proceedings.mlr.press/v32/chenh14.html,http://proceedings.mlr.press/v32/chenh14.pdf
+GeNGA- A Generalization of Natural Gradient Ascent with Positive and Negative Convergence Results,,,https://proceedings.mlr.press/v32/thomasb14.html,
+A Bayesian Framework for Online Classifier Ensemble,,,https://proceedings.mlr.press/v32/bai14.html,http://proceedings.mlr.press/v32/bai14.pdf
+Adaptivity and Optimism- An Improved Exponentiated Gradient Algorithm,,,https://proceedings.mlr.press/v32/steinhardtb14.html,http://proceedings.mlr.press/v32/steinhardtb14.pdf
+Gaussian Approximation of Collective Graphical Models,,,https://proceedings.mlr.press/v32/liuf14.html,http://proceedings.mlr.press/v32/liuf14.pdf
+On learning to localize objects with minimal supervision,,,https://proceedings.mlr.press/v32/songb14.html,
+Multiresolution Matrix Factorization,,,https://proceedings.mlr.press/v32/kondor14.html,http://proceedings.mlr.press/v32/kondor14.pdf
+Learnability of the Superset Label Learning Problem,,,https://proceedings.mlr.press/v32/liug14.html,
+Taming the Monster- A Fast and Simple Algorithm for Contextual Bandits,,,https://proceedings.mlr.press/v32/agarwalb14.html,
+Structured Recurrent Temporal Restricted Boltzmann Machines,,,https://proceedings.mlr.press/v32/mittelman14.html,
+Scalable and Robust Bayesian Inference via the Median Posterior,,,https://proceedings.mlr.press/v32/minsker14.html,http://proceedings.mlr.press/v32/minsker14.pdf
+Kernel Adaptive Metropolis-Hastings,,,https://proceedings.mlr.press/v32/sejdinovic14.html,http://proceedings.mlr.press/v32/sejdinovic14.pdf
+Input Warping for Bayesian Optimization of Non-Stationary Functions,,,https://proceedings.mlr.press/v32/snoek14.html,
+Stochastic Gradient Hamiltonian Monte Carlo,,,https://proceedings.mlr.press/v32/cheni14.html,http://proceedings.mlr.press/v32/cheni14.pdf
+A Deep Semi-NMF Model for Learning Hidden Representations,,,https://proceedings.mlr.press/v32/trigeorgis14.html,http://proceedings.mlr.press/v32/trigeorgis14.pdf
+Asynchronous Distributed ADMM for Consensus Optimization,,,https://proceedings.mlr.press/v32/zhange14.html,
+Spectral Regularization for Max-Margin Sequence Tagging,,,https://proceedings.mlr.press/v32/quattoni14.html,
+Learning by Stretching Deep Networks,,,https://proceedings.mlr.press/v32/pandey14.html,http://proceedings.mlr.press/v32/pandey14.pdf
+Nonnegative Sparse PCA with Provable Guarantees,,,https://proceedings.mlr.press/v32/asteris14.html,http://proceedings.mlr.press/v32/asteris14.pdf
+Active Learning of Parameterized Skills,,,https://proceedings.mlr.press/v32/silva14.html,http://proceedings.mlr.press/v32/silva14.pdf
+Learning Ordered Representations with Nested Dropout,,,https://proceedings.mlr.press/v32/rippel14.html,http://proceedings.mlr.press/v32/rippel14.pdf
+Learning the Irreducible Representations of Commutative Lie Groups,,,https://proceedings.mlr.press/v32/cohen14.html,http://proceedings.mlr.press/v32/cohen14.pdf
+Towards End-To-End Speech Recognition with Recurrent Neural Networks,,,https://proceedings.mlr.press/v32/graves14.html,
+Multi-period Trading Prediction Markets with Connections to Machine Learning,,,https://proceedings.mlr.press/v32/hu14.html,http://proceedings.mlr.press/v32/hu14.pdf
+Efficient Gradient-Based Inference through Transformations between Bayes Nets and Neural Nets,,,https://proceedings.mlr.press/v32/kingma14.html,
+Neural Variational Inference and Learning in Belief Networks,,,https://proceedings.mlr.press/v32/mnih14.html,http://proceedings.mlr.press/v32/mnih14.pdf
+Scalable Bayesian Low-Rank Decomposition of Incomplete Multiway Tensors,,,https://proceedings.mlr.press/v32/rai14.html,http://proceedings.mlr.press/v32/rai14.pdf
+Beta Diffusion Trees,,,https://proceedings.mlr.press/v32/heaukulani14.html,
+Learning Character-level Representations for Part-of-Speech Tagging,,,https://proceedings.mlr.press/v32/santos14.html,
+Saddle Points and Accelerated Perceptron Algorithms,,,https://proceedings.mlr.press/v32/yuc14.html,http://proceedings.mlr.press/v32/yuc14.pdf
+Robust Distance Metric Learning via Simultaneous L1-Norm Minimization and Maximization,,,https://proceedings.mlr.press/v32/wangj14.html,
+Learning from Contagion (Without Timestamps),,,https://proceedings.mlr.press/v32/amin14.html,http://proceedings.mlr.press/v32/amin14.pdf
+Stochastic Variational Inference for Bayesian Time Series Models,,,https://proceedings.mlr.press/v32/johnson14.html,
+A Clockwork RNN,,,https://proceedings.mlr.press/v32/koutnik14.html,
+Estimating Latent-Variable Graphical Models using Moments and Likelihoods,,,https://proceedings.mlr.press/v32/chaganty14.html,http://proceedings.mlr.press/v32/chaganty14.pdf
+Universal Matrix Completion,,,https://proceedings.mlr.press/v32/bhojanapalli14.html,http://proceedings.mlr.press/v32/bhojanapalli14.pdf
+Finding Dense Subgraphs via Low-Rank Bilinear Optimization,,,https://proceedings.mlr.press/v32/papailiopoulos14.html,http://proceedings.mlr.press/v32/papailiopoulos14.pdf
+Compositional Morphology for Word Representations and Language Modelling,,,https://proceedings.mlr.press/v32/botha14.html,
+Learning Polynomials with Neural Networks,,,https://proceedings.mlr.press/v32/andoni14.html,
+Exponential Family Matrix Completion under Structural Constraints,,,https://proceedings.mlr.press/v32/gunasekar14.html,http://proceedings.mlr.press/v32/gunasekar14.pdf
+Sample-based approximate regularization,,,https://proceedings.mlr.press/v32/bachman14.html,http://proceedings.mlr.press/v32/bachman14.pdf
+A Compilation Target for Probabilistic Programming Languages,,,https://proceedings.mlr.press/v32/paige14.html,
+Adaptive Monte Carlo via Bandit Allocation,,,https://proceedings.mlr.press/v32/neufeld14.html,http://proceedings.mlr.press/v32/neufeld14.pdf
+Efficient Dimensionality Reduction for High-Dimensional Network Estimation,,,https://proceedings.mlr.press/v32/celik14.html,
+Deterministic Anytime Inference for Stochastic Continuous-Time Markov Processes,,,https://proceedings.mlr.press/v32/celikkaya14.html,
+Doubly Stochastic Variational Bayes for non-Conjugate Inference,,,https://proceedings.mlr.press/v32/titsias14.html,http://proceedings.mlr.press/v32/titsias14.pdf
+Efficient Learning of Mahalanobis Metrics for Ranking,,,https://proceedings.mlr.press/v32/lim14.html,http://proceedings.mlr.press/v32/lim14.pdf
+GEV-Canonical Regression for Accurate Binary Class Probability Estimation when One Class is Rare,,,https://proceedings.mlr.press/v32/agarwalc14.html,http://proceedings.mlr.press/v32/agarwalc14.pdf
+A reversible infinite HMM using normalised random measures,,,https://proceedings.mlr.press/v32/knowles14.html,http://proceedings.mlr.press/v32/knowles14.pdf
+"Structured Low-Rank Matrix Factorization- Optimality, Algorithm, and Applications to Image Processing",,,https://proceedings.mlr.press/v32/haeffele14.html,http://proceedings.mlr.press/v32/haeffele14.pdf
+Influence Function Learning in Information Diffusion Networks,,,https://proceedings.mlr.press/v32/du14.html,http://proceedings.mlr.press/v32/du14.pdf

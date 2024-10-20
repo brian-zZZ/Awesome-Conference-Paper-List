@@ -1,0 +1,6 @@
+beautifulsoup4==4.11.1
+pymupdf==1.24.11
+joblib==1.4.2
+lxml==5.3.0
+pathos==0.3.3
+wordcloud==1.9.3
